@@ -1,0 +1,1583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="http://www.demandware.com/xml/impex/catalog/2006-10-31" catalog-id="belk-master-catalog">
+   <header>
+      <image-settings>
+         <external-location>
+            <http-url>http://belk.scene7.com</http-url>
+            <https-url>https://belk.scene7.com</https-url>
+         </external-location>
+         <view-types>
+            <view-type>imageURL</view-type>
+            <view-type>swatch</view-type>
+         </view-types>
+         <variation-attribute-id>color</variation-attribute-id>
+         <alt-pattern>${productname}</alt-pattern>
+         <title-pattern>${productname}</title-pattern>
+      </image-settings>
+   </header>
+   <product product-id="0438564303105">
+      <upc>0773602400577</upc>
+      <step-quantity>1</step-quantity>
+      <online-flag>true</online-flag>
+      <searchable-flag>true</searchable-flag>
+      <tax-class-id>standard</tax-class-id>
+      <custom-attributes>
+         <custom-attribute attribute-id="isMaster">
+            <value>false</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="skuOrin">
+            <value>280938300</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isGiftBoxEligible">
+            <value>Yes</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="sourcedDomestically">
+            <value>Import</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="directShipFlag">
+            <value>false</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="size">
+            <value>00000_OneSize</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="color">
+            <value>000280938297</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="nrfSizeCode">
+            <value><![CDATA[00000]]></value>
+         </custom-attribute>
+         <custom-attribute attribute-id="omniSizeDesc">
+            <value><![CDATA[One Size]]></value>
+         </custom-attribute>
+         <custom-attribute attribute-id="refinementSize">
+            <value><![CDATA[One Size]]></value>
+         </custom-attribute>
+         <custom-attribute attribute-id="refinementColor">
+            <value>black</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="nrfColorCode">
+            <value>000</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="omniChannelColorDescription">
+            <value>Black</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="vendorSizeDescription">
+            <value>No Size</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="vendorColorDescription">
+            <value>No Color</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Expedited_Shipping">
+            <value>Y</value>
+         </custom-attribute>
+      </custom-attributes>
+   </product>
+   <product product-id="0438564311117">
+      <upc>0773602400454</upc>
+      <step-quantity>1</step-quantity>
+      <online-flag>true</online-flag>
+      <searchable-flag>true</searchable-flag>
+      <tax-class-id>standard</tax-class-id>
+      <custom-attributes>
+         <custom-attribute attribute-id="isMaster">
+            <value>false</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="skuOrin">
+            <value>280938481</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isGiftBoxEligible">
+            <value>Yes</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="sourcedDomestically">
+            <value>Import</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="directShipFlag">
+            <value>false</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="size">
+            <value>00000_OneSize</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="color">
+            <value>000280938431</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="nrfSizeCode">
+            <value><![CDATA[00000]]></value>
+         </custom-attribute>
+         <custom-attribute attribute-id="omniSizeDesc">
+            <value><![CDATA[One Size]]></value>
+         </custom-attribute>
+         <custom-attribute attribute-id="refinementSize">
+            <value><![CDATA[One Size]]></value>
+         </custom-attribute>
+         <custom-attribute attribute-id="refinementColor">
+            <value>black</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="nrfColorCode">
+            <value>000</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="omniChannelColorDescription">
+            <value>Black</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="vendorSizeDescription">
+            <value>No Size</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="vendorColorDescription">
+            <value>No Color</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Expedited_Shipping">
+            <value>Y</value>
+         </custom-attribute>
+      </custom-attributes>
+   </product>
+   <product product-id="0480004675754">
+      <upc>0480004675754</upc>
+      <step-quantity>1</step-quantity>
+      <online-flag>true</online-flag>
+      <searchable-flag>true</searchable-flag>
+      <tax-class-id>standard</tax-class-id>
+      <custom-attributes>
+         <custom-attribute attribute-id="isMaster">
+            <value>false</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="skuOrin">
+            <value>289096903</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isGiftBoxEligible">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="sourcedDomestically">
+            <value>Import</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="directShipFlag">
+            <value>false</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="size">
+            <value>00000_36x72</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="color">
+            <value>843289096891</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="nrfSizeCode">
+            <value><![CDATA[00000]]></value>
+         </custom-attribute>
+         <custom-attribute attribute-id="omniSizeDesc">
+            <value><![CDATA[36 x 72]]></value>
+         </custom-attribute>
+         <custom-attribute attribute-id="refinementSize">
+            <value><![CDATA[36 x 72]]></value>
+         </custom-attribute>
+         <custom-attribute attribute-id="refinementColor">
+            <value>orange</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="nrfColorCode">
+            <value>843</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="omniChannelColorDescription">
+            <value>Orange</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="vendorSizeDescription">
+            <value>No Size</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="vendorColorDescription">
+            <value>Coral Cast</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Expedited_Shipping">
+            <value>Y</value>
+         </custom-attribute>
+      </custom-attributes>
+   </product>
+   <product product-id="0480004675822">
+      <upc>0480004675822</upc>
+      <step-quantity>1</step-quantity>
+      <online-flag>true</online-flag>
+      <searchable-flag>true</searchable-flag>
+      <tax-class-id>standard</tax-class-id>
+      <custom-attributes>
+         <custom-attribute attribute-id="isMaster">
+            <value>false</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="skuOrin">
+            <value>289097041</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isGiftBoxEligible">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="sourcedDomestically">
+            <value>Import</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="directShipFlag">
+            <value>false</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="size">
+            <value>00000_36x72</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="color">
+            <value>618289097033</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="nrfSizeCode">
+            <value><![CDATA[00000]]></value>
+         </custom-attribute>
+         <custom-attribute attribute-id="omniSizeDesc">
+            <value><![CDATA[36 x 72]]></value>
+         </custom-attribute>
+         <custom-attribute attribute-id="refinementSize">
+            <value><![CDATA[36 x 72]]></value>
+         </custom-attribute>
+         <custom-attribute attribute-id="refinementColor">
+            <value>red</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="nrfColorCode">
+            <value>618</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="omniChannelColorDescription">
+            <value>Red</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="vendorSizeDescription">
+            <value>No Size</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="vendorColorDescription">
+            <value>Caban Red</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Expedited_Shipping">
+            <value>Y</value>
+         </custom-attribute>
+      </custom-attributes>
+   </product>
+   <product product-id="5900090S2XJ60">
+      <display-name>ULTRPRMRY DISPLAYER</display-name>
+      <short-description>ULTRPRMRY DISPLAYER280938297280938297280938297280938297</short-description>
+      <long-description>testing</long-description>
+      <online-flag>true</online-flag>
+      <searchable-flag>true</searchable-flag>
+      <tax-class-id>standard</tax-class-id>
+      <brand><![CDATA[MAC]]></brand>
+      <sitemap-included-flag>true</sitemap-included-flag>
+      <custom-attributes>
+         <custom-attribute attribute-id="isMaster">
+            <value>true</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="orin">
+            <value>280938297</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="deptNumber">
+            <value>612</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="demandCtr">
+            <value>70</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="classNumber">
+            <value>6738</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="fobNumber">
+            <value>24</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="vendorNumber">
+            <value>5900090</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="styleNumber">
+            <value>S2XJ60</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="deptName">
+            <value>MAC</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="demandCtrName">
+            <value>COSMETICS</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="className">
+            <value>GWP/COLLATRL</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="fobName">
+            <value>CENTER CORE</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="vendorName">
+            <value>MAKE-UP ART COSMETICS</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphCategory">
+            <value>Item_Primary_Hierarchy///4174-Beauty///4205-Makeup///4206-Eyes///4208-Eyebrows</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL1">
+            <value>Beauty</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL2">
+            <value>Makeup</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL3">
+            <value>Eyes</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL4">
+            <value>Eyebrows</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="belkExclusive">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isPYG">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isGWP">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isPWP">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="productCopyText">
+            <value>testing</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine1">
+            <value>testing</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine2">
+            <value>testing</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine3">
+            <value>testing</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine4">
+            <value>testing</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine5">
+            <value>testing</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyMaterial">
+            <value>testing</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyCare">
+            <value>testing</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyCountryOfOrigin">
+            <value>testing</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyExclusive">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyImportDomestic">
+            <value>Import</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyCAProp65Compliant">
+            <value>T</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="defaultSkuCode">
+            <value>0438564303105</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="mirVendorNumber">
+            <value>5900090</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Hex_Color">
+            <value>test</value>
+         </custom-attribute>
+      </custom-attributes>
+   </product>
+   <product product-id="5900090S2X670">
+      <display-name>LIGHTBOX SMALL 29</display-name>
+      <short-description>LIGHTBOX SMALL 29280938431280938431280938431</short-description>
+      <long-description>test</long-description>
+      <online-flag>true</online-flag>
+      <searchable-flag>true</searchable-flag>
+      <tax-class-id>standard</tax-class-id>
+      <brand><![CDATA[MAC]]></brand>
+      <sitemap-included-flag>true</sitemap-included-flag>
+      <custom-attributes>
+         <custom-attribute attribute-id="isMaster">
+            <value>true</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="orin">
+            <value>280938431</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="deptNumber">
+            <value>612</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="demandCtr">
+            <value>70</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="classNumber">
+            <value>6738</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="fobNumber">
+            <value>24</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="vendorNumber">
+            <value>5900090</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="styleNumber">
+            <value>S2X670</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="deptName">
+            <value>MAC</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="demandCtrName">
+            <value>COSMETICS</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="className">
+            <value>GWP/COLLATRL</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="fobName">
+            <value>CENTER CORE</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="vendorName">
+            <value>MAKE-UP ART COSMETICS</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphCategory">
+            <value>Item_Primary_Hierarchy///4174-Beauty///4205-Makeup///4206-Eyes///4208-Eyebrows</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL1">
+            <value>Beauty</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL2">
+            <value>Makeup</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL3">
+            <value>Eyes</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL4">
+            <value>Eyebrows</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="belkExclusive">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isPYG">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isGWP">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isPWP">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="productCopyText">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine1">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine2">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine3">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine4">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine5">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyExclusive">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyImportDomestic">
+            <value>Import</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyCAProp65Compliant">
+            <value>T</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="defaultSkuCode">
+            <value>0438564311117</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="mirVendorNumber">
+            <value>5900090</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Hex_Color">
+            <value>test</value>
+         </custom-attribute>
+      </custom-attributes>
+   </product>
+   <product product-id="92001107460455">
+      <display-name>FR CRAB WALK</display-name>
+      <short-description>FR CRAB WALK289096891289096891289096891289096891</short-description>
+      <long-description>Test</long-description>
+      <online-flag>true</online-flag>
+      <searchable-flag>true</searchable-flag>
+      <tax-class-id>standard</tax-class-id>
+      <brand><![CDATA[Home Accents&amp;reg;]]></brand>
+      <sitemap-included-flag>true</sitemap-included-flag>
+      <custom-attributes>
+         <custom-attribute attribute-id="isMaster">
+            <value>true</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="orin">
+            <value>289096891</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="deptNumber">
+            <value>746</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="demandCtr">
+            <value>109</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="classNumber">
+            <value>9350</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="fobNumber">
+            <value>54</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="vendorNumber">
+            <value>9200110</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="styleNumber">
+            <value>7460455</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="deptName">
+            <value>BATH/RUGS</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="demandCtrName">
+            <value>SOFT HOME</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="className">
+            <value>SEASONAL</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="fobName">
+            <value>HOME</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="vendorName">
+            <value>HOME ACCENTS/BELK INT&amp;apos;L</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphCategory">
+            <value>Item_Primary_Hierarchy///4269-For_the_Home///4270-Bed_and_Bath///4271-Bath///4272-Bath_Accessory_Sets</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL1">
+            <value>For_the_Home</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL2">
+            <value>Bed_and_Bath</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL3">
+            <value>Bath</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL4">
+            <value>Bath_Accessory_Sets</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="belkExclusive">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isPYG">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isGWP">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isPWP">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="productCopyText">
+            <value>Test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine1">
+            <value>Test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine2">
+            <value>Test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine3">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine4">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine5">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyCAProp65Compliant">
+            <value>T</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="defaultSkuCode">
+            <value>0480004675754</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="mirVendorNumber">
+            <value>9200110</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Made_in_the_USA">
+            <value>Yes</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Material">
+            <value>wool</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Number_of_Pieces">
+            <value>258</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Warranty">
+            <value>Yes</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Care">
+            <value>Dishwasher safe</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Accessory_Type">
+            <value>Cotton jar</value>
+         </custom-attribute>
+      </custom-attributes>
+   </product>
+   <product product-id="92001107460462">
+      <display-name>JQ CABANA STRIPE RED</display-name>
+      <short-description>JQ CABANA STRIPE RED289097033289097033289097033</short-description>
+      <long-description>test</long-description>
+      <online-flag>true</online-flag>
+      <searchable-flag>true</searchable-flag>
+      <tax-class-id>standard</tax-class-id>
+      <brand><![CDATA[Home Accents&amp;reg;]]></brand>
+      <sitemap-included-flag>true</sitemap-included-flag>
+      <custom-attributes>
+         <custom-attribute attribute-id="isMaster">
+            <value>true</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="orin">
+            <value>289097033</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="deptNumber">
+            <value>746</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="demandCtr">
+            <value>109</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="classNumber">
+            <value>9350</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="fobNumber">
+            <value>54</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="vendorNumber">
+            <value>9200110</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="styleNumber">
+            <value>7460462</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="deptName">
+            <value>BATH/RUGS</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="demandCtrName">
+            <value>SOFT HOME</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="className">
+            <value>SEASONAL</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="fobName">
+            <value>HOME</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="vendorName">
+            <value>HOME ACCENTS/BELK INT&amp;apos;L</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphCategory">
+            <value>Item_Primary_Hierarchy///4269-For_the_Home///4270-Bed_and_Bath///4271-Bath///4272-Bath_Accessory_Sets</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL1">
+            <value>For_the_Home</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL2">
+            <value>Bed_and_Bath</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL3">
+            <value>Bath</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL4">
+            <value>Bath_Accessory_Sets</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="belkExclusive">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isPYG">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isGWP">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isPWP">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="productCopyText">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine1">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine2">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine3">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine4">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine5">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyCAProp65Compliant">
+            <value>T</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="defaultSkuCode">
+            <value>0480004675822</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="mirVendorNumber">
+            <value>9200110</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Made_in_the_USA">
+            <value>Yes</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Material">
+            <value>wool</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Number_of_Pieces">
+            <value>147</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Warranty">
+            <value>Yes</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Care">
+            <value>Dishwasher safe</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Accessory_Type">
+            <value>Cotton jar</value>
+         </custom-attribute>
+      </custom-attributes>
+   </product>
+   <product product-id="5900090S2XJ60">
+      <display-name>ULTRPRMRY DISPLAYER</display-name>
+      <short-description>ULTRPRMRY DISPLAYER280938297280938297280938297280938297</short-description>
+      <long-description>testing</long-description>
+      <online-flag>true</online-flag>
+      <searchable-flag>true</searchable-flag>
+      <images>
+         <image-group view-type="imageURL">
+            <image path="/is/image/Belk?layer=0&amp;src=3205465_1585051_A_818_T10L00&amp;layer=comp&amp;" />
+         </image-group>
+         <image-group view-type="imageURL" variation-value="000280938297">
+            <image path="/is/image/Belk?layer=0&amp;src=3205465_1585051_A_818_T10L00&amp;layer=comp&amp;" />
+         </image-group>
+         <image-group view-type="swatch" variation-value="000280938297">
+            <image path="/is/image/Belk?layer=0&amp;src=3205465_1585051_A_818_T10L00&amp;crop=1061,993,120,120&amp;layer=comp&amp;" />
+         </image-group>
+      </images>
+      <tax-class-id>standard</tax-class-id>
+      <brand><![CDATA[MAC]]></brand>
+      <sitemap-included-flag>true</sitemap-included-flag>
+      <custom-attributes>
+         <custom-attribute attribute-id="isMaster">
+            <value>true</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="orin">
+            <value>280938297</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="deptNumber">
+            <value>612</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="demandCtr">
+            <value>70</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="classNumber">
+            <value>6738</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="fobNumber">
+            <value>24</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="vendorNumber">
+            <value>5900090</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="styleNumber">
+            <value>S2XJ60</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="deptName">
+            <value>MAC</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="demandCtrName">
+            <value>COSMETICS</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="className">
+            <value>GWP/COLLATRL</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="fobName">
+            <value>CENTER CORE</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="vendorName">
+            <value>MAKE-UP ART COSMETICS</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphCategory">
+            <value>Item_Primary_Hierarchy///4174-Beauty///4205-Makeup///4206-Eyes///4208-Eyebrows</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL1">
+            <value>Beauty</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL2">
+            <value>Makeup</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL3">
+            <value>Eyes</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL4">
+            <value>Eyebrows</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="belkExclusive">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isPYG">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isGWP">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isPWP">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="productCopyText">
+            <value>testing</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine1">
+            <value>testing</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine2">
+            <value>testing</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine3">
+            <value>testing</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine4">
+            <value>testing</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine5">
+            <value>testing</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyMaterial">
+            <value>testing</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyCare">
+            <value>testing</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyCountryOfOrigin">
+            <value>testing</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyExclusive">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyImportDomestic">
+            <value>Import</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyCAProp65Compliant">
+            <value>T</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="defaultSkuCode">
+            <value>0438564303105</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="mirVendorNumber">
+            <value>5900090</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Hex_Color">
+            <value>test</value>
+         </custom-attribute>
+      </custom-attributes>
+      <variations>
+         <attributes>
+            <variation-attribute attribute-id="color" variation-attribute-id="color">
+               <display-name>color</display-name>
+               <variation-attribute-values>
+                  <variation-attribute-value value="000280938297">
+                     <display-value>Black</display-value>
+                  </variation-attribute-value>
+               </variation-attribute-values>
+            </variation-attribute>
+            <variation-attribute attribute-id="size" variation-attribute-id="size">
+               <display-name>size</display-name>
+               <variation-attribute-values>
+                  <variation-attribute-value value="00000_OneSize">
+                     <display-value>One Size</display-value>
+                  </variation-attribute-value>
+               </variation-attribute-values>
+            </variation-attribute>
+         </attributes>
+         <variants>
+            <variant product-id="0438564303105" default="false" />
+         </variants>
+      </variations>
+   </product>
+   <product product-id="5900090S2X670">
+      <display-name>LIGHTBOX SMALL 29</display-name>
+      <short-description>LIGHTBOX SMALL 29280938431280938431280938431</short-description>
+      <long-description>test</long-description>
+      <online-flag>true</online-flag>
+      <searchable-flag>true</searchable-flag>
+      <images>
+         <image-group view-type="imageURL">
+            <image path="/is/image/Belk?layer=0&amp;src=3205465_1585051_A_818_T10L00&amp;layer=comp&amp;" />
+         </image-group>
+         <image-group view-type="imageURL" variation-value="000280938431">
+            <image path="/is/image/Belk?layer=0&amp;src=3205465_1585051_A_818_T10L00&amp;layer=comp&amp;" />
+         </image-group>
+         <image-group view-type="swatch" variation-value="000280938431">
+            <image path="/is/image/Belk?layer=0&amp;src=3205465_1585051_A_818_T10L00&amp;crop=1061,993,120,120&amp;layer=comp&amp;" />
+         </image-group>
+      </images>
+      <tax-class-id>standard</tax-class-id>
+      <brand><![CDATA[MAC]]></brand>
+      <sitemap-included-flag>true</sitemap-included-flag>
+      <custom-attributes>
+         <custom-attribute attribute-id="isMaster">
+            <value>true</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="orin">
+            <value>280938431</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="deptNumber">
+            <value>612</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="demandCtr">
+            <value>70</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="classNumber">
+            <value>6738</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="fobNumber">
+            <value>24</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="vendorNumber">
+            <value>5900090</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="styleNumber">
+            <value>S2X670</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="deptName">
+            <value>MAC</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="demandCtrName">
+            <value>COSMETICS</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="className">
+            <value>GWP/COLLATRL</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="fobName">
+            <value>CENTER CORE</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="vendorName">
+            <value>MAKE-UP ART COSMETICS</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphCategory">
+            <value>Item_Primary_Hierarchy///4174-Beauty///4205-Makeup///4206-Eyes///4208-Eyebrows</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL1">
+            <value>Beauty</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL2">
+            <value>Makeup</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL3">
+            <value>Eyes</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL4">
+            <value>Eyebrows</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="belkExclusive">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isPYG">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isGWP">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isPWP">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="productCopyText">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine1">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine2">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine3">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine4">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine5">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyExclusive">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyImportDomestic">
+            <value>Import</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyCAProp65Compliant">
+            <value>T</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="defaultSkuCode">
+            <value>0438564311117</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="mirVendorNumber">
+            <value>5900090</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Hex_Color">
+            <value>test</value>
+         </custom-attribute>
+      </custom-attributes>
+      <variations>
+         <attributes>
+            <variation-attribute attribute-id="color" variation-attribute-id="color">
+               <display-name>color</display-name>
+               <variation-attribute-values>
+                  <variation-attribute-value value="000280938431">
+                     <display-value>Black</display-value>
+                  </variation-attribute-value>
+               </variation-attribute-values>
+            </variation-attribute>
+            <variation-attribute attribute-id="size" variation-attribute-id="size">
+               <display-name>size</display-name>
+               <variation-attribute-values>
+                  <variation-attribute-value value="00000_OneSize">
+                     <display-value>One Size</display-value>
+                  </variation-attribute-value>
+               </variation-attribute-values>
+            </variation-attribute>
+         </attributes>
+         <variants>
+            <variant product-id="0438564311117" default="false" />
+         </variants>
+      </variations>
+   </product>
+   <product product-id="92001107460455">
+      <display-name>FR CRAB WALK</display-name>
+      <short-description>FR CRAB WALK289096891289096891289096891289096891</short-description>
+      <long-description>Test</long-description>
+      <online-flag>true</online-flag>
+      <searchable-flag>true</searchable-flag>
+      <images>
+         <image-group view-type="imageURL">
+            <image path="/is/image/Belk?layer=0&amp;src=3205465_1585051_A_818_T10L00&amp;layer=comp&amp;" />
+         </image-group>
+         <image-group view-type="imageURL" variation-value="843289096891">
+            <image path="/is/image/Belk?layer=0&amp;src=3205465_1585051_A_818_T10L00&amp;layer=comp&amp;" />
+         </image-group>
+         <image-group view-type="swatch" variation-value="843289096891">
+            <image path="/is/image/Belk?layer=0&amp;src=3205465_1585051_A_818_T10L00&amp;crop=1061,993,120,120&amp;layer=comp&amp;" />
+         </image-group>
+      </images>
+      <tax-class-id>standard</tax-class-id>
+      <brand><![CDATA[Home Accents&amp;reg;]]></brand>
+      <sitemap-included-flag>true</sitemap-included-flag>
+      <custom-attributes>
+         <custom-attribute attribute-id="isMaster">
+            <value>true</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="orin">
+            <value>289096891</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="deptNumber">
+            <value>746</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="demandCtr">
+            <value>109</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="classNumber">
+            <value>9350</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="fobNumber">
+            <value>54</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="vendorNumber">
+            <value>9200110</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="styleNumber">
+            <value>7460455</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="deptName">
+            <value>BATH/RUGS</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="demandCtrName">
+            <value>SOFT HOME</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="className">
+            <value>SEASONAL</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="fobName">
+            <value>HOME</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="vendorName">
+            <value>HOME ACCENTS/BELK INT&amp;apos;L</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphCategory">
+            <value>Item_Primary_Hierarchy///4269-For_the_Home///4270-Bed_and_Bath///4271-Bath///4272-Bath_Accessory_Sets</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL1">
+            <value>For_the_Home</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL2">
+            <value>Bed_and_Bath</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL3">
+            <value>Bath</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL4">
+            <value>Bath_Accessory_Sets</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="belkExclusive">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isPYG">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isGWP">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isPWP">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="productCopyText">
+            <value>Test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine1">
+            <value>Test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine2">
+            <value>Test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine3">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine4">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine5">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyCAProp65Compliant">
+            <value>T</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="defaultSkuCode">
+            <value>0480004675754</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="mirVendorNumber">
+            <value>9200110</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Made_in_the_USA">
+            <value>Yes</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Material">
+            <value>wool</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Number_of_Pieces">
+            <value>258</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Warranty">
+            <value>Yes</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Care">
+            <value>Dishwasher safe</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Accessory_Type">
+            <value>Cotton jar</value>
+         </custom-attribute>
+      </custom-attributes>
+      <variations>
+         <attributes>
+            <variation-attribute attribute-id="color" variation-attribute-id="color">
+               <display-name>color</display-name>
+               <variation-attribute-values>
+                  <variation-attribute-value value="843289096891">
+                     <display-value>Orange</display-value>
+                  </variation-attribute-value>
+               </variation-attribute-values>
+            </variation-attribute>
+            <variation-attribute attribute-id="size" variation-attribute-id="size">
+               <display-name>size</display-name>
+               <variation-attribute-values>
+                  <variation-attribute-value value="00000_36x72">
+                     <display-value>36 x 72</display-value>
+                  </variation-attribute-value>
+               </variation-attribute-values>
+            </variation-attribute>
+         </attributes>
+         <variants>
+            <variant product-id="0480004675754" default="false" />
+         </variants>
+      </variations>
+   </product>
+   <product product-id="92001107460462">
+      <display-name>JQ CABANA STRIPE RED</display-name>
+      <short-description>JQ CABANA STRIPE RED289097033289097033289097033</short-description>
+      <long-description>test</long-description>
+      <online-flag>true</online-flag>
+      <searchable-flag>true</searchable-flag>
+      <images>
+         <image-group view-type="imageURL">
+            <image path="/is/image/Belk?layer=0&amp;src=3205465_1585051_A_818_T10L00&amp;layer=comp&amp;" />
+         </image-group>
+         <image-group view-type="imageURL" variation-value="618289097033">
+            <image path="/is/image/Belk?layer=0&amp;src=3205465_1585051_A_818_T10L00&amp;layer=comp&amp;" />
+         </image-group>
+         <image-group view-type="swatch" variation-value="618289097033">
+            <image path="/is/image/Belk?layer=0&amp;src=3205465_1585051_A_818_T10L00&amp;crop=1061,993,120,120&amp;layer=comp&amp;" />
+         </image-group>
+      </images>
+      <tax-class-id>standard</tax-class-id>
+      <brand><![CDATA[Home Accents&amp;reg;]]></brand>
+      <sitemap-included-flag>true</sitemap-included-flag>
+      <custom-attributes>
+         <custom-attribute attribute-id="isMaster">
+            <value>true</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="orin">
+            <value>289097033</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="deptNumber">
+            <value>746</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="demandCtr">
+            <value>109</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="classNumber">
+            <value>9350</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="fobNumber">
+            <value>54</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="vendorNumber">
+            <value>9200110</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="styleNumber">
+            <value>7460462</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="deptName">
+            <value>BATH/RUGS</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="demandCtrName">
+            <value>SOFT HOME</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="className">
+            <value>SEASONAL</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="fobName">
+            <value>HOME</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="vendorName">
+            <value>HOME ACCENTS/BELK INT&amp;apos;L</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphCategory">
+            <value>Item_Primary_Hierarchy///4269-For_the_Home///4270-Bed_and_Bath///4271-Bath///4272-Bath_Accessory_Sets</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL1">
+            <value>For_the_Home</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL2">
+            <value>Bed_and_Bath</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL3">
+            <value>Bath</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL4">
+            <value>Bath_Accessory_Sets</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="belkExclusive">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isPYG">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isGWP">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="isPWP">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="productCopyText">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine1">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine2">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine3">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine4">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine5">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyCAProp65Compliant">
+            <value>T</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="defaultSkuCode">
+            <value>0480004675822</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="mirVendorNumber">
+            <value>9200110</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Made_in_the_USA">
+            <value>Yes</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Material">
+            <value>wool</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Number_of_Pieces">
+            <value>147</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Warranty">
+            <value>Yes</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Care">
+            <value>Dishwasher safe</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="Accessory_Type">
+            <value>Cotton jar</value>
+         </custom-attribute>
+      </custom-attributes>
+      <variations>
+         <attributes>
+            <variation-attribute attribute-id="color" variation-attribute-id="color">
+               <display-name>color</display-name>
+               <variation-attribute-values>
+                  <variation-attribute-value value="618289097033">
+                     <display-value>Red</display-value>
+                  </variation-attribute-value>
+               </variation-attribute-values>
+            </variation-attribute>
+            <variation-attribute attribute-id="size" variation-attribute-id="size">
+               <display-name>size</display-name>
+               <variation-attribute-values>
+                  <variation-attribute-value value="00000_36x72">
+                     <display-value>36 x 72</display-value>
+                  </variation-attribute-value>
+               </variation-attribute-values>
+            </variation-attribute>
+         </attributes>
+         <variants>
+            <variant product-id="0480004675822" default="false" />
+         </variants>
+      </variations>
+   </product>
+   <product product-id="99999991105811">
+      <display-name>TEST NEW BCG DWRE</display-name>
+      <short-description>TEST NEW BCG DWRETEST NEW BCG DWRETEST NEW BCG DWRE</short-description>
+      <long-description>test</long-description>
+      <online-flag>true</online-flag>
+      <online-from>2017-01-17T05:00:00</online-from>
+      <searchable-flag>true</searchable-flag>
+      <images>
+         <image-group view-type="imageURL">
+            <image path="is/image/Belk?layer=0&amp;src=3205465_1585051_A_818_T10L00&amp;layer=comp&amp;" />
+         </image-group>
+         <image-group view-type="swatch">
+            <image path="is/image/Belk?layer=0&amp;src=3205465_1585051_A_818_T10L00&amp;crop=1061,993,120,120&amp;layer=comp&amp;" />
+         </image-group>
+      </images>
+      <tax-class-id>standard</tax-class-id>
+      <brand />
+      <sitemap-included-flag>true</sitemap-included-flag>
+      <custom-attributes>
+         <custom-attribute attribute-id="orin">
+            <value>1105811</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphCategory">
+            <value>Item_Primary_Hierarchy///6220-Product_Grouping///6225-Beauty_Collection</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL1">
+            <value>Beauty</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL2">
+            <value>Makeup</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL3">
+            <value>Eyes</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL4">
+            <value>Eyebrows</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="productCopyText">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine1">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine2">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine3">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine4">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine5">
+            <value>test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyExclusive">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyCAProp65Compliant">
+            <value>T</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="defaultSkuCode">
+            <value>dsku100060236</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="groupingType">
+            <value>BCG</value>
+         </custom-attribute>
+      </custom-attributes>
+      <product-set-products>
+         <product-set-product product-id="0438564303105" />
+         <product-set-product product-id="0438564311117" />
+      </product-set-products>
+   </product>
+   <product product-id="92001101105815">
+      <display-name>Test new RCG DWRE</display-name>
+      <short-description>Test new RCG DWRETest new RCG DWRETest new RCG DWRETest new RCG DWRE</short-description>
+      <long-description>Test</long-description>
+      <online-flag>true</online-flag>
+      <searchable-flag>true</searchable-flag>
+      <images>
+         <image-group view-type="imageURL">
+            <image path="is/image/Belk?layer=0&amp;src=3205465_1585051_A_818_T10L00&amp;layer=comp&amp;" />
+         </image-group>
+         <image-group view-type="swatch">
+            <image path="is/image/Belk?layer=0&amp;src=3205465_1585051_A_818_T10L00&amp;crop=1061,993,120,120&amp;layer=comp&amp;" />
+         </image-group>
+      </images>
+      <tax-class-id>standard</tax-class-id>
+      <brand />
+      <sitemap-included-flag>true</sitemap-included-flag>
+      <custom-attributes>
+         <custom-attribute attribute-id="orin">
+            <value>1105815</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphCategory">
+            <value>Item_Primary_Hierarchy///6220-Product_Grouping///6224-For_the_Home_Collection</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL1">
+            <value>For_the_Home</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL2">
+            <value>Bed_and_Bath</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL3">
+            <value>Bath</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL4">
+            <value>Bath_Accessory_Sets</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="productCopyText">
+            <value>Test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine1">
+            <value>Test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine2">
+            <value>Test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine3">
+            <value>Test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine4">
+            <value>Test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine5">
+            <value>Test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyMaterial">
+            <value>wool</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyCare">
+            <value>Dishwasher safe</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyExclusive">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyImportDomestic">
+            <value>Import</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyCAProp65Compliant">
+            <value>T</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="defaultSkuCode">
+            <value>dsku100060238</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="groupingType">
+            <value>RCG</value>
+         </custom-attribute>
+      </custom-attributes>
+      <product-set-products>
+         <product-set-product product-id="92001107460455" />
+         <product-set-product product-id="92001107460462" />
+      </product-set-products>
+   </product>
+   <product product-id="92001101105815">
+      <display-name>Test new RCG DWRE</display-name>
+      <short-description>Test new RCG DWRETest new RCG DWRETest new RCG DWRETest new RCG DWRE</short-description>
+      <long-description>Test</long-description>
+      <online-flag>true</online-flag>
+      <searchable-flag>true</searchable-flag>
+      <images>
+         <image-group view-type="imageURL">
+            <image path="is/image/Belk?layer=0&amp;src=3205465_1585051_A_818_T10L00&amp;layer=comp&amp;" />
+         </image-group>
+         <image-group view-type="swatch">
+            <image path="is/image/Belk?layer=0&amp;src=3205465_1585051_A_818_T10L00&amp;crop=1061,993,120,120&amp;layer=comp&amp;" />
+         </image-group>
+      </images>
+      <tax-class-id>standard</tax-class-id>
+      <brand />
+      <sitemap-included-flag>true</sitemap-included-flag>
+      <custom-attributes>
+         <custom-attribute attribute-id="orin">
+            <value>1105815</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphCategory">
+            <value>Item_Primary_Hierarchy///6220-Product_Grouping///6224-For_the_Home_Collection</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL1">
+            <value>For_the_Home</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL2">
+            <value>Bed_and_Bath</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL3">
+            <value>Bath</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="iphL4">
+            <value>Bath_Accessory_Sets</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="productCopyText">
+            <value>Test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine1">
+            <value>Test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine2">
+            <value>Test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine3">
+            <value>Test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine4">
+            <value>Test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyLine5">
+            <value>Test</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyMaterial">
+            <value>wool</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyCare">
+            <value>Dishwasher safe</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyExclusive">
+            <value>No</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyImportDomestic">
+            <value>Import</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="copyCAProp65Compliant">
+            <value>T</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="defaultSkuCode">
+            <value>dsku100060238</value>
+         </custom-attribute>
+         <custom-attribute attribute-id="groupingType">
+            <value>RCG</value>
+         </custom-attribute>
+      </custom-attributes>
+      <product-set-products>
+         <product-set-product product-id="92001107460455" />
+         <product-set-product product-id="92001107460462" />
+      </product-set-products>
+   </product>
+</catalog>

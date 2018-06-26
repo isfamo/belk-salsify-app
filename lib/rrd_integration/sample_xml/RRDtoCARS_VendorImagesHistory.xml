@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carsMessage from="RRD" to="CARS" type="vendorImagesHistory">
+  <VendorImageHistories>
+    <VendorImage id="620770">
+      <name>1501300_RD17U378A_B_625.psd</name>
+    </VendorImage>
+    <VendorImage id="620309">
+      <name>2600368_57731_A_708.psd</name>
+    </VendorImage>
+  </VendorImageHistories>
+</carsMessage>

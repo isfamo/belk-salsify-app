@@ -1,0 +1,2 @@
+class SalsifyToPimLog < ApplicationRecord
+end

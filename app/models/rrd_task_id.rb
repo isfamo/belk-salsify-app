@@ -1,0 +1,2 @@
+class RrdTaskId < ApplicationRecord
+end

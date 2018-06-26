@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carsMessage from="RRD" to="CARS" type="vendorImagesCreativeResults">
+  <image image_id="129">
+    <check type="CREATIVE">Reject</check>
+    <reasons>
+      <reason>Invalid Format</reason>
+    </reasons>
+  </image>
+  <image image_id="222">
+    <check type="CREATIVE">Conditional Approval</check>
+    <reasons>
+      <reason>Retouch</reason>
+    </reasons>
+    <reviewComments>
+      <comment>smooth &amp; balance skintones. extend legs to fit style guide template</comment>
+      <comment>swim bckgrd 040</comment>
+    </reviewComments>
+  </image>
+</carsMessage>

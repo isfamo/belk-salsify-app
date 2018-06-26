@@ -1,0 +1,2 @@
+class RrdRequestedSample < ApplicationRecord
+end

@@ -1,0 +1,1086 @@
+<carsMessage from="RRD" to="CARS" type="update">
+  <histories>
+    <sampleHistories>
+      <history>
+        <sample id="83866"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:25 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:27 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:16 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:39 EST"/>
+      </history>
+      <history>
+        <sample id="85097"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:11 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:24 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:14 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:42 EST"/>
+      </history>
+      <history>
+        <sample id="85301"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:26 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:28 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:17 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:41 EST"/>
+      </history>
+      <history>
+        <sample id="85863"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:11 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:23 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:13 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:42 EST"/>
+      </history>
+      <history>
+        <sample id="85864"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:11 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:27 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:16 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:43 EST"/>
+      </history>
+      <history>
+        <sample id="86424"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:56 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:53 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:16 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:18 EST"/>
+      </history>
+      <history>
+        <sample id="86425"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:56 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:55 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:18 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:21 EST"/>
+      </history>
+      <history>
+        <sample id="86802"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:26 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:25 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:14 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:40 EST"/>
+      </history>
+      <history>
+        <sample id="90938"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:12 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:27 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:16 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:39 EST"/>
+      </history>
+      <history>
+        <sample id="90945"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:12 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:26 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:15 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:39 EST"/>
+      </history>
+      <history>
+        <sample id="92233"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:26 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:25 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:14 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:38 EST"/>
+      </history>
+      <history>
+        <sample id="93092"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:56 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:55 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:18 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:21 EST"/>
+      </history>
+      <history>
+        <sample id="93094"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:57 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:56 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:19 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:21 EST"/>
+      </history>
+      <history>
+        <sample id="93095"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:57 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:55 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:18 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:21 EST"/>
+      </history>
+      <history>
+        <sample id="93099"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:57 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:52 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:15 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:18 EST"/>
+      </history>
+      <history>
+        <sample id="93263"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:12 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:24 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:13 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:41 EST"/>
+      </history>
+      <history>
+        <sample id="93492"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 09:05:27 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:31 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:19 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:42 EST"/>
+      </history>
+      <history>
+        <sample id="93581"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 09:05:11 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:32 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:20 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:39 EST"/>
+      </history>
+      <history>
+        <sample id="94029"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:57 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:53 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:16 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:20 EST"/>
+      </history>
+      <history>
+        <sample id="94040"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:57 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:16 EST"/>
+      </history>
+      <history>
+        <sample id="94043"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:57 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:50 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:13 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:16 EST"/>
+      </history>
+      <history>
+        <sample id="94174"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:58 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:55 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:18 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:21 EST"/>
+      </history>
+      <history>
+        <sample id="94178"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:58 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:53 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:16 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:19 EST"/>
+      </history>
+      <history>
+        <sample id="94641"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-12 08:05:03 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="shipped" qualifier="toBelk" time="2010-05-13 14:05:38 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-18 10:05:00 EST"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-21 09:05:06 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:50 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:13 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:16 EST"/>
+      </history>
+      <history>
+        <sample id="94704"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:26 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:27 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:16 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:42 EST"/>
+      </history>
+      <history>
+        <sample id="94883"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 11:05:45 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:51 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:14 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:17 EST"/>
+      </history>
+      <history>
+        <sample id="94912"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:59 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:54 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:17 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:20 EST"/>
+      </history>
+      <history>
+        <sample id="94913"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:59 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:52 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:15 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:18 EST"/>
+      </history>
+      <history>
+        <sample id="94929"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 11:05:07 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:51 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:13 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:16 EST"/>
+      </history>
+      <history>
+        <sample id="94974"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-13 09:05:14 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="shipped" qualifier="toBelk" time="2010-05-20 16:05:49 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:30 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:19 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:42 EST"/>
+      </history>
+      <history>
+        <sample id="94975"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-13 09:05:14 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="shipped" qualifier="toBelk" time="2010-05-20 16:05:49 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:30 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:19 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:40 EST"/>
+      </history>
+      <history>
+        <sample id="94976"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-13 09:05:15 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="shipped" qualifier="toBelk" time="2010-05-20 16:05:49 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:30 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:19 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:43 EST"/>
+      </history>
+      <history>
+        <sample id="94977"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-13 09:05:15 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="shipped" qualifier="toBelk" time="2010-05-20 16:05:50 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:29 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:18 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:41 EST"/>
+      </history>
+      <history>
+        <sample id="94978"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-13 09:05:15 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="shipped" qualifier="toBelk" time="2010-05-20 16:05:49 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:29 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:18 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:37 EST"/>
+      </history>
+      <history>
+        <sample id="94979"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-13 09:05:15 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="shipped" qualifier="toBelk" time="2010-05-20 16:05:50 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:30 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:18 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:39 EST"/>
+      </history>
+      <history>
+        <sample id="95003"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:01 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:37 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:24 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:39 EST"/>
+      </history>
+      <history>
+        <sample id="95004"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:01 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:35 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:23 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:00 EST"/>
+      </history>
+      <history>
+        <sample id="95005"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:01 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:33 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:21 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:40 EST"/>
+      </history>
+      <history>
+        <sample id="95006"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:01 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:35 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:22 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:01 EST"/>
+      </history>
+      <history>
+        <sample id="95007"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:02 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:34 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:22 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:00 EST"/>
+      </history>
+      <history>
+        <sample id="95008"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:02 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:34 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:21 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:01 EST"/>
+      </history>
+      <history>
+        <sample id="95009"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:02 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:35 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:22 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:01 EST"/>
+      </history>
+      <history>
+        <sample id="95010"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:02 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:34 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:21 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:02 EST"/>
+      </history>
+      <history>
+        <sample id="95011"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:02 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:32 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:21 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:39 EST"/>
+      </history>
+      <history>
+        <sample id="95018"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:02 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:36 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:23 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:01 EST"/>
+      </history>
+      <history>
+        <sample id="95019"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:03 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:37 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:24 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:02 EST"/>
+      </history>
+      <history>
+        <sample id="95020"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:03 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:36 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:23 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:01 EST"/>
+      </history>
+      <history>
+        <sample id="95027"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:03 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:36 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:23 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:02 EST"/>
+      </history>
+      <history>
+        <sample id="95028"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:03 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:36 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:23 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:01 EST"/>
+      </history>
+      <history>
+        <sample id="95029"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:03 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:37 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:24 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:01 EST"/>
+      </history>
+      <history>
+        <sample id="95307"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:00 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:54 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:17 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:20 EST"/>
+      </history>
+      <history>
+        <sample id="95380"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-19 14:05:06 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-21 14:05:08 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-21 14:05:02 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:51 EST"/>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:22 EST"/>
+      </history>
+      <history>
+        <sample id="95388"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-19 14:05:06 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-21 14:05:08 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-21 14:05:02 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:52 EST"/>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:23 EST"/>
+      </history>
+      <history>
+        <sample id="95392"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-19 14:05:06 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-21 14:05:07 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-21 14:05:01 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:51 EST"/>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:22 EST"/>
+      </history>
+      <history>
+        <sample id="95813"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:00 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:55 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:18 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:20 EST"/>
+      </history>
+      <history>
+        <sample id="95814"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:01 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:54 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:17 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:20 EST"/>
+      </history>
+      <history>
+        <sample id="95826"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:01 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:54 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:17 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:20 EST"/>
+      </history>
+      <history>
+        <sample id="95828"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:01 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:55 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:18 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:21 EST"/>
+      </history>
+      <history>
+        <sample id="95840"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:01 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:52 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:15 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:18 EST"/>
+      </history>
+      <history>
+        <sample id="95846"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:01 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:53 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:16 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:20 EST"/>
+      </history>
+      <history>
+        <sample id="95849"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:01 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:53 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:16 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:19 EST"/>
+      </history>
+      <history>
+        <sample id="95873"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:12 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:26 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:15 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:42 EST"/>
+      </history>
+      <history>
+        <sample id="95876"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:12 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:26 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:15 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:38 EST"/>
+      </history>
+      <history>
+        <sample id="95892"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:12 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:26 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:16 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:38 EST"/>
+      </history>
+      <history>
+        <sample id="95895"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:12 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:29 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:18 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:40 EST"/>
+      </history>
+      <history>
+        <sample id="95897"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:13 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:28 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:17 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:38 EST"/>
+      </history>
+      <history>
+        <sample id="95899"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:13 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:25 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:15 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:37 EST"/>
+      </history>
+      <history>
+        <sample id="95924"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:01 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:54 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:17 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:20 EST"/>
+      </history>
+      <history>
+        <sample id="95926"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:01 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:50 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:13 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:16 EST"/>
+      </history>
+      <history>
+        <sample id="95929"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:02 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:52 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:15 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:18 EST"/>
+      </history>
+      <history>
+        <sample id="95930"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:02 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:52 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:15 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:18 EST"/>
+      </history>
+      <history>
+        <sample id="96036"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:02 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:52 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:14 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:18 EST"/>
+      </history>
+      <history>
+        <sample id="96723"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:04 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:31 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:19 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:40 EST"/>
+      </history>
+      <history>
+        <sample id="96725"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:59 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:32 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:20 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:41 EST"/>
+      </history>
+      <history>
+        <sample id="97386"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:13 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:23 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:13 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:39 EST"/>
+      </history>
+      <history>
+        <sample id="97655"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:02 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:53 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:16 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:19 EST"/>
+      </history>
+      <history>
+        <sample id="97656"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:02 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:52 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:14 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:17 EST"/>
+      </history>
+      <history>
+        <sample id="97659"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:02 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:51 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:14 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:17 EST"/>
+      </history>
+      <history>
+        <sample id="97660"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:02 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:53 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:16 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:19 EST"/>
+      </history>
+      <history>
+        <sample id="97661"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:03 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:53 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:16 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:19 EST"/>
+      </history>
+      <history>
+        <sample id="97662"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:03 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:51 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:14 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:17 EST"/>
+      </history>
+      <history>
+        <sample id="97663"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:03 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:53 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:16 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:19 EST"/>
+      </history>
+      <history>
+        <sample id="97664"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 15:05:03 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 14:05:51 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 14:05:14 EST">
+          <shipment carrier="FedEx" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 14:05:17 EST"/>
+      </history>
+      <history>
+        <sample id="97883"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:03 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:34 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:22 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:02 EST"/>
+      </history>
+      <history>
+        <sample id="97885"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:03 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:37 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:24 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:02 EST"/>
+      </history>
+      <history>
+        <sample id="97887"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:04 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:35 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:22 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:02 EST"/>
+      </history>
+      <history>
+        <sample id="97986"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:13 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:29 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:18 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:41 EST"/>
+      </history>
+      <history>
+        <sample id="97987"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:13 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:24 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:14 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:42 EST"/>
+      </history>
+      <history>
+        <sample id="98005"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:13 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:28 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:17 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:40 EST"/>
+      </history>
+      <history>
+        <sample id="98026"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:13 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:24 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:14 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:40 EST"/>
+      </history>
+      <history>
+        <sample id="98027"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:13 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:28 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:17 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:38 EST"/>
+      </history>
+      <history>
+        <sample id="98033"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:14 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:25 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:15 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:38 EST"/>
+      </history>
+      <history>
+        <sample id="98751"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 09:05:35 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:31 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:20 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:38 EST"/>
+      </history>
+      <history>
+        <sample id="98753"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:34 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:31 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:20 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:42 EST"/>
+      </history>
+      <history>
+        <sample id="98762"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 09:05:57 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:32 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:20 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:37 EST"/>
+      </history>
+      <history>
+        <sample id="98964"/>
+        <event type="shipped" qualifier="toStudio" time="2010-05-20 10:05:14 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atStudio" time="2010-05-24 09:05:28 EST"/>
+        <event type="shipped" qualifier="toBelk" time="2010-05-24 16:05:17 EST">
+          <shipment carrier="Unknown" trackingNumber="Unknown"/>
+        </event>
+        <event type="arrived" qualifier="atBelk" time="2010-05-27 11:05:38 EST"/>
+      </history>
+    </sampleHistories>
+ </histories>
+</carsMessage>  

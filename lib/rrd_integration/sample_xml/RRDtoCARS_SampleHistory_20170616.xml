@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carsMessage from="RRD" to="CARS" type="update">
+  <histories>
+    <sampleHistories>
+      <history>
+        <sample id="1371017">
+          <event qualifier="atBelk" time="2017-06-14 17:00:00 PDT" type="arrived"/>
+        </sample>
+        <sample id="1348969">
+          <event qualifier="atBelk" time="2017-06-14 17:00:00 PDT" type="arrived"/>
+        </sample>
+        <sample id="1371018">
+          <event qualifier="atBelk" time="2017-06-14 17:00:00 PDT" type="arrived"/>
+        </sample>
+      </history>
+    </sampleHistories>
+    <samplePhotoHistories>
+      <history>
+        <sample id="1501708">
+          <photo>
+            <file>
+              <location>Belk FTP Site</location>
+              <path>Photos</path>
+              <name>
+                <prefix>1803565_7340126_A_479.psd</prefix>
+                <extension>.psd</extension>
+              </name>
+            </file>
+          </photo>
+          <event time="2017-09-06 16:00:00 PDT" type="photo sent"/>
+        </sample>
+      </history>
+      <history>
+        <sample id="1501709">
+          <photo>
+            <file>
+              <location>Belk FTP Site</location>
+              <path>Photos</path>
+              <name>
+                <prefix>1803565_7340126_A_077.psd</prefix>
+                <extension>.psd</extension>
+              </name>
+            </file>
+          </photo>
+          <event time="2017-09-06 15:59:00 PDT" type="photo sent"/>
+        </sample>
+      </history>
+      <history>
+        <sample id="1502093">
+          <photo>
+            <file>
+              <location>Belk FTP Site</location>
+              <path>Photos</path>
+              <name>
+                <prefix>1803563_24355B0011_A_100.psd</prefix>
+                <extension>.psd</extension>
+              </name>
+            </file>
+          </photo>
+          <event time="2017-09-06 11:30:00 PDT" type="photo sent"/>
+        </sample>
+      </history>
+      <history>
+        <sample id="1502158">
+          <photo>
+            <file>
+              <location>Belk FTP Site</location>
+              <path>Photos</path>
+              <name>
+                <prefix>1803525_PT81JQUX5_A_454.psd</prefix>
+                <extension>.psd</extension>
+              </name>
+            </file>
+          </photo>
+          <event time="2017-09-06 11:29:00 PDT" type="photo sent"/>
+        </sample>
+      </history>
+      <history>
+        <sample id="1502149">
+          <photo>
+            <file>
+              <location>Belk FTP Site</location>
+              <path>Photos</path>
+              <name>
+                <prefix>1803399_M7061256NR_A_187.psd</prefix>
+                <extension>.psd</extension>
+              </name>
+            </file>
+          </photo>
+          <event time="2017-09-06 11:30:00 PDT" type="photo sent"/>
+        </sample>
+      </history>
+    </samplePhotoHistories>
+  </histories>
+</carsMessage>

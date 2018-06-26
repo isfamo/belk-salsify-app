@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carsMessage type="vendorImagesUpdate" to="RRD" from="CARS">
+  <vendorImage image_id="51">
+    <name>2900273_D11403_A1_001.jpg</name>
+    <uploadedByUser>BUYER</uploadedByUser>
+    <status>DELETED</status>
+  </vendorImage>
+  <vendorImage image_id="178">
+    <name>2900273_D11403_A1_001.jpg</name>
+    <uploadedByUser>VENDOR</uploadedByUser>
+    <status>REUPLOAD</status>
+  </vendorImage>
+</carsMessage>

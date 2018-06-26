@@ -1,0 +1,168 @@
+{
+    "organization": {
+        "id": 5041,
+        "name": "Belk CARS QA"
+    },
+    "alert": {
+        "id": "s-f5f64af8-005b-4843-9eec-17de8e2d079a",
+        "name": "Webhook - New Product Grouping",
+        "trigger_type": "add"
+    },
+    "products": [
+        {
+            "salsify:id": "cdurling@salsify.com",
+            "salsify:system_id": "s-1723cf93-53e6-4749-b08d-ffdd8d4168c7",
+            "salsify:created_at": "2017-12-05T19:16:08.480Z",
+            "salsify:updated_at": "2017-12-05T19:16:08.480Z",
+            "salsify:version": 0,
+            "salsify:profile_asset_id": null,
+            "salsify:parent_id": "99999991170835",
+            "product_id": "cdurling@salsify.com",
+            "Product Name": "Test new grouping",
+            "Parent Product": "99999991170835",
+            "Is 2 Weeks past Turn-In?": false,
+            "Has Multiple Default SKU Codes": false
+        }
+    ],
+    "parent_products": [
+        {
+            "salsify:id": "99999991170835",
+            "salsify:system_id": "s-77214727-8726-49c0-8cc6-3d69c53b46fe",
+            "salsify:created_at": "2017-07-10T18:52:54.760Z",
+            "salsify:updated_at": "2017-09-12T03:27:27.420Z",
+            "salsify:version": 30,
+            "salsify:profile_asset_id": null,
+            "product_id": "99999991170835",
+            "groupingType": "BCG",
+            "skus": [
+                "0400671572712",
+                "0400671572729",
+                "0400671641173",
+                "0400671642910",
+                "0400671642927",
+                "0400671638951",
+                "0400671638968",
+                "0400672833461",
+                "0400672833478",
+                "0400672997262",
+                "0400672997200",
+                "0400672997279",
+                "0400672997231",
+                "0400672997224",
+                "0400672997217",
+                "0400672997286",
+                "0400672997248",
+                "0400672997255"
+            ],
+            "OForSL": "OF/SL",
+            "Vendor Images - A - imagePath": "ce8cd8d499f942627f00ec806c7f8716ed3b6b64",
+            "Orin/Grouping #": "1170835",
+            "OmniChannel Brand": "7 For All Mankind®",
+            "Completion Date": "2017-08-24T04:00:00",
+            "Product Name": "Test Group For Salsify",
+            "Product Description": "Test Group For Salsify Test Group For Salsify Test Group For Salsify",
+            "Long Description": "Test Group For Salsify Test Group For Salsify Test Group For Salsify",
+            "Product Copy Text": "99999991170835 Testing 123",
+            "Copy_Line_1": "99999991170835 Testing 123",
+            "Copy_Line_2": "99999991170835 Testing 123",
+            "Copy_Line_3": "99999991170835 Testing 123",
+            "Copy_Line_4": "99999991170835 Testing 123",
+            "Copy_Line_5": "99999991170835 Testing 123",
+            "Country of Origin": "99999991170835 Testing 123",
+            "ImageAssetSource": "Image Upload Complete",
+            "sitemap-included-flag": "true",
+            "tax-class-id": "standard",
+            "Copy Approval State": true,
+            "Copy Approval Notes": "Testing Group Product Update",
+            "is searchable": true,
+            "Product Enrichment Status": "Attributes Completed",
+            "GXS Data Retrieved": true,
+            "Is 2 Weeks past Turn-In?": false,
+            "Has Multiple Default SKU Codes": false
+        }
+    ],
+    "new_product_grouping": {
+        "organization": {
+            "id": 5041,
+            "name": "Belk CARS QA"
+        },
+        "alert": {
+            "id": "s-f5f64af8-005b-4843-9eec-17de8e2d079a",
+            "name": "Webhook - New Product Grouping",
+            "trigger_type": "add"
+        },
+        "products": [
+            {
+                "salsify:id": "cdurling@salsify.com",
+                "salsify:system_id": "s-1723cf93-53e6-4749-b08d-ffdd8d4168c7",
+                "salsify:created_at": "2017-12-05T19:16:08.480Z",
+                "salsify:updated_at": "2017-12-05T19:16:08.480Z",
+                "salsify:version": 0,
+                "salsify:profile_asset_id": null,
+                "salsify:parent_id": "99999991170835",
+                "product_id": "cdurling@salsify.com",
+                "Product Name": "Test new grouping",
+                "Parent Product": "99999991170835",
+                "Is 2 Weeks past Turn-In?": false,
+                "Has Multiple Default SKU Codes": false
+            }
+        ],
+        "parent_products": [
+            {
+                "salsify:id": "99999991170835",
+                "salsify:system_id": "s-77214727-8726-49c0-8cc6-3d69c53b46fe",
+                "salsify:created_at": "2017-07-10T18:52:54.760Z",
+                "salsify:updated_at": "2017-09-12T03:27:27.420Z",
+                "salsify:version": 30,
+                "salsify:profile_asset_id": null,
+                "product_id": "99999991170835",
+                "groupingType": "BCG",
+                "skus": [
+                    "0400671572712",
+                    "0400671572729",
+                    "0400671641173",
+                    "0400671642910",
+                    "0400671642927",
+                    "0400671638951",
+                    "0400671638968",
+                    "0400672833461",
+                    "0400672833478",
+                    "0400672997262",
+                    "0400672997200",
+                    "0400672997279",
+                    "0400672997231",
+                    "0400672997224",
+                    "0400672997217",
+                    "0400672997286",
+                    "0400672997248",
+                    "0400672997255"
+                ],
+                "OForSL": "OF/SL",
+                "Vendor Images - A - imagePath": "ce8cd8d499f942627f00ec806c7f8716ed3b6b64",
+                "Orin/Grouping #": "1170835",
+                "OmniChannel Brand": "7 For All Mankind®",
+                "Completion Date": "2017-08-24T04:00:00",
+                "Product Name": "Test Group For Salsify",
+                "Product Description": "Test Group For Salsify Test Group For Salsify Test Group For Salsify",
+                "Long Description": "Test Group For Salsify Test Group For Salsify Test Group For Salsify",
+                "Product Copy Text": "99999991170835 Testing 123",
+                "Copy_Line_1": "99999991170835 Testing 123",
+                "Copy_Line_2": "99999991170835 Testing 123",
+                "Copy_Line_3": "99999991170835 Testing 123",
+                "Copy_Line_4": "99999991170835 Testing 123",
+                "Copy_Line_5": "99999991170835 Testing 123",
+                "Country of Origin": "99999991170835 Testing 123",
+                "ImageAssetSource": "Image Upload Complete",
+                "sitemap-included-flag": "true",
+                "tax-class-id": "standard",
+                "Copy Approval State": true,
+                "Copy Approval Notes": "Testing Group Product Update",
+                "is searchable": true,
+                "Product Enrichment Status": "Attributes Completed",
+                "GXS Data Retrieved": true,
+                "Is 2 Weeks past Turn-In?": false,
+                "Has Multiple Default SKU Codes": false
+            }
+        ]
+    }
+}

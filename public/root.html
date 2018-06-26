@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" id="ng-app" ng-app="myApp">
+
+<head>
+    <title ng-bind="$root.pageTitle"></title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="//cdn2.hubspot.net/hub/316299/file-2042315905-png/Salsify/Salsify_Blue_Flower-01-1.png?t=1476904815652">
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+
+    <link href="app/css/styles.css" rel="stylesheet">
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular-route.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular-cookies.min.js"></script>
+
+</head>
+<body class="app ng-cloak">
+    <div ng-include="'app/templates/shared/menu.html'"></div>
+    <div ng-include="'app/templates/shared/alert.html'"></div>
+
+    <div class="container" ng-hide="$root.loading" id="container" ng-view></div>
+
+    <div class="container" id="loader" ng-if="$root.loading">
+        <div class="row text-center">
+            <i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
+            <span class="sr-only">Loading...</span>
+        </div>
+    </div>
+
+    <div ng-include="'app/templates/shared/footer.html'"></div>
+
+    <script src="app/js/scripts.js"></script>
+    <script src="app/js/lib/bootstrap-treeview.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.15.2/moment.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("body").tooltip({ selector: '[rel=tooltip]' });
+        });
+    </script>
+</body>
+
+</html>

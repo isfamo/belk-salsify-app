@@ -1,0 +1,73 @@
+<div ng-show="isLoading">
+  Loading product info...
+</div>
+
+<div ng-show="!isLoading">
+  <h2>Product Info</h2>
+  <br/><br/>
+  <p>Product: {{product['Product Name']}} ({{product['salsify:id']}})</p>
+  <p>Vendor: {{product['Vendor  Name']}} ({{product['Vendor#']}})</p>
+  <p>Department: {{product['Dept Description']}} ({{product['Dept#']}})</p>
+  <p>Style #: {{product['Style#']}}</p>
+  <p>Brand: {{product['OmniChannel Brand']}}</p>
+  <p>Color Variants: {{colorList.join(', ')}}</p>
+  <br />
+  <h2>Created Sample Requests</h2>
+  <br/><br/>
+  <table>
+    <tbody>
+      <tr ng-repeat="color in colors">
+        <td ng-show="reqdColors[color['code']] != undefined">
+          <div>
+            <b>Color</b>
+            <p>{{color['code'] != '' ? color['code'] : 'NONE'}} - {{color['name'] != '' ? color['name'] : 'NONE'}}</p>
+          </div>
+          <div>
+            <b>Completion Date</b>
+            <p>{{color['completion_date']}}</p>
+          </div>
+          <div>
+            <b>Sample Request Sent to RRD?</b>
+            <p>{{reqdColors[color['code']]['sent_to_rrd']}}</p>
+          </div>
+          <div ng-show="reqdColors[color['code']]['of_or_sl'] != undefined">
+            <b>On-Figure or Still-Life</b>
+            <p>{{reqdColors[color['code']]['of_or_sl']}}</p>
+          </div>
+          <div ng-show="reqdColors[color['code']]['on_hand_or_from_vendor'] != undefined">
+            <b>On-Hand or From Vendor</b>
+            <p>{{reqdColors[color['code']]['on_hand_or_from_vendor']}}</p>
+          </div>
+          <div ng-show="reqdColors[color['code']]['sample_type'] != undefined">
+            <b>Sample Type</b>
+            <p>{{reqdColors[color['code']]['sample_type']}}</p>
+          </div>
+          <div ng-show="reqdColors[color['code']]['turn_in_date'] != undefined">
+            <b>Requested Return Date</b>
+            <p>{{reqdColors[color['code']]['turn_in_date']}}</p>
+          </div>
+          <div ng-show="reqdColors[color['code']]['must_be_returned'] != undefined">
+            <b>Must be Returned</b>
+            <p>{{reqdColors[color['code']]['must_be_returned']}}</p>
+          </div>
+          <div ng-show="reqdColors[color['code']]['return_to'] != undefined">
+            <b>Return To</b>
+            <p>{{reqdColors[color['code']]['return_to']}}</p>
+          </div>
+          <div ng-show="reqdColors[color['code']]['return_notes'] != undefined">
+            <b>Return Notes / Shipping Info</b>
+            <p>{{reqdColors[color['code']]['return_notes']}}</p>
+          </div>
+          <div ng-show="reqdColors[color['code']]['silhouette_required'] != undefined">
+            <b>Silhouette Required?</b>
+            <p>{{reqdColors[color['code']]['silhouette_required']}}</p>
+          </div>
+          <div ng-show="reqdColors[color['code']]['instructions'] != undefined" style="padding-bottom: 100px;">
+            <b>Instructions for RRD</b>
+            <p>{{reqdColors[color['code']]['instructions']}}</p>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

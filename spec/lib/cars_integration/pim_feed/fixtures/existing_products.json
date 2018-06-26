@@ -1,0 +1,90 @@
+[
+  {
+    "header":{
+      "version":"2",
+      "scope":[
+        "products"
+      ]
+    }
+  },
+  {
+    "attributes": []
+  },
+  {
+    "attribute_values": []
+  },
+  {
+    "digital_assets": []
+  },
+  {
+    "products": [
+      {
+        "salsify:id":"0480001639940",
+        "Product Name":"FLEECE PANT:5:DELTA BLUE",
+        "upc":"0480001639940",
+        "is searchable":"true",
+        "tax-class-id":"standard",
+        "step-quantity":"1",
+        "product_id":"0480001639940",
+        "Item Status":"Initialized",
+        "isMaster":"false",
+        "skuOrin":"237914450",
+        "is GiftBox Eligible":true,
+        "ImportDomestic":"Import",
+        "directShipFlag":"false",
+        "size":"20060_5",
+        "color":"402237913393",
+        "nrfSizeCode":"20060",
+        "omniSizeDesc":"5",
+        "refinementSize":"5",
+        "refinementColor":"black",
+        "nrfColorCode":"402",
+        "omniChannelColorDescription":"Black",
+        "il_eligible":"false",
+        "vendorSizeDescription":"5",
+        "vendorColorDescription":"DELTA BLUE",
+        "Expedited_Shipping":"Y",
+        "salsify:parent_id":"45006644516419",
+        "ImageAssetSource":"Some Status",
+        "All Images":"ALLLLLLLLLLLL IMAGESSSSSSSSSS",
+        "GXS Data Retrieved":"GXS"
+      },
+      {
+        "salsify:id":"0480001639957",
+        "Product Name":"FLEECE PANT:6:DELTA BLUE",
+        "upc":"0480001639957",
+        "is searchable":"true",
+        "tax-class-id":"standard",
+        "step-quantity":"1",
+        "product_id":"0480001639957",
+        "Item Status":"Initialized",
+        "Material":"some sort of material",
+        "Copy_Line_1":"some copy line",
+        "isMaster":"false",
+        "skuOrin":"237914468",
+        "is GiftBox Eligible":true,
+        "ImportDomestic":"Import",
+        "directShipFlag":"false",
+        "size":"20065_6",
+        "color":"402237913393",
+        "nrfSizeCode":"20065",
+        "omniSizeDesc":"6",
+        "refinementSize":"6",
+        "refinementColor":"blue",
+        "nrfColorCode":"402",
+        "omniChannelColorDescription":"Blue",
+        "il_eligible":"false",
+        "vendorSizeDescription":"6",
+        "vendorColorDescription":"DELTA BLUE",
+        "Expedited_Shipping":"Y",
+        "salsify:parent_id":"45006644516419",
+        "Color Master?":true
+      },
+      {
+        "salsify:id":"0438566024640",
+        "product_id":"0438566024640",
+        "ImageAssetSource":"Complete"
+      }
+    ]
+  }
+]

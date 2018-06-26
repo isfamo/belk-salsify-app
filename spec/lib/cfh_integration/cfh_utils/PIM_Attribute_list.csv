@@ -1,0 +1,107 @@
+Attribute Name,Type,Order_required,Editable in Demandware,Description,Value from PIM indicating the use,Comments
+orin,string,,N,ORIN number of the style to which the Demandware Master product is tied to.,Populated Free-form text,
+demandCtr,string,,N,Demand Center Number,Populated Free-form text,
+deptNumber,string,Y,N,Department Number,Populated Free-form text,
+classNumber,string,Y,N,Class Number,Populated Free-form text,
+fobNumber,string,,N,FOB Number,Populated Free-form text,
+vendorNumber,string,Y,N,Vendor Number,Populated Free-form text,
+styleNumber,string,Y,N,Style Number,Populated Free-form text,
+demandCtrName,string,,N,Demand Center Name,Populated Free-form text,
+deptName,string,Y,N,Department Name,Populated Free-form text,
+className,string,,N,Class Name,Populated Free-form text,
+vendorName,string,Y,N,Vendor Name,Populated Free-form text,
+fobName,string,,N,FOB Name,Populated Free-form text,
+iphCategory,string,,N,IPH Category Full Path,Populated Free-form text,
+iphL1,string,,N,The L1 IPH category,Populated Free-form text,
+iphL2,string,,N,The L2 IPH category,Populated Free-form text,
+iphL3,string,,N,The L3 IPH category,Populated Free-form text,
+iphL4,string,,N,The L4 IPH category,Populated Free-form text,
+iphL5,string,,N,The L5 IPH category,Populated Free-form text,
+iphL6,string,,N,The L6 IPH category,Populated Free-form text,
+iphL7,string,,N,The L7 IPH category,Populated Free-form text,
+belkExclusive,string,,N,Belk Exclusive Indicator,Yes,Value will be Yes/No.
+channelExclusive,string,,N,Channel Exclusive Value,Enumeration Values,"Values can be Ecomm,Store. "
+discontinuedDate,date,,N,Discontinued Date for a Product,Populated date value,
+poBoxShippable,string,,N,Determines if the product is PO Box Shippable,1,Value will be true or false
+supplierDirectFulfillment,string,,N,Indicating that the item is Dropship,1,Value will be true or false
+featuresAndBenefits,string,,N,Features and Benefits Text,Populated Free-form text,
+featuresAndBenefitsOverwrite,string,,N,Features and Benefits Text,Populated Free-form text,
+isPYG,string,,N,Indicates if the Product is PYG,Yes,Value will be Yes/No
+isGWP,string,,N,Indicates if the Product is GWP,Yes,Value will be Yes/No
+isPWP,string,,N,Indicates if the Product is PWP,Yes,Value will be Yes/No
+splitColorEligible,string,,N,Indicates if the product can be Split to Split Color Groupings,Yes,Value will be Yes/No
+productCopyText,string,Y,Y,Product Copy Text,Populated Free-form text,
+copyLine1,string,,Y,Copy Line 1,Populated Free-form text,
+copyLine2,string,,Y,Copy Line 2,Populated Free-form text,
+copyLine3,string,,Y,Copy Line 3,Populated Free-form text,
+copyLine4,string,,Y,Copy Line 4,Populated Free-form text,
+copyLine5,string,,Y,Copy Line 5,Populated Free-form text,
+copyMaterial,string,,Y,Copy Material Text,Populated Free-form text,
+copyCare,string,,Y,Copy Care text,Populated Free-form text,
+copyCountryOfOrigin,string,,N,Country of Origin,Populated Free-form text,
+copyExclusive,string,,N,,Yes,Values will be Yes/No. 
+copyImportDomestic,string,,N,,Populated Free-form text,
+copyCAProp65Compliant,string,,N,,T/Yes,Values will be T or F or Yes or No
+defaultSkuCode,string,,N,Default SKU Code for the Master product.,Populated SKU Code,
+mirVendorNumber,string,,N,MIR Vendor Number,Populated Vendor Number,
+conversionFlag,string,,N,Status to show if the item is a converted item,1,Value will be true or false
+Vendor_State_Restrictions,string,,N,Set restrictions that the SKU cannot be shipped to certain states.,Multi-valued field with list of state codes.,"For SKUs that do not have a value in PIM, this attribute will not be populated."
+High_Value_Status,string,,N,Only set for Fine Jewelry.,Y,"For SKUs that do not have a value in PIM, this attribute may either not be populated or set to value 'N'"
+skuOrin,string,,N,ORIN number of the SKU in PIM,Populated text,
+isGiftBoxEligible,string,,N,GiftBox eligibility indicator,Yes,Values will be Yes/No.
+sourcedDomestically,string,,N,Flag to indicate if the item is sourced domestically,Populated Free-form text,"Has Values Domestic, Import"
+directShipFlag,boolean,,N,,1,Value will be true or false
+launchDate,date,,N,Launch Date of the product,Populated Date value,
+productDimensionsLength,int,,N,,Populated Free-form text,
+productDimensionsHeight,int,,N,,Populated Free-form text,
+productDimensionsWidth,int,,N,,Populated Free-form text,
+productDimensionsUOM,string,,N,,Populated Free-form text,
+shippingDimensionsUOM,string,,N,,Populated Free-form text,
+productWeight,int,,N,,Populated Free-form text,
+productWeightUOM,string,,N,,Populated Free-form text,
+shippingDimensionsLength,int,,N,,Populated Free-form text,
+shippingDimensionsHeight,int,,N,,Populated Free-form text,
+shippingDimensionsWidth,int,,N,,Populated Free-form text,
+shippingWeight,int,,N,,Populated Free-form text,
+shippingWeightUOM,int,,N,,Populated Free-form text,
+skuActiveStartDate,date,,N,,Populated Free-form text,
+specialItemReturnMethod,string,,N,,Populated Free-form text,
+countryOfOrigin,string,Y,N,,,"Values can be US, CA"
+shippingSizeProfile,string,,N,,Populated Free-form text,
+GXS_PDU_Content_Per_Consumer_Package,string,,N,,Populated Free-form text,
+GXS_PDU_Consumer_Package_Length,string,,N,,Populated Free-form text,
+GXS_PDU_Consumer_Package_Height,string,,N,,Populated Free-form text,
+GXS_PDU_Consumer_Package_Volume,string,,N,,Populated Free-form text,
+GXS_PDU_Consumer_Package_Width,string,,N,,Populated Free-form text,
+GXS_PDU_Dress_Skirt_Length,string,,N,,Populated Free-form text,
+GXS_PDU_Harmonized_Tariff_Schedule,string,,N,,Populated Free-form text,
+GXS_PDU_Lead_Time,string,,N,,Populated Free-form text,
+GXS_PDU_Special_Handling_Code,string,,N,,Populated Free-form text,
+GXS_PDU_Special_Item_Code,string,,N,,Populated Free-form text,
+GXS_PDU_Available_Date,date,,N,,Populated Free-form text,
+GXS_PDU_Brand_Type,string,,N,,Populated Free-form text,
+GXS_PDU_Cancel_Date,date,,N,,Populated Free-form text,
+size,string,,N,,Populated Free-form text,
+color,string,,N,,Populated Free-form text,
+nrfSizeCode,string,Y,N,Size code,Populated Free-form text,
+omniSizeDesc,string,Y,N,Omni Size Description,Populated Free-form text,
+refinementSize,set-of-string,,N,refinement size,Populated Free-form text,
+refinementSubSize,set-of-string,,N,refinement subsize,Populated Free-form text,
+refinementColor,set-of-string,,N,refinement color,Populated Free-form text,
+nrfColorCode,string,Y,N,nrf color code,Populated Free-form text,
+omniChannelColorDescription,string,Y,N,Omni Color Description,Populated Free-form text,
+featuresAndBenefits,string,,N,,Populated Free-form text,
+featuresAndBenefitsOverwrite,string,,N,,Populated Free-form text,
+il_eligible,boolean,,N,Flag to indicate if the item is IL only,1,Value will be true or false
+vendorSizeDescription,string,,N,Vendor Size Description,Populated Free-form text,
+vendorColorDescription,string,,N,Vendor Color Description,Populated Free-form text,
+Surcharge_Flag,string,,N,Indicates additional handling fee is added to the order.,Y,"For SKUs that do not have a value in PIM, this attribute may either not be populated or set to value 'N'.
+Note: The surcharge fee has to be configured in DWRE."
+Max_Buy_Quantity,string,,N,This determines how much max quantity of an item can be purchased in a single order.,Number field. Example: 6,"For SKUs that do not have a value in PIM, this attribute may not be populated.
+If the value is not populated the default value should be assumed be 24."
+BOPIS_eligible,string,,N,Determines if an item is eligible for BOPIS,Y,"For SKUs that do not have a value in PIM, this attribute may either not be populated or set to value 'N'"
+Item_Returnable,string,,N,Determines if a SKU can be returned.,N,"For SKUs that do not have a value in PIM, this attribute may either not be populated or set to value 'Y'"
+Item_Exchangeable,string,,N,Determines if a SKU can be exchanged.,N,"For SKUs that do not have a value in PIM, this attribute may either not be populated or set to value 'Y'"
+Product_Shipping_Restrictions,string,,N,Determines if the SKU is a Hazardous material,Y,"For SKUs that do not have a value in PIM, this attribute may either not be populated or set to value 'N'"
+Ship_Alone,string,,N,Determines if the item should be shipped alone.,Y,"For SKUs that do not have a value in PIM, this attribute may either not be populated or set to value 'N'"
+Expedited_Shipping,string,,N,"Determines if a the SKU has a restriction set on expedited shipping. If set, the SKU cannot be expedite shipped.",N,"For SKUs that do not have a value in PIM, this attribute may either not be populated or set to value 'Y'"

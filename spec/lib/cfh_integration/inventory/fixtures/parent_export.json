@@ -1,0 +1,59 @@
+[
+  {
+    "header": {
+      "version": "2",
+      "scope": [
+        "all"
+      ]
+    }
+  },
+  {
+    "attributes": [
+      {
+        "salsify:id": "product_id",
+        "salsify:name": "product_id",
+        "salsify:data_type": "string",
+        "salsify:role": "product_id",
+        "salsify:entity_types": [
+          "products"
+        ],
+        "salsify:is_facetable": true,
+        "salsify:attribute_group": "Unassigned",
+        "salsify:position": null,
+        "salsify:help_text": null,
+        "salsify:created_at": "2016-10-13T16:10:08.580Z",
+        "salsify:updated_at": "2016-10-13T16:10:08.580Z",
+        "salsify:system_id": "s-e18b2fb5-bbb1-4877-b2b4-f1cab91a2128"
+      }
+    ]
+  },
+  {
+    "attribute_values": []
+  },
+  {
+    "digital_assets": []
+  },
+  {
+    "products": [
+      {
+        "salsify:id": "1654443JF67238JH00",
+        "salsify:created_at": "2016-10-13T23:02:20.849Z",
+        "salsify:updated_at": "2017-02-10T03:01:58.972Z",
+        "salsify:version": 5,
+        "salsify:profile_asset_id": null,
+        "salsify:system_id": "s-29fe450b-ba9e-44ca-9b15-94363e978374",
+        "product_id": "1654443JF67238JH00"
+      },
+      {
+        "salsify:id": "0000400418133299",
+        "salsify:created_at": "2016-12-16T21:36:38.506Z",
+        "salsify:updated_at": "2017-03-08T15:44:19.584Z",
+        "salsify:version": 7,
+        "salsify:profile_asset_id": null,
+        "salsify:parent_id": "1654443JF67238JH00",
+        "salsify:system_id": "s-720cc0e9-370b-4483-8313-434fc976daf3",
+        "product_id": "0000400418133299"
+      }
+    ]
+  }
+]

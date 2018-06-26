@@ -1,0 +1,9 @@
+
+# We shouldn't really need this but Circle is can't handle ENV fetching in database.yml for unknown reasons
+test:
+  database: circle_ruby_test
+  adapter: postgresql
+  encoding: unicode
+  pool: 4
+  username: ubuntu
+  host: localhost

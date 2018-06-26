@@ -1,0 +1,166 @@
+[
+  {
+    "header":{
+      "version": "2013-04",
+      "scope": [
+        "attributes",
+        "attribute_values",
+        {
+          "products":[
+            "product_id",
+            "online_flag",
+            "images",
+            "..."
+          ]
+        }
+      ],
+      "mode": "truncate"
+    }
+  },
+  {
+    "attributes":[
+      {
+        "salsify:id":"product_id",
+        "salsify:name":"product_id",
+        "salsify:data_type":"string",
+        "salsify:attribute_group":"",
+        "salsify:help_text":""
+      },
+      {
+        "salsify:id":"display_name",
+        "salsify:name":"display_name",
+        "salsify:data_type":"boolean",
+        "salsify:attribute_group":"",
+        "salsify:help_text":""
+      },
+      {
+        "salsify:id":"short_description",
+        "salsify:name":"short_description",
+        "salsify:data_type":"digital_asset",
+        "salsify:attribute_group":"",
+        "salsify:help_text":""
+      },
+      {
+        "salsify:id":"long_description",
+        "salsify:name":"long_description",
+        "salsify:data_type":"digital_asset",
+        "salsify:attribute_group":"",
+        "salsify:help_text":""
+      },
+      {
+        "...":"..."
+      }
+    ],
+    "attribute_values":[],
+    "products":[
+      {
+        "product_id":"1802975ZS1330K0004",
+        "display_name":"Plus Size Roadtrip Screen Tank",
+        "short_description":"Screen print on front of tank, sleeveless",
+        "long_description":"A super sleek screen print and face-framing crew neck make this laid-back knit tank the star of any wardrobe. A flattering silhouette and comfortable feel ensure the off-duty staple is ideal for day-long wear.",
+        "online_flag":true,
+        "available_flag":true,
+        "searchable_field":true,
+        "images":[
+          "http://belk.scene7.com/is/image/Belk?layer=0&amp;src=1802975_ZS1330K0004_A_157_T10L00&amp;layer=comp&amp;",
+          "http://belk.scene7.com/is/image/Belk?layer=0&amp;src=1802975_ZS1330K0004_B_157_T10L00&amp;layer=comp&amp;"
+        ],
+        "swatch_images":[
+          "http://belk.scene7.com/is/image/Belk?layer=0&amp;src=1802975_ZS1330K0004_A_157_T10L00&amp;crop=870,1338,150,150&amp;layer=comp&amp;"
+        ],
+        "tax_class_id":"Standard",
+        "brand":"H.I.P",
+        "Activewear":false,
+        "Care":"Machine washable, gentle cycle",
+        "Closure_Type":"Pullover",
+        "Fabric":"Knit",
+        "Faux_FUR":false,
+        "Fur_RN_Number_or_Distributor":"N/A",
+        "Fur_animal_name":"N/A",
+        "Fur_country_of_origin":"N/A",
+        "Fur_treatment":"N/A",
+        "Garment_Length":"Approx. 32-in. L",
+        "Hem_Length":"Hips",
+        "Lining_Type":"Unlined",
+        "Material":"Cotton/Spandex",
+        "Neckline":"Crew neck",
+        "Pockets":false,
+        "Sleeve_Length":"Sleeveless",
+        "Sleeve_Style":"Sleeveless",
+        "Special_Sizes":"Plus",
+        "Tag_Free":false,
+        "belkExclusive":false,
+        "channelExclusive":"Store and Ecomm",
+        "classNumber":"1803",
+        "copyCAProp65Compliant":"T",
+        "copyCare":"Machine Washable",
+        "copyExclusive":false,
+        "copyImportDomestic":"Import",
+        "copyLine1":"Approximately 32-in. L",
+        "copyLine2":"Pullover",
+        "copyLine3":"Crew neck",
+        "copyLine4":"Sleeveless",
+        "copyLine5":"Unlined",
+        "copyMaterial":"Cotton, spandex",
+        "defaultSkuCode":"0438566844620",
+        "demandCtr":"163",
+        "deptNumber":"38",
+        "iphCategory":"Item_Primary_Hierarchy///4557-Juniors///4610-Tops///4614-Tanks_and_Camisoles",
+        "isGWP":false,
+        "isPWP":false,
+        "isPYG":false,
+        "mirVendorNumber":"1802975",
+        "orin":"282522375",
+        "productCopyText":"A super sleek screen print and face-framing crew neck make this laid-back knit tank the star of any wardrobe. A flattering silhouette and comfortable feel ensure the off-duty staple is ideal for day-long wear.",
+        "styleNumber":"ZS1330K0004",
+        "vendorNumber":"1802975",
+        "pinterest_enabled_flag":false,
+        "facebook_enabled_flag":false
+      },
+      {
+        "product_id":"7100422SELIN753036",
+        "display-name":"Ralph Lauren Collection",
+        "short-description":"The charming Selina Quilt features a patchwork in shades of brown, sage green and smoky blue with rose red accents with solid vanilla white diamonds featuring floral medallion quilting and a finishing trim of a wide band of chocolate floral and edged in a diamond pieced pattern. Add the coordinating sham and decorative pillows to complete the inviting look. The Selina pillow sham mimics the design of the quilt, with traditional diamond piecework in browns, sage green, and smoky blue. The square, patchwork Selina decorative pillow repeats all of the floral patterns from the quilt and is trimmed with self-fabric cording in chocolate brown. The oblong Selina decorative pillow features vertical ruched bands in browns, sage green and smoky blue with rose red accents and is trimmed with chocolate brown self-fabric.",
+        "online_flag":false,
+        "searchable-flag":true,
+        "tax_class_id>":"Standard",
+        "orin":"1046669",
+        "copyLine1":"test Copy_Line_1",
+        "copyLine5":"test Copy_Line_5",
+        "copyMaterial":"test Copy_Material"
+      },
+      {
+        "product_id":"0438566844569",
+        "upc":"0190172240493",
+        "online_flag":true,
+        "available_flag":true,
+        "searchable_flag":true,
+        "tax_class_id":"Standard",
+        "color":"157282522375",
+        "isGiftBoxEligible":"Yes",
+        "nrfColorCode":"157",
+        "nrfSizeCode":"31006",
+        "omniChannelColorDescription":"Ivory",
+        "omniSizeDesc":"1X",
+        "refinementColor":"White",
+        "refinementSize":"1X",
+        "size":"31006_1X",
+        "skuActiveStartDate":"2016-05-16",
+        "skuOrin":"282522391",
+        "sourcedDomestically":"Domestic"
+      },
+      {
+        "product_id":"04676238777852",
+        "upc":"0190172240493",
+        "online_flag":true,
+        "available_flag":true,
+        "searchable_flag":true,
+        "tax_class_id":"Standard",
+        "isGiftBoxEligible":"Yes",
+        "nrfColorCode":"157",
+        "nrfSizeCode":"31006",
+        "il_eligible":"true"
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "header":{
+      "version":"2013-04",
+      "scope":[
+        {
+          "products":[
+            "product_id",
+            "regularPrice"
+          ]
+        }
+      ],
+      "mode":"upsert"
+    }
+  },
+  {
+    "attributes":[]
+  },
+  {
+    "attribute_values":[]
+  },
+  {
+    "products":[
+      {
+        "product_id":"0000400063830978",
+        "regularPrice":"435"
+      }
+    ]
+  }
+]

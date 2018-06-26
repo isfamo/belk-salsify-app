@@ -1,0 +1,28 @@
+<nav class="navbar navbar-default navbar-inverse navbar-static-top" id="top-nav">
+    <div class="container">
+        <div class="navbar-header">
+            <div class="row">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" id="home" href="/"><img width="88" height="28" src="https://assets.salsify.com/assets/350e2d0721fdf7c937f6c2451a8c229bbced1b23/auth_logo.png" alt="" /></a>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="collapse navbar-collapse" id="navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a id="menu-tree" href="/attribute_refresh">Refresh Attributes</a></li>
+                    <li><a id="menu-tree" href="/rrd">RRD</a></li>
+                    <li><a id="menu-tree" href="/status">Job Status</a></li>
+                    <li><a id="menu-tree" href="/cma">CMA On-Demand</a></li>
+                    <li><a id="menu-tree" href="/tree">Categories Tree</a></li>
+                    <li><a id="menu-tree" ng-if="$root.isLogged()" href="#" ng-click="$root.logout()"><i class="fa fa-sign-out"></i> Logout</a></li>
+                    <li><a id="menu-tree" ng-if="!$root.isLogged()" href="/login" target="_self"><i class="fa fa-sign-in"></i> Login</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav>

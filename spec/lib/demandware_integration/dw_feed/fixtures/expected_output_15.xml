@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="http://www.demandware.com/xml/impex/catalog/2006-10-31" catalog-id="belk-master-catalog">
+  <product product-id="0438574760042">
+    <ean/>
+    <upc>0190510087230</upc>
+    <step-quantity>1</step-quantity>
+    <online-flag>true</online-flag>
+    <searchable-flag>true</searchable-flag>
+    <tax-class-id>Standard</tax-class-id>
+    <custom-attributes>
+      <custom-attribute attribute-id="size">10965_S</custom-attribute>
+      <custom-attribute attribute-id="color">158282916809</custom-attribute>
+      <custom-attribute attribute-id="className"/>
+      <custom-attribute attribute-id="il_eligible">true</custom-attribute>
+      <custom-attribute attribute-id="deptName"/>
+    </custom-attributes>
+  </product>
+</catalog>

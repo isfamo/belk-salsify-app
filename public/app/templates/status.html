@@ -1,0 +1,110 @@
+<div class="row">
+  <div class="col-xs-12 col-centered">
+    <div class="row">
+      <div class="col-xs-4">
+        <h2>Belk Job Status</h2>
+      </div>
+    </div>
+    <br>
+    <p>Summary:</p>
+    <ul>
+      <li>CFH Job - runs daily at 8:00pm EST</li>
+      <li>Offline CFH Job - runs daily at 10:00pm EST</li>
+      <li>CMA Job - runs daily at 8:30pm EST (FTP listener will monitor directory for up to two hours)</li>
+      <li>Color Overkey Job - runs daily at 8:30pm EST (FTP listener will monitor directory for up to two hours)</li>
+      <li>Inventory Job - runs daily at 8:00am EST</li>
+      <li>DWRE master catalog - runs regularly throughout the day every few hours</li>
+      <li>DWRE limited catalog - runs regularly throughout the day every few hours</li>
+    </ul>
+    <table class="table table-striped">
+      <caption>Last runs:</caption>
+      <thead>
+        <tr>
+          <th></th>
+          <th>Job Name</th>
+          <th>Status</th>
+          <th>Activity</th>
+          <th>Error</th>
+          <th>Start Time</th>
+          <th>End Time</th>
+          <th>Run Time</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th><i class="fa fa-circle test" ng-style="{'color': cfh_job.status=='In Progress' ? '#94D294' : ''}" aria-hidden="true"></i></th>
+          <th>CFH</th>
+          <th>{{cfh_job.status}}</th>
+          <th>{{cfh_job.activity}}</th>
+          <th>{{cfh_job.error}}</th>
+          <th>{{cfh_job.formatted_start_time}}</th>
+          <th>{{cfh_job.formatted_end_time}}</th>
+          <th>{{cfh_job.run_time}}</th>
+        </tr>
+        <tr>
+          <th><i class="fa fa-circle test" ng-style="{'color': offline_cfh_job.status=='In Progress' ? '#94D294' : ''}" aria-hidden="true"></i></th>
+          <th>Offline CFH</th>
+          <th>{{offline_cfh_job.status}}</th>
+          <th>{{offline_cfh_job.activity}}</th>
+          <th>{{offline_cfh_job.error}}</th>
+          <th>{{offline_cfh_job.formatted_start_time}}</th>
+          <th>{{offline_cfh_job.formatted_end_time}}</th>
+          <th>{{offline_cfh_job.run_time}}</th>
+        </tr>
+        <tr>
+          <th><i class="fa fa-circle test" ng-style="{'color': cma_job.status=='In Progress' ? '#94D294' : ''}" aria-hidden="true"></i></th>
+          <th>CMA</th>
+          <th>{{cma_job.status}}</th>
+          <th>{{cma_job.activity}}</th>
+          <th>{{cma_job.error}}</th>
+          <th>{{cma_job.formatted_start_time}}</th>
+          <th>{{cma_job.formatted_end_time}}</th>
+          <th>{{cma_job.run_time}}</th>
+        </tr>
+        <tr>
+          <th><i class="fa fa-circle test" ng-style="{'color': color_job.status=='In Progress' ? '#94D294' : ''}" aria-hidden="true"></i></th>
+          <th>Color Overkey</th>
+          <th>{{color_job.status}}</th>
+          <th>{{color_job.activity}}</th>
+          <th>{{color_job.error}}</th>
+          <th>{{color_job.formatted_start_time}}</th>
+          <th>{{color_job.formatted_end_time}}</th>
+          <th>{{color_job.run_time}}</th>
+        </tr>
+        <tr>
+          <th><i class="fa fa-circle test" ng-style="{'color': inventory.status=='In Progress' ? '#94D294' : ''}" aria-hidden="true"></i></th>
+          <th>Inventory Feed</th>
+          <th>{{inventory.status}}</th>
+          <th>{{inventory.activity}}</th>
+          <th>{{inventory.error}}</th>
+          <th>{{inventory.formatted_start_time}}</th>
+          <th>{{inventory.formatted_end_time}}</th>
+          <th>{{inventory.run_time}}</th>
+        </tr>
+        <tr>
+          <th><i class="fa fa-circle test" ng-style="{'color': dwre_master.status=='In Progress' ? '#94D294' : ''}" aria-hidden="true"></i></th>
+          <th>DWRE Master</th>
+          <th>{{dwre_master.status}}</th>
+          <th>{{dwre_master.activity}}</th>
+          <th>{{dwre_master.error}}</th>
+          <th>{{dwre_master.formatted_start_time}}</th>
+          <th>{{dwre_master.formatted_end_time}}</th>
+          <th>{{dwre_master.run_time}}</th>
+        </tr>
+        <tr>
+          <th><i class="fa fa-circle test" ng-style="{'color': dwre_limited.status=='In Progress' ? '#94D294' : ''}" aria-hidden="true"></i></th>
+          <th>DWRE Limited</th>
+          <th>{{dwre_limited.status}}</th>
+          <th>{{dwre_limited.activity}}</th>
+          <th>{{dwre_limited.error}}</th>
+          <th>{{dwre_limited.formatted_start_time}}</th>
+          <th>{{dwre_limited.formatted_end_time}}</th>
+          <th>{{dwre_limited.run_time}}</th>
+        </tr>
+      </tbody>
+    </table>
+
+    <br>
+    <br>
+  </div>
+</div>

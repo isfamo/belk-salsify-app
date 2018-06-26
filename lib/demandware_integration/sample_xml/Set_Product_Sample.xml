@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="http://www.demandware.com/xml/impex/catalog/2006-10-31" catalog-id="belk-master-catalog">
+    <header>
+        <image-settings>
+            <external-location>
+                <http-url>http://belk.scene7.com</http-url>
+                <https-url>https://belk.scene7.com</https-url>
+            </external-location>
+            <view-types>
+                <view-type>imageURL</view-type>
+                <view-type>swatch</view-type>
+            </view-types>
+            <variation-attribute-id>color</variation-attribute-id>
+            <alt-pattern>${productname}</alt-pattern>
+            <title-pattern>${productname}</title-pattern>
+        </image-settings>
+    </header>
+
+    <product product-id="0438558896293">
+        <ean/>
+        <upc>0773602403134</upc>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Expedited_Shipping">Y</custom-attribute>
+            <custom-attribute attribute-id="Max_Buy_Quantity">3</custom-attribute>
+            <custom-attribute attribute-id="color">900207372611</custom-attribute>
+            <custom-attribute attribute-id="directShipFlag">false</custom-attribute>
+            <custom-attribute attribute-id="eventCodeID">
+                <value>F2205</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="il_eligible">false</custom-attribute>
+            <custom-attribute attribute-id="isGiftBoxEligible">Yes</custom-attribute>
+            <custom-attribute attribute-id="isMaster">false</custom-attribute>
+            <custom-attribute attribute-id="nrfColorCode">900</custom-attribute>
+            <custom-attribute attribute-id="nrfSizeCode">00000</custom-attribute>
+            <custom-attribute attribute-id="omniChannelColorDescription">Taupe</custom-attribute>
+            <custom-attribute attribute-id="omniSizeDesc">One Size</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">
+                <value>brown</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="refinementSize">
+                <value>One Size</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="regularPrice">21.0</custom-attribute>
+            <custom-attribute attribute-id="size">00000_OneSize</custom-attribute>
+            <custom-attribute attribute-id="skuOrin">277343330</custom-attribute>
+            <custom-attribute attribute-id="sourcedDomestically">Import</custom-attribute>
+            <custom-attribute attribute-id="vendorColorDescription">07taupe</custom-attribute>
+            <custom-attribute attribute-id="vendorSizeDescription">No Size</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="0400674836446">
+        <ean/>
+        <upc>0773602279166</upc>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Expedited_Shipping">Y</custom-attribute>
+            <custom-attribute attribute-id="Max_Buy_Quantity">3</custom-attribute>
+            <custom-attribute attribute-id="color">200207372611</custom-attribute>
+            <custom-attribute attribute-id="directShipFlag">false</custom-attribute>
+            <custom-attribute attribute-id="eventCodeID">
+                <value>F2205</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="il_eligible">false</custom-attribute>
+            <custom-attribute attribute-id="isGiftBoxEligible">Yes</custom-attribute>
+            <custom-attribute attribute-id="isMaster">false</custom-attribute>
+            <custom-attribute attribute-id="nrfColorCode">200</custom-attribute>
+            <custom-attribute attribute-id="nrfSizeCode">00000</custom-attribute>
+            <custom-attribute attribute-id="omniChannelColorDescription">Strawberry Blonde</custom-attribute>
+            <custom-attribute attribute-id="omniSizeDesc">One Size</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">
+                <value>brown</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="refinementSize">
+                <value>One Size</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="regularPrice">21.0</custom-attribute>
+            <custom-attribute attribute-id="size">00000_OneSize</custom-attribute>
+            <custom-attribute attribute-id="skuOrin">207372629</custom-attribute>
+            <custom-attribute attribute-id="sourcedDomestically">Import</custom-attribute>
+            <custom-attribute attribute-id="vendorColorDescription">01strawberry Blonde</custom-attribute>
+            <custom-attribute attribute-id="vendorSizeDescription">No Size</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="0400306217537">
+        <ean/>
+        <upc>0773602408801</upc>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Expedited_Shipping">Y</custom-attribute>
+            <custom-attribute attribute-id="Max_Buy_Quantity">3</custom-attribute>
+            <custom-attribute attribute-id="color">000100054597</custom-attribute>
+            <custom-attribute attribute-id="directShipFlag">false</custom-attribute>
+            <custom-attribute attribute-id="eventCodeID">
+                <value>F2205</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="il_eligible">false</custom-attribute>
+            <custom-attribute attribute-id="isGiftBoxEligible">Yes</custom-attribute>
+            <custom-attribute attribute-id="isMaster">false</custom-attribute>
+            <custom-attribute attribute-id="nrfColorCode">000</custom-attribute>
+            <custom-attribute attribute-id="nrfSizeCode">00000</custom-attribute>
+            <custom-attribute attribute-id="omniChannelColorDescription">Clear</custom-attribute>
+            <custom-attribute attribute-id="omniSizeDesc">One Size</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">
+                <value>no color</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="refinementSize">
+                <value>One Size</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="regularPrice">16.0</custom-attribute>
+            <custom-attribute attribute-id="size">00000_OneSize</custom-attribute>
+            <custom-attribute attribute-id="skuOrin">101048786</custom-attribute>
+            <custom-attribute attribute-id="sourcedDomestically">Import</custom-attribute>
+            <custom-attribute attribute-id="vendorColorDescription">NO COLOR</custom-attribute>
+            <custom-attribute attribute-id="vendorSizeDescription">No Size</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="0400674836491">
+        <ean/>
+        <upc>0773602279203</upc>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Expedited_Shipping">Y</custom-attribute>
+            <custom-attribute attribute-id="Max_Buy_Quantity">3</custom-attribute>
+            <custom-attribute attribute-id="color">204207372611</custom-attribute>
+            <custom-attribute attribute-id="directShipFlag">false</custom-attribute>
+            <custom-attribute attribute-id="eventCodeID">
+                <value>F2205</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="il_eligible">false</custom-attribute>
+            <custom-attribute attribute-id="isGiftBoxEligible">Yes</custom-attribute>
+            <custom-attribute attribute-id="isMaster">false</custom-attribute>
+            <custom-attribute attribute-id="nrfColorCode">204</custom-attribute>
+            <custom-attribute attribute-id="nrfSizeCode">00000</custom-attribute>
+            <custom-attribute attribute-id="omniChannelColorDescription">Deep Dark Brunette</custom-attribute>
+            <custom-attribute attribute-id="omniSizeDesc">One Size</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">
+                <value>brown</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="refinementSize">
+                <value>One Size</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="regularPrice">21.0</custom-attribute>
+            <custom-attribute attribute-id="size">00000_OneSize</custom-attribute>
+            <custom-attribute attribute-id="skuOrin">207372661</custom-attribute>
+            <custom-attribute attribute-id="sourcedDomestically">Import</custom-attribute>
+            <custom-attribute attribute-id="vendorColorDescription">05deep Dark Brunette</custom-attribute>
+            <custom-attribute attribute-id="vendorSizeDescription">No Size</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="5900090MW7X">
+        <ean/>
+        <upc/>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Brooke Shields Studio Nail Lacquer</display-name>
+        <short-description xml:lang="x-default">********PLEASE UPDATE ENTIRE PRODUCT DESCRIPTION TO******
+New high-gloss formula. Visibly different. Provides no-streak/no-chip finish. Contains conditioners and UV protection. Go hi-lacquer! Limited-edition packaging in light grey with brilliant orange accents and Brooke&amp;#8217;s signature.</short-description>
+        <long-description xml:lang="x-default">New high-gloss formula. Visibly different. Provides no-streak/no-chip finish. Contains conditioners and UV protection. Go hi-lacquer! Limited-edition packaging in light gray with brilliant orange accents and Brooke's signature.</long-description>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <images>
+            <image-group view-type="imageURL">
+                <image path="/is/image/Belk?layer=0&amp;src=5900090_MW7X_A_600_T10L00&amp;layer=comp&amp;"/>
+            </image-group>
+            <image-group view-type="imageURL" variation-value="600248543631">
+                <image path="/is/image/Belk?layer=0&amp;src=5900090_MW7X_A_600_T10L00&amp;layer=comp&amp;"/>
+            </image-group>
+            <image-group view-type="imageURL" variation-value="800248543631">
+                <image path="/is/image/Belk?layer=0&amp;src=5900090_MW7X_A_600_T10L00&amp;layer=comp&amp;"/>
+            </image-group>
+            <image-group view-type="swatch" variation-value="600248543631">
+                <image path="/is/image/Belk/5900090_MW7X_SW_600_TSP?&amp;"/>
+            </image-group>
+            <image-group view-type="swatch" variation-value="800248543631">
+                <image path="/is/image/Belk/5900090_MW7X_SW_800_TSP?&amp;"/>
+            </image-group>
+        </images>
+        <tax-class-id>standard</tax-class-id>
+        <brand>MAC</brand>
+        <sitemap-included-flag>true</sitemap-included-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="className">COLOR</custom-attribute>
+            <custom-attribute attribute-id="classNumber">6730</custom-attribute>
+            <custom-attribute attribute-id="conversionFlag">true</custom-attribute>
+            <custom-attribute attribute-id="copyCAProp65Compliant">T</custom-attribute>
+            <custom-attribute attribute-id="copyExclusive">No</custom-attribute>
+            <custom-attribute attribute-id="copyImportDomestic">Import</custom-attribute>
+            <custom-attribute attribute-id="defaultSkuCode">0438525156061</custom-attribute>
+            <custom-attribute attribute-id="demandCtr">70</custom-attribute>
+            <custom-attribute attribute-id="demandCtrName">COSMETICS</custom-attribute>
+            <custom-attribute attribute-id="deptName">MAC</custom-attribute>
+            <custom-attribute attribute-id="deptNumber">612</custom-attribute>
+            <custom-attribute attribute-id="fobName">CENTER CORE</custom-attribute>
+            <custom-attribute attribute-id="fobNumber">24</custom-attribute>
+            <custom-attribute attribute-id="iphCategory">Item_Primary_Hierarchy///4174-Beauty///4229-Nails///4232-Nail_Polish</custom-attribute>
+            <custom-attribute attribute-id="iphL1">Beauty</custom-attribute>
+            <custom-attribute attribute-id="iphL2">Nails</custom-attribute>
+            <custom-attribute attribute-id="iphL3">Nail_Polish</custom-attribute>
+            <custom-attribute attribute-id="isMaster">true</custom-attribute>
+            <custom-attribute attribute-id="isPYG">No</custom-attribute>
+            <custom-attribute attribute-id="mirVendorNumber">5900090</custom-attribute>
+            <custom-attribute attribute-id="orin">248543631</custom-attribute>
+            <custom-attribute attribute-id="productCopyText">New high-gloss formula. Visibly different. Provides no-streak/no-chip finish. Contains conditioners and UV protection. Go hi-lacquer! Limited-edition packaging in light gray with brilliant orange accents and Brooke's signature.</custom-attribute>
+            <custom-attribute attribute-id="styleNumber">MW7X</custom-attribute>
+            <custom-attribute attribute-id="vendorName">MAKE-UP ART COSMETICS</custom-attribute>
+            <custom-attribute attribute-id="vendorNumber">5900090</custom-attribute>
+        </custom-attributes>
+        <variations>
+            <attributes>
+                <variation-attribute attribute-id="color" variation-attribute-id="color">
+                    <display-name xml:lang="x-default">color</display-name>
+                    <variation-attribute-values>
+                        <variation-attribute-value value="800248543631">
+                            <display-value xml:lang="x-default">Dignity</display-value>
+                        </variation-attribute-value>
+                        <variation-attribute-value value="600248543631">
+                            <display-value xml:lang="x-default">Pricey</display-value>
+                        </variation-attribute-value>
+                    </variation-attribute-values>
+                </variation-attribute>
+                <variation-attribute attribute-id="size" variation-attribute-id="size">
+                    <display-name xml:lang="x-default">size</display-name>
+                    <variation-attribute-values>
+                        <variation-attribute-value value="00000_OneSize">
+                            <display-value xml:lang="x-default">One Size</display-value>
+                        </variation-attribute-value>
+                    </variation-attribute-values>
+                </variation-attribute>
+            </attributes>
+            <variants>
+                <variant product-id="0438525156061"/>
+                <variant product-id="0438525156085"/>
+            </variants>
+        </variations>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="0400636587577">
+        <ean/>
+        <upc>0773602237500</upc>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Expedited_Shipping">Y</custom-attribute>
+            <custom-attribute attribute-id="Max_Buy_Quantity">3</custom-attribute>
+            <custom-attribute attribute-id="color">001100055931</custom-attribute>
+            <custom-attribute attribute-id="directShipFlag">false</custom-attribute>
+            <custom-attribute attribute-id="eventCodeID">
+                <value>F2205</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="il_eligible">false</custom-attribute>
+            <custom-attribute attribute-id="isGiftBoxEligible">Yes</custom-attribute>
+            <custom-attribute attribute-id="isMaster">false</custom-attribute>
+            <custom-attribute attribute-id="nrfColorCode">001</custom-attribute>
+            <custom-attribute attribute-id="nrfSizeCode">00000</custom-attribute>
+            <custom-attribute attribute-id="omniChannelColorDescription">Optimum Black</custom-attribute>
+            <custom-attribute attribute-id="omniSizeDesc">One Size</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">
+                <value>black</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="refinementSize">
+                <value>One Size</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="regularPrice">17.0</custom-attribute>
+            <custom-attribute attribute-id="size">00000_OneSize</custom-attribute>
+            <custom-attribute attribute-id="skuOrin">101053638</custom-attribute>
+            <custom-attribute attribute-id="sourcedDomestically">Import</custom-attribute>
+            <custom-attribute attribute-id="vendorColorDescription">07OPTIMUM</custom-attribute>
+            <custom-attribute attribute-id="vendorSizeDescription">No Size</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="0438558896286">
+        <ean/>
+        <upc>0773602403110</upc>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Expedited_Shipping">Y</custom-attribute>
+            <custom-attribute attribute-id="Max_Buy_Quantity">3</custom-attribute>
+            <custom-attribute attribute-id="color">920207372611</custom-attribute>
+            <custom-attribute attribute-id="directShipFlag">false</custom-attribute>
+            <custom-attribute attribute-id="eventCodeID">
+                <value>F2205</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="il_eligible">false</custom-attribute>
+            <custom-attribute attribute-id="isGiftBoxEligible">Yes</custom-attribute>
+            <custom-attribute attribute-id="isMaster">false</custom-attribute>
+            <custom-attribute attribute-id="nrfColorCode">920</custom-attribute>
+            <custom-attribute attribute-id="nrfSizeCode">00000</custom-attribute>
+            <custom-attribute attribute-id="omniChannelColorDescription">Omega</custom-attribute>
+            <custom-attribute attribute-id="omniSizeDesc">One Size</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">
+                <value>tan/khaki</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="refinementSize">
+                <value>One Size</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="regularPrice">21.0</custom-attribute>
+            <custom-attribute attribute-id="size">00000_OneSize</custom-attribute>
+            <custom-attribute attribute-id="skuOrin">277343321</custom-attribute>
+            <custom-attribute attribute-id="sourcedDomestically">Import</custom-attribute>
+            <custom-attribute attribute-id="vendorColorDescription">06omega</custom-attribute>
+            <custom-attribute attribute-id="vendorSizeDescription">No Size</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="0438558896309">
+        <ean/>
+        <upc>0773602403141</upc>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Expedited_Shipping">Y</custom-attribute>
+            <custom-attribute attribute-id="Max_Buy_Quantity">3</custom-attribute>
+            <custom-attribute attribute-id="color">901207372611</custom-attribute>
+            <custom-attribute attribute-id="directShipFlag">false</custom-attribute>
+            <custom-attribute attribute-id="eventCodeID">
+                <value>F2205</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="il_eligible">false</custom-attribute>
+            <custom-attribute attribute-id="isGiftBoxEligible">Yes</custom-attribute>
+            <custom-attribute attribute-id="isMaster">false</custom-attribute>
+            <custom-attribute attribute-id="nrfColorCode">901</custom-attribute>
+            <custom-attribute attribute-id="nrfSizeCode">00000</custom-attribute>
+            <custom-attribute attribute-id="omniChannelColorDescription">Dirty Blonde</custom-attribute>
+            <custom-attribute attribute-id="omniSizeDesc">One Size</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">
+                <value>brown</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="refinementSize">
+                <value>One Size</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="regularPrice">21.0</custom-attribute>
+            <custom-attribute attribute-id="size">00000_OneSize</custom-attribute>
+            <custom-attribute attribute-id="skuOrin">277343348</custom-attribute>
+            <custom-attribute attribute-id="sourcedDomestically">Import</custom-attribute>
+            <custom-attribute attribute-id="vendorColorDescription">08dirty Blonde</custom-attribute>
+            <custom-attribute attribute-id="vendorSizeDescription">No Size</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="0438558896316">
+        <ean/>
+        <upc>0773602403158</upc>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Expedited_Shipping">Y</custom-attribute>
+            <custom-attribute attribute-id="Max_Buy_Quantity">3</custom-attribute>
+            <custom-attribute attribute-id="color">902207372611</custom-attribute>
+            <custom-attribute attribute-id="directShipFlag">false</custom-attribute>
+            <custom-attribute attribute-id="eventCodeID">
+                <value>F2205</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="il_eligible">false</custom-attribute>
+            <custom-attribute attribute-id="isGiftBoxEligible">Yes</custom-attribute>
+            <custom-attribute attribute-id="isMaster">false</custom-attribute>
+            <custom-attribute attribute-id="nrfColorCode">902</custom-attribute>
+            <custom-attribute attribute-id="nrfSizeCode">00000</custom-attribute>
+            <custom-attribute attribute-id="omniChannelColorDescription">Velvetstone</custom-attribute>
+            <custom-attribute attribute-id="omniSizeDesc">One Size</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">
+                <value>brown</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="refinementSize">
+                <value>One Size</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="regularPrice">21.0</custom-attribute>
+            <custom-attribute attribute-id="size">00000_OneSize</custom-attribute>
+            <custom-attribute attribute-id="skuOrin">277343356</custom-attribute>
+            <custom-attribute attribute-id="sourcedDomestically">Import</custom-attribute>
+            <custom-attribute attribute-id="vendorColorDescription">09velvetone</custom-attribute>
+            <custom-attribute attribute-id="vendorSizeDescription">No Size</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="99999999979MACB">
+        <ean/>
+        <upc/>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">MAC Brooke Shields</display-name>
+        <short-description xml:lang="x-default">The world has never seen a beauty quite like Brooke Shields.  With effortless grace and an inner radiance, Brooke is as iconic as her career-defining roles ? from ethereal dream girl to castaway goddess, glamorous model-next-door to accomplished actress.
+
+
+
+M?A?C partners with Ms. Shields to create a limited-edition colour collection of shades and finishes chosen by Brooke herself, inspired by her favourite looks for day and night ? easy, modern and beautiful. 
+
+
+
+Eye Shadow x 15 features fifteen shades in finishes from soft golden peach to duo chrome pink, frosted nudes and deep cocoas to shimmering olive, all in a convenient palette for creating an array of natural to smoky eyes. Veluxe Pearlfusion Shadow glides on in two coordinated colour waves. Be like Brooke by day with satin silver shimmer, violet and pink with gold pearl, or style an evening look based on her palette glimmering with cool beige, mid-tone grey, dark charcoal, blackened plum and brown.
+
+
+
+Veluxe Brow Liner in Brunette and Clear Brow Set frame the face with modern, defined eyebrows, undeniably Brooke. Bronzing Powder in neutral tan enhances your skin tone, while Cremeblend Blush Duo combines coral pink with soft rose, polishing cheeks with blushing warmth. 
+
+
+
+Two lip looks express Brooke&amp;#8217;s Gemini duality ? bright orange-red lustrously layered with matching Lipglass and a sophisticated shimmer of coral gloss complementing a rich, burgundy Lipstick. Play up the persona with a duo of corresponding Nail Lacquers in classic cream formulas.
+
+
+
+This limited-edition Beauty Icon collection is made all the more special with Brooke&amp;#8217;s signature embossed on light grey packaging with brilliant orange accents.  
+
+
+
+Our life-long romance with Brooke Shields is and always will be forever.</short-description>
+        <long-description xml:lang="x-default">The world has never seen a beauty quite like Brooke Shields. With effortless grace and an inner radiance, Brooke is as iconic as her career-defining roles from ethereal dream girl to castaway goddess, glamorous model-next-door to accomplished actress.
+
+
+
+MAC partners with Ms. Shields to create a limited-edition colour collection of shades and finishes chosen by Brooke herself, inspired by her favorite looks for day and night easy, modern and beautiful. 
+
+
+
+Eye Shadow x 15 features fifteen shades in finishes from soft golden peach to duo chrome pink, frosted nudes and deep cocoas to shimmering olive, all in a convenient palette for creating an array of natural to smoky eyes. Veluxe Pearlfusion Shadow glides on in two coordinated colour waves. Be like Brooke by day with satin silver shimmer, violet and pink with gold pearl, or style an evening look based on her palette glimmering with cool beige, mid-tone gray, dark charcoal, blackened plum and brown.
+
+
+
+Veluxe Brow Liner in Brunette and Clear Brow Set frame the face with modern, defined eyebrows, undeniably Brooke. Bronzing Powder in neutral tan enhances your skin tone, while Creme blend Blush Duo combines coral pink with soft rose, polishing cheeks with blushing warmth. 
+
+
+
+Two lip looks express Brooke&amp;#8217;s Gemini duality bright orange-red lustrously layered with matching Lipglass and a sophisticated shimmer of coral gloss complementing a rich, burgundy Lipstick. Play up the persona with a duo of corresponding Nail Lacquers in classic cream formulas.
+
+
+
+This limited-edition Beauty Icon collection is made all the more special with Brooke&amp;#8217;s signature embossed on light gray packaging with brilliant orange accents.  
+
+
+
+Our life-long romance with Brooke Shields is and always will be forever.</long-description>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <online-from>2014-09-29T04:00:00.000Z</online-from>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <images>
+            <image-group view-type="imageURL">
+                <image path="is/image/Belk?layer=0&amp;src=9999999_9979MACB_A_000_T10L00&amp;layer=comp&amp;"/>
+            </image-group>
+            <image-group view-type="swatch">
+                <image path="is/image/Belk?layer=0&amp;src=9999999_9979MACB_A_000_T10L00&amp;crop=1294,612,276,276&amp;layer=comp&amp;"/>
+            </image-group>
+        </images>
+        <tax-class-id>standard</tax-class-id>
+        <brand>MAC</brand>
+        <sitemap-included-flag>true</sitemap-included-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="conversionFlag">true</custom-attribute>
+            <custom-attribute attribute-id="copyCAProp65Compliant">T</custom-attribute>
+            <custom-attribute attribute-id="defaultColorIds">
+                <value>000100054597</value>
+                <value>200207372611</value>
+                <value>001100055931</value>
+                <value>200248543383</value>
+                <value>200248543594</value>
+                <value>600248543666</value>
+                <value>800248543691</value>
+                <value>250248543244</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="defaultSkuCode">dsku100040902</custom-attribute>
+            <custom-attribute attribute-id="groupingType">BCG</custom-attribute>
+            <custom-attribute attribute-id="iphCategory">Item_Primary_Hierarchy///6220-Product_Grouping///6225-Beauty_Collection</custom-attribute>
+            <custom-attribute attribute-id="iphL1">Beauty</custom-attribute>
+            <custom-attribute attribute-id="iphL2">Nails</custom-attribute>
+            <custom-attribute attribute-id="iphL3">Nail_Polish</custom-attribute>
+            <custom-attribute attribute-id="orin">1024114</custom-attribute>
+            <custom-attribute attribute-id="productCopyText">The world has never seen a beauty quite like Brooke Shields. With effortless grace and an inner radiance, Brooke is as iconic as her career-defining roles from ethereal dream girl to castaway goddess, glamorous model-next-door to accomplished actress.
+
+
+
+MAC partners with Ms. Shields to create a limited-edition colour collection of shades and finishes chosen by Brooke herself, inspired by her favorite looks for day and night easy, modern and beautiful. 
+
+
+
+Eye Shadow x 15 features fifteen shades in finishes from soft golden peach to duo chrome pink, frosted nudes and deep cocoas to shimmering olive, all in a convenient palette for creating an array of natural to smoky eyes. Veluxe Pearlfusion Shadow glides on in two coordinated colour waves. Be like Brooke by day with satin silver shimmer, violet and pink with gold pearl, or style an evening look based on her palette glimmering with cool beige, mid-tone gray, dark charcoal, blackened plum and brown.
+
+
+
+Veluxe Brow Liner in Brunette and Clear Brow Set frame the face with modern, defined eyebrows, undeniably Brooke. Bronzing Powder in neutral tan enhances your skin tone, while Creme blend Blush Duo combines coral pink with soft rose, polishing cheeks with blushing warmth. 
+
+
+
+Two lip looks express Brooke&amp;#8217;s Gemini duality bright orange-red lustrously layered with matching Lipglass and a sophisticated shimmer of coral gloss complementing a rich, burgundy Lipstick. Play up the persona with a duo of corresponding Nail Lacquers in classic cream formulas.
+
+
+
+This limited-edition Beauty Icon collection is made all the more special with Brooke&amp;#8217;s signature embossed on light gray packaging with brilliant orange accents.  
+
+
+
+Our life-long romance with Brooke Shields is and always will be forever.</custom-attribute>
+        </custom-attributes>
+        <product-set-products>
+            <product-set-product product-id="5900090BROOK6730G0"/>
+            <product-set-product product-id="5900090MW7X"/>
+            <product-set-product product-id="0400306217537"/>
+            <product-set-product product-id="0400674836446"/>
+            <product-set-product product-id="0400674836460"/>
+            <product-set-product product-id="0400674836477"/>
+            <product-set-product product-id="0400674836484"/>
+            <product-set-product product-id="0400674836491"/>
+            <product-set-product product-id="0438558896293"/>
+            <product-set-product product-id="0438558896309"/>
+            <product-set-product product-id="0438558896316"/>
+            <product-set-product product-id="0438558896323"/>
+            <product-set-product product-id="0438558896286"/>
+            <product-set-product product-id="0400636587577"/>
+        </product-set-products>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="0400674836484">
+        <ean/>
+        <upc>0773602279197</upc>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Expedited_Shipping">Y</custom-attribute>
+            <custom-attribute attribute-id="Max_Buy_Quantity">3</custom-attribute>
+            <custom-attribute attribute-id="color">203207372611</custom-attribute>
+            <custom-attribute attribute-id="directShipFlag">false</custom-attribute>
+            <custom-attribute attribute-id="eventCodeID">
+                <value>F2205</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="il_eligible">false</custom-attribute>
+            <custom-attribute attribute-id="isGiftBoxEligible">Yes</custom-attribute>
+            <custom-attribute attribute-id="isMaster">false</custom-attribute>
+            <custom-attribute attribute-id="nrfColorCode">203</custom-attribute>
+            <custom-attribute attribute-id="nrfSizeCode">00000</custom-attribute>
+            <custom-attribute attribute-id="omniChannelColorDescription">Deep Brunette</custom-attribute>
+            <custom-attribute attribute-id="omniSizeDesc">One Size</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">
+                <value>brown</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="refinementSize">
+                <value>One Size</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="regularPrice">21.0</custom-attribute>
+            <custom-attribute attribute-id="size">00000_OneSize</custom-attribute>
+            <custom-attribute attribute-id="skuOrin">207372653</custom-attribute>
+            <custom-attribute attribute-id="sourcedDomestically">Import</custom-attribute>
+            <custom-attribute attribute-id="vendorColorDescription">04deep Brunette</custom-attribute>
+            <custom-attribute attribute-id="vendorSizeDescription">No Size</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="0400674836477">
+        <ean/>
+        <upc>0773602279180</upc>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Expedited_Shipping">Y</custom-attribute>
+            <custom-attribute attribute-id="Max_Buy_Quantity">3</custom-attribute>
+            <custom-attribute attribute-id="color">202207372611</custom-attribute>
+            <custom-attribute attribute-id="directShipFlag">false</custom-attribute>
+            <custom-attribute attribute-id="eventCodeID">
+                <value>F2205</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="il_eligible">false</custom-attribute>
+            <custom-attribute attribute-id="isGiftBoxEligible">Yes</custom-attribute>
+            <custom-attribute attribute-id="isMaster">false</custom-attribute>
+            <custom-attribute attribute-id="nrfColorCode">202</custom-attribute>
+            <custom-attribute attribute-id="nrfSizeCode">00000</custom-attribute>
+            <custom-attribute attribute-id="omniChannelColorDescription">Brunette</custom-attribute>
+            <custom-attribute attribute-id="omniSizeDesc">One Size</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">
+                <value>brown</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="refinementSize">
+                <value>One Size</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="regularPrice">21.0</custom-attribute>
+            <custom-attribute attribute-id="size">00000_OneSize</custom-attribute>
+            <custom-attribute attribute-id="skuOrin">207372645</custom-attribute>
+            <custom-attribute attribute-id="sourcedDomestically">Import</custom-attribute>
+            <custom-attribute attribute-id="vendorColorDescription">03BRUNETTE</custom-attribute>
+            <custom-attribute attribute-id="vendorSizeDescription">No Size</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="5900090BROOK6730G0">
+        <ean/>
+        <upc/>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Brooke Shields Lipstick</display-name>
+        <short-description xml:lang="x-default">Colour plus texture for the lips. Limited-edition packaging in light grey with brilliant orange accents and Brooke?s signature.</short-description>
+        <long-description xml:lang="x-default">Color plus texture for the lips that comes in limited-edition packaging in light gray with brilliant orange accents.</long-description>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <images>
+            <image-group view-type="imageURL">
+                <image path="is/image/Belk?layer=0&amp;src=5900090_MW7W_A_600_T10L00&amp;layer=comp&amp;"/>
+            </image-group>
+            <image-group view-type="imageURL" variation-value="600248543615">
+                <image path="is/image/Belk?layer=0&amp;src=5900090_MW7W_A_600_T10L00&amp;layer=comp&amp;"/>
+            </image-group>
+            <image-group view-type="swatch" variation-value="600248543615">
+                <image path="is/image/Belk/5900090_MW7W_SW_600_TSP?&amp;"/>
+            </image-group>
+        </images>
+        <tax-class-id>standard</tax-class-id>
+        <brand>MAC</brand>
+        <sitemap-included-flag>true</sitemap-included-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="className">COLOR</custom-attribute>
+            <custom-attribute attribute-id="classNumber">6730</custom-attribute>
+            <custom-attribute attribute-id="conversionFlag">true</custom-attribute>
+            <custom-attribute attribute-id="copyCAProp65Compliant">T</custom-attribute>
+            <custom-attribute attribute-id="copyImportDomestic">Import</custom-attribute>
+            <custom-attribute attribute-id="defaultSkuCode">0438525156009</custom-attribute>
+            <custom-attribute attribute-id="demandCtr">70</custom-attribute>
+            <custom-attribute attribute-id="demandCtrName">COSMETICS</custom-attribute>
+            <custom-attribute attribute-id="deptName">MAC</custom-attribute>
+            <custom-attribute attribute-id="deptNumber">612</custom-attribute>
+            <custom-attribute attribute-id="fobName">CENTER CORE</custom-attribute>
+            <custom-attribute attribute-id="fobNumber">24</custom-attribute>
+            <custom-attribute attribute-id="iphCategory">Item_Primary_Hierarchy///4174-Beauty///4205-Makeup///4221-Lips///4227-Lipstick</custom-attribute>
+            <custom-attribute attribute-id="iphL1">Beauty</custom-attribute>
+            <custom-attribute attribute-id="iphL2">Makeup</custom-attribute>
+            <custom-attribute attribute-id="iphL3">Lips</custom-attribute>
+            <custom-attribute attribute-id="iphL4">Lipstick</custom-attribute>
+            <custom-attribute attribute-id="isMaster">true</custom-attribute>
+            <custom-attribute attribute-id="isPYG">No</custom-attribute>
+            <custom-attribute attribute-id="isSizeGroupingCPG">false</custom-attribute>
+            <custom-attribute attribute-id="mirVendorNumber">5900090</custom-attribute>
+            <custom-attribute attribute-id="orin">1074672</custom-attribute>
+            <custom-attribute attribute-id="productCopyText">Color plus texture for the lips that comes in limited-edition packaging in light gray with brilliant orange accents.</custom-attribute>
+            <custom-attribute attribute-id="styleNumber">MW7W</custom-attribute>
+            <custom-attribute attribute-id="vendorName">MAKE-UP ART COSMETICS</custom-attribute>
+            <custom-attribute attribute-id="vendorNumber">5900090</custom-attribute>
+        </custom-attributes>
+        <variations>
+            <attributes>
+                <variation-attribute attribute-id="color" variation-attribute-id="color">
+                    <display-name xml:lang="x-default">color</display-name>
+                    <variation-attribute-values>
+                        <variation-attribute-value value="600248543615">
+                            <display-value xml:lang="x-default">Excite</display-value>
+                        </variation-attribute-value>
+                    </variation-attribute-values>
+                </variation-attribute>
+                <variation-attribute attribute-id="size" variation-attribute-id="size">
+                    <display-name xml:lang="x-default">size</display-name>
+                    <variation-attribute-values>
+                        <variation-attribute-value value="00000_OneSize">
+                            <display-value xml:lang="x-default">One Size</display-value>
+                        </variation-attribute-value>
+                    </variation-attribute-values>
+                </variation-attribute>
+            </attributes>
+            <variants>
+                <variant product-id="0438525156047"/>
+            </variants>
+        </variations>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="0400674836460">
+        <ean/>
+        <upc>0773602279173</upc>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Expedited_Shipping">Y</custom-attribute>
+            <custom-attribute attribute-id="Max_Buy_Quantity">3</custom-attribute>
+            <custom-attribute attribute-id="color">201207372611</custom-attribute>
+            <custom-attribute attribute-id="directShipFlag">false</custom-attribute>
+            <custom-attribute attribute-id="eventCodeID">
+                <value>F2205</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="il_eligible">false</custom-attribute>
+            <custom-attribute attribute-id="isGiftBoxEligible">Yes</custom-attribute>
+            <custom-attribute attribute-id="isMaster">false</custom-attribute>
+            <custom-attribute attribute-id="nrfColorCode">201</custom-attribute>
+            <custom-attribute attribute-id="nrfSizeCode">00000</custom-attribute>
+            <custom-attribute attribute-id="omniChannelColorDescription">Redhead</custom-attribute>
+            <custom-attribute attribute-id="omniSizeDesc">One Size</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">
+                <value>brown</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="refinementSize">
+                <value>One Size</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="regularPrice">21.0</custom-attribute>
+            <custom-attribute attribute-id="size">00000_OneSize</custom-attribute>
+            <custom-attribute attribute-id="skuOrin">207372637</custom-attribute>
+            <custom-attribute attribute-id="sourcedDomestically">Import</custom-attribute>
+            <custom-attribute attribute-id="vendorColorDescription">02REDHEAD</custom-attribute>
+            <custom-attribute attribute-id="vendorSizeDescription">No Size</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="0438558896323">
+        <ean/>
+        <upc>0773602403165</upc>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Expedited_Shipping">Y</custom-attribute>
+            <custom-attribute attribute-id="Max_Buy_Quantity">3</custom-attribute>
+            <custom-attribute attribute-id="color">903207372611</custom-attribute>
+            <custom-attribute attribute-id="directShipFlag">false</custom-attribute>
+            <custom-attribute attribute-id="eventCodeID">
+                <value>F2205</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="il_eligible">false</custom-attribute>
+            <custom-attribute attribute-id="isGiftBoxEligible">Yes</custom-attribute>
+            <custom-attribute attribute-id="isMaster">false</custom-attribute>
+            <custom-attribute attribute-id="nrfColorCode">903</custom-attribute>
+            <custom-attribute attribute-id="nrfSizeCode">00000</custom-attribute>
+            <custom-attribute attribute-id="omniChannelColorDescription">Fling</custom-attribute>
+            <custom-attribute attribute-id="omniSizeDesc">One Size</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">
+                <value>brown</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="refinementSize">
+                <value>One Size</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="regularPrice">21.0</custom-attribute>
+            <custom-attribute attribute-id="size">00000_OneSize</custom-attribute>
+            <custom-attribute attribute-id="skuOrin">277343364</custom-attribute>
+            <custom-attribute attribute-id="sourcedDomestically">Import</custom-attribute>
+            <custom-attribute attribute-id="vendorColorDescription">10fling</custom-attribute>
+            <custom-attribute attribute-id="vendorSizeDescription">No Size</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+</catalog>

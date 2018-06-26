@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="http://www.demandware.com/xml/impex/catalog/2006-10-31" catalog-id="belk-master-catalog">
+  <product product-id="32033401290140">
+    <ean/>
+    <upc/>
+    <step-quantity/>
+    <display-name/>
+    <online-flag>true</online-flag>
+    <searchable-flag>true</searchable-flag>
+    <tax-class-id>Standard</tax-class-id>
+    <brand>Under Armour®</brand>
+    <sitemap-included-flag>false</sitemap-included-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="isMaster">true</custom-attribute>
+      <custom-attribute attribute-id="className"/>
+      <custom-attribute attribute-id="groupingType"/>
+      <custom-attribute attribute-id="iphCategory">Men///Shirts///Polo_Shirts</custom-attribute>
+      <custom-attribute attribute-id="channelExclusive"/>
+      <custom-attribute attribute-id="Vendor_State_Restrictions"/>
+      <custom-attribute attribute-id="Country of Origin"/>
+      <custom-attribute attribute-id="deptName"/>
+      <custom-attribute attribute-id="High_Value_Status"/>
+      <custom-attribute attribute-id="conversionFlag"/>
+      <custom-attribute attribute-id="supplierDirectFulfillment"/>
+      <custom-attribute attribute-id="CA Prop 65 Compliant"/>
+      <custom-attribute attribute-id="featuresAndBenefits"/>
+      <custom-attribute attribute-id="discontinuedDate"/>
+      <custom-attribute attribute-id="poBoxShippable"/>
+      <custom-attribute attribute-id="featuresAndBenefitsOverwrite"/>
+      <custom-attribute attribute-id="splitColorEligible"/>
+      <custom-attribute attribute-id="iphL1">Men</custom-attribute>
+      <custom-attribute attribute-id="iphL2">Shirts</custom-attribute>
+      <custom-attribute attribute-id="iphL3">Polo_Shirts</custom-attribute>
+    </custom-attributes>
+  </product>
+</catalog>

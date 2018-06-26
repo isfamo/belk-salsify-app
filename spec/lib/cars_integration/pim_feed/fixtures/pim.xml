@@ -1,0 +1,1882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="http://www.demandware.com/xml/impex/catalog/2006-10-31" catalog-id="belk-master-catalog">
+  <header>
+    <image-settings>
+      <external-location>
+        <http-url>http://belk.scene7.com</http-url>
+        <https-url>https://belk.scene7.com</https-url>
+      </external-location>
+      <view-types>
+        <view-type>imageURL</view-type>
+        <view-type>swatch</view-type>
+      </view-types>
+      <variation-attribute-id>color</variation-attribute-id>
+      <alt-pattern>${productname}</alt-pattern>
+      <title-pattern>${productname}</title-pattern>
+    </image-settings>
+  </header>
+  <product product-id="7601502MONOG79208I">
+    <display-name-PEP>Monogram Black Vines Floral Tote</display-name-PEP>
+    <long-description-PEP>This fashionable tote is the perfect size. From groceries to picnics, it has enough space to accommodate all of your essentials. Personalize yours by having your initial monogrammed on it</long-description-PEP>
+    <short-description>This &amp;#8212 fashionable
+
+      tote is the perfect size.
+
+      From groceries to picnics, it has enough space to accommodate all of your essentials. Personalize yours by having your initial monogrammed on it
+    </short-description>
+    <online-flag>
+    </online-flag>
+    <searchable-flag>True</searchable-flag>
+    <tax-class-id>standard</tax-class-id>
+    <brand><![CDATA[Home Accents®]]></brand>
+    <sitemap-included-flag>True</sitemap-included-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="orin">
+        <value>1015797</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="demandCtr">
+        <value>111</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="deptNumber">
+        <value>822</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="classNumber">
+        <value>7920</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="fobNumber">
+        <value>54</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="demandCtrName">
+        <value>HARD HOME</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="deptName">
+        <value>GIFTS/DECOR</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Hex_Color">
+        <value>FCFCF5</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="className">
+        <value>GIFTS</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorName">
+        <value>HOME ACCENTS/CLAY ART</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="fobName">
+        <value>HOME</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL1">
+        <value>For_the_Home</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL2">
+        <value>Kitchen</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL3">
+        <value>Food_Storage</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL4">
+        <value>Lunch_Bags_and_Totes</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="productCopyText">
+        <value>From groceries to picnics, this fashionable tote is the perfect size to accommodate all of your essentials. Personalize yours by having your initial monogrammed on it.</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyLine1">
+        <value>15-in. x 6.7-in. x 13.75-in.</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyMaterial">
+        <value>Polyester/210D/webbing</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyExclusive">
+        <value>Yes</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyImportDomestic">
+        <value>Import</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyCAProp65Compliant">
+        <value>Yes</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="defaultSkuCode">
+        <value>0400690247905|N</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="conversionFlag">
+        <value>true</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="groupingType">
+        <value>CPG</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Material">
+        <value>Polyester/210D/webbing</value>
+      </custom-attribute>
+    </custom-attributes>
+    <images>
+      <scene7Images>
+        <scene7Image>
+          <shotType>A</shotType>
+          <mainImage path="https://is/image/Belk?layer=0&amp;src=2900627_DEBRA_A_449_T10L00&amp;layer=comp&amp;$P_PRODUCT_IMAGE$"/>
+          <swatchImage path="https://is/image/Belk?layer=0&amp;src=2900627_DEBRA_A_449_T10L00&amp;crop=873,1540,151,151&amp;layer=comp&amp;$P_SWATCH_BIG$"/>
+          <viewerImage path="https://is/image/Belk?layer=0&amp;src=2900627_DEBRA_A_449_T10L00&amp;crop=873,1540,151,151&amp;layer=comp&amp;$P_SWATCH_BIG$"/>
+        </scene7Image>
+      </scene7Images>
+    </images>
+    <product-set-products>
+      <product-set-product >
+        <product-id>7601502CA132875L</product-id>
+        <type>Style</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>7601502CA132875D</product-id>
+        <type>Style</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>7601502CA132875C</product-id>
+        <type>Style</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>7601502CA132875A</product-id>
+        <type>Style</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>7601502CA132875K</product-id>
+        <type>Style</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>7601502CA132875P</product-id>
+        <type>Style</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>7601502CA132875J</product-id>
+        <type>Style</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>7601502CA132875B</product-id>
+        <type>Style</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>7601502CA132875T</product-id>
+        <type>Style</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>7601502CA132875H</product-id>
+        <type>Style</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>7601502CA132875E</product-id>
+        <type>Style</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>7601502CA132875S</product-id>
+        <type>Style</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>7601502CA132875R</product-id>
+        <type>Style</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>7601502CA132875M</product-id>
+        <type>Style</type>
+      </product-set-product >
+    </product-set-products>
+  </product>
+  <product product-id="32011961093000">
+    <display-name-PEP>Grosgrain-Striped Card Case</display-name-PEP>
+    <long-description-PEP>Varsity-inspired stripes give this waxed calfskin card case a collegiate twist and a vibrant pop of pattern.	Slim design. Single-needle stitched edges. Debossed &quot;Polo Ralph Lauren&quot; at one side. Pockets are lined with faille. Median slip pocket and three card slots at each side.	Debossed signature pony at one side.	Presented in our signature &quot;Polo Ralph Lauren&quot; embossed box. 3 1/4&quot; H x 4&quot; L x 1/4&quot; D. Leather, polyester. Imported.</long-description-PEP>
+    <short-description>Varsity-inspired stripes give this waxed calfskin card case a collegiate twist and a vibrant pop of pattern.	Slim design. Single-needle stitched edges. Debossed &quot;Polo Ralph Lauren&quot; at one side. Pockets are lined with faille. Median slip pocket and three card slots at each side.	Debossed signature pony at one side.	Presented in our signature &quot;Polo Ralph Lauren&quot; embossed box. 3 1/4&quot; H x 4&quot; L x 1/4&quot; D. Leather, polyester. Imported.</short-description>
+    <online-flag>
+    </online-flag>
+    <searchable-flag>True</searchable-flag>
+    <tax-class-id>standard</tax-class-id>
+    <brand>Lauren Ralph Lauren</brand>
+    <sitemap-included-flag>True</sitemap-included-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="orin">
+        <value>1093000</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="demandCtr">
+        <value>90</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="deptNumber">
+        <value>372</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="classNumber">
+        <value>3451</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="fobNumber">
+        <value>34</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="demandCtrName">
+        <value>MNS BTR COLLECTIONS</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="deptName">
+        <value>POLO MNS</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="className">
+        <value>ACCESS-NON APPAREL</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorName">
+        <value>LAUREN RALPH LAUREN LEATHERGOODS</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="fobName">
+        <value>MENS</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL1">
+        <value>Accessories</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL2">
+        <value>Wallets</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL3">
+        <value>Card_Case</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="productCopyText">
+        <value>Varsity-inspired stripes give this waxed calfskin card case a collegiate twist and a vibrant pop of pattern.	•3 1/4&quot; H x 4&quot; L x 1/4&quot; D•Median slip pocket and three card slots at each side•Slim design•Single-needle stitched edges•Debossed &quot;Polo Ralph Lauren&quot; at one side•Debossed signature pony at one side•Pockets are lined with faille•Presented in our signature &quot;Polo Ralph Lauren&quot; embossed box•Leather, polyester•Wipe clean•Imported</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyCAProp65Compliant">
+        <value>T</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="defaultSkuCode">
+        <value>0438575724647</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="groupingType">
+        <value>CPG</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Gender">
+        <value>Men</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Holds">
+        <value>Credit cards</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Pattern">
+        <value></value>
+        <value>Stripe</value>
+        <value>Shiza</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Faux_Fur">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Hardware">
+        <value>Varies by color</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Material">
+        <value>Leather</value>
+        <value> polyester</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Number_of_Pieces">
+        <value>1</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Care">
+        <value>Wipe clean</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Dimensions">
+        <value>3 1/4&quot; H x 4&quot; L x 1/4&quot; D</value>
+      </custom-attribute>
+    </custom-attributes>
+    <product-set-products>
+      <product-set-product >
+        <product-id>3201196405642855001</product-id>
+        <type>Style</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>3201196405642855003</product-id>
+        <type>Style</type>
+      </product-set-product >
+    </product-set-products>
+  </product>
+  <product product-id="48002211107000">
+    <display-name-PEP>Salsify SSG</display-name-PEP>
+    <long-description-PEP>This trendsetting boot is one you&apos;ll wear all season long. The Becka Addie Boot is crafted in sleek suede and features fun fringe detailing on the sides. Its designed as a low ankle boot so that you can style it with anything from skinny jeans to dresses to create versatile looks.</long-description-PEP>
+    <short-description>Salsify SSG grouping description for testing</short-description>
+    <online-flag>
+    </online-flag>
+    <searchable-flag>True</searchable-flag>
+    <tax-class-id>standard</tax-class-id>
+    <brand>Sam Edelman</brand>
+    <sitemap-included-flag>True</sitemap-included-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="orin">
+        <value>1107000</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="demandCtr">
+        <value>82</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="deptNumber">
+        <value>481</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="classNumber">
+        <value>4813</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="fobNumber">
+        <value>74</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="demandCtrName">
+        <value>KIDS SHOES</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="deptName">
+        <value>KID&apos;S SHOES</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="className">
+        <value>BOOTS</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorName">
+        <value>J KHAKI/BCNY-SYNCLAIRE</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="fobName">
+        <value>SHOES</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL1">
+        <value>Shoes</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL2">
+        <value>Kids</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL3">
+        <value>Girls</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL4">
+        <value>Boots</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="productCopyText">
+        <value>This trendsetting boot is one you&apos;ll wear all season long. The Becka Addie Boot is crafted in sleek suede and features fun fringe detailing on the sides. Its designed as a low ankle boot so that you can style it with anything from skinny jeans to dresses to create versatile looks.</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyLine1">
+        <value>1-in. to 3-in. heel; 5-in. shaft height</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyLine2">
+        <value>Zip closure</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyLine3">
+        <value>Padded insole</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyMaterial">
+        <value>synthetic suede</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyCare">
+        <value>Wipe clean</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyExclusive">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyImportDomestic">
+        <value>Import</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyCAProp65Compliant">
+        <value>T</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="defaultSkuCode">
+        <value>0438564382919</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="groupingType">
+        <value>SSG</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Boot_Features">
+        <value>Lightweight</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Boot_Shaft">
+        <value>Ankle shaft</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Boot_Type">
+        <value>Fashion</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Cold_Weather_Rated">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Heel_Height">
+        <value>1 to 3 in.</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Heel_Style">
+        <value>Low heels</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Shaft_Height">
+        <value>5- in shaft height</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Wide_Calf">
+        <value>Yes</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Age_Group">
+        <value>Youth</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Kids_Shoe_Width">
+        <value>M</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Material">
+        <value>synthetic suede</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Fabric">
+        <value>Suede</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Boxed">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Heel_Content">
+        <value>Rubber heel</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Closure_Location">
+        <value>Outer side</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Outsole_Content">
+        <value>rubber</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Insole_Features">
+        <value>Padded insole</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Faux_Fur">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Closure_Type">
+        <value>Zip closure</value>
+      </custom-attribute>
+    </custom-attributes>
+    <product-set-products>
+      <product-set-product >
+        <product-id>0438564382582</product-id>
+        <type>SKU</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>0438564382759</product-id>
+        <type>SKU</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>0438564382834</product-id>
+        <type>SKU</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>0438564382919</product-id>
+        <type>SKU</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>0438564383022</product-id>
+        <type>SKU</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>0438564383077</product-id>
+        <type>SKU</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>0438564383138</product-id>
+        <type>SKU</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>0438564383244</product-id>
+        <type>SKU</type>
+      </product-set-product >
+    </product-set-products>
+  </product>
+  <product product-id="32054651107001">
+    <display-name-PEP>Salsify SCG</display-name-PEP>
+    <long-description-PEP>Salsify SCG grouping description for testing</long-description-PEP>
+    <short-description>Salsify SCG grouping description for testing</short-description>
+    <online-flag>
+    </online-flag>
+    <searchable-flag>True</searchable-flag>
+    <tax-class-id>standard</tax-class-id>
+    <brand>Columbia</brand>
+    <sitemap-included-flag>True</sitemap-included-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="orin">
+        <value>1107001</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="demandCtr">
+        <value>96</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="deptNumber">
+        <value>366</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="classNumber">
+        <value>3212</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="fobNumber">
+        <value>34</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="demandCtrName">
+        <value>MNS OUTDOOR</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="deptName">
+        <value>COLUMBIA SPTS</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="className">
+        <value>OTRWR</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorName">
+        <value>COLUMBIA SPORTSWEAR</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="fobName">
+        <value>MENS</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL1">
+        <value>Men</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL2">
+        <value>Coats_and_Jackets</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL3">
+        <value>Raincoat</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="productCopyText">
+        <value>With everything you need while traversing the brush, this jacket is crafted of durable, rain and stain resistant canvas. Whisper-light construction  and discreet earth-tone colors make for happy exploring.•    Button closure•    Collar•    Long sleeves•    Cargo pockets•    Omni-Shield® advanced water and stain repellent•    Cotton•    Machine washable•    Imported</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyMaterial">
+        <value>100%Cotton</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyCare">
+        <value>Machine washable</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyExclusive">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyImportDomestic">
+        <value>Import</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyCAProp65Compliant">
+        <value>T</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="defaultSkuCode">
+        <value>0438552948967</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="groupingType">
+        <value>SCG</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Activewear">
+        <value>Yes</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Care">
+        <value>Machine washable</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Features">
+        <value>Stain resistant</value>
+        <value>Water resistant</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Material">
+        <value>100%Cotton</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Pattern">
+        <value>Solid</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Pockets">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Pocket_Type">
+        <value>Flap pocket</value>
+        <value>Slant pocket</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Logo">
+        <value>Yes</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Tag_Free">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Faux_Fur">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Closure_Type">
+        <value>Snap closure</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Coat_Length">
+        <value>Medium</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Weight">
+        <value>Medium</value>
+      </custom-attribute>
+    </custom-attributes>
+    <product-set-products>
+      <product-set-product >
+        <product-id>0438552948721</product-id>
+        <type>SKU</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>0438552948769</product-id>
+        <type>SKU</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>0438552948783</product-id>
+        <type>SKU</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>0438552948806</product-id>
+        <type>SKU</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>0438552948837</product-id>
+        <type>SKU</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>0438552948875</product-id>
+        <type>SKU</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>0438552948929</product-id>
+        <type>SKU</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>0438552948936</product-id>
+        <type>SKU</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>0438552948967</product-id>
+        <type>SKU</type>
+      </product-set-product >
+      <product-set-product >
+        <product-id>0438552948974</product-id>
+        <type>SKU</type>
+      </product-set-product >
+    </product-set-products>
+  </product>
+  <product product-id="9200771SHERP9450IP">
+    <display-name-PEP>Sherpa Reversible All Season Mattress Pad - Online Only</display-name-PEP>
+    <long-description-PEP>This luxurious, four-seasons mattress pad provides you with both comfort and protection, all year long.The &quot;Winter&quot; side features an ultra soft, polyester Sherpa fabric that keeps you cozy and warm while the &quot;Summer&quot; side&apos;s 100% cotton, 200 thread count construction keeps you cool and dry. This pad also offers stain repel and release protection for ease of care, and a poly-knit stretch skirt that is guaranteed to fit mattresses up to 18 inches.Measurements:Full: 54-in. x 75-in.Queen: 60-in. x 80-in.King: 78-in. x 80-in.</long-description-PEP>
+    <short-description>This luxurious, four-seasons mattress pad will provide you with both comfort and protection, all year long.The &quot;Winter&quot; side features an ultrasoft polyester Sherpa fabric that will keep you cozy and warm while the &quot;Summer&quot; side&apos;s 100% cotton, 200 thread count construction will keep you cool and dry.This pad also offers stain repel and release protection for ease of care and a poly-knit stretch skirt that is guaranteed to fit mattresses up to 18 inches.Measurements:Full: 54-in. x 75-in.Queen: 60-in. x 80-in.King: 78-in. x 80-in.</short-description>
+    <online-flag>
+    </online-flag>
+    <searchable-flag>true</searchable-flag>
+    <tax-class-id>standard</tax-class-id>
+    <brand>Wellrest™</brand>
+    <sitemap-included-flag>true</sitemap-included-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="orin">
+        <value>1018858</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphCategory">
+        <value>Item_Primary_Hierarchy///4269-For_the_Home///4270-Bed_and_Bath///4278-Bedding///4286-Mattress_Pads_and_Toppers</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL1">
+        <value>For_the_Home</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL2">
+        <value>Bed_and_Bath</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL3">
+        <value>Bedding</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL4">
+        <value>Mattress_Pads_and_Toppers</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="productCopyText">
+        <value>This luxurious, four-seasons mattress pad provides you with both comfort and protection, all year long.The &quot;Winter&quot; side features an ultra soft, polyester Sherpa fabric that keeps you cozy and warm while the &quot;Summer&quot; side&apos;s 100% cotton, 200 thread count construction keeps you cool and dry. This pad also offers stain repel and release protection for ease of care, and a poly-knit stretch skirt that is guaranteed to fit mattresses up to 18 inches.Measurements:Full: 54-in. x 75-in.Queen: 60-in. x 80-in.King: 78-in. x 80-in.</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyLine1">
+        <value>Online only</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyMaterial">
+        <value>100% Cotton</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyCare">
+        <value>Machine Washable</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyImportDomestic">
+        <value>Import</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyCAProp65Compliant">
+        <value>T</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="defaultSkuCode">
+        <value>dsku100033485</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="conversionFlag">
+        <value>true</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="groupingType">
+        <value>GSG</value>
+      </custom-attribute>
+    </custom-attributes>
+    <product-set-products>
+      <product-set-product>
+        <product-id>9200771038533812098</product-id>
+        <type>Style</type>
+      </product-set-product>
+      <product-set-product>
+        <product-id>9200771038533812081</product-id>
+        <type>Style</type>
+      </product-set-product>
+      <product-set-product>
+        <product-id>9200771038533812074</product-id>
+        <type>Style</type>
+      </product-set-product>
+    </product-set-products>
+  </product>
+  <product product-id="9201090PETBE79944Y">
+    <display-name-PEP>Pet Bed</display-name-PEP>
+    <long-description-PEP>Filled with fluffy Resilia feathers, this bed will relax and comfort your beloved pet during naps and nights. •4-in. gusset extends fluffy comfort to the very edge of the bed•205 thread count•Cover has ProGuard protection for stain protection•Resilia feathers have been specially processed to be fluffier and more resilient than ordinary feathers•Includes removable zippered cover with ProGuard stain protection for durable easy care•2-year limited warranty•Cover: cotton; Fill: hyperclean Resilia feather•Cover: machine washable•Imported</long-description-PEP>
+    <short-description>Filled with fluffy Resilia? feathers, this bed will relax and comfort your beloved pet during naps and nights. Includes removable zippered cover with ProGuard? stain protection for durable easy care. Pacific Coast? Hyperclean? Resilia? feathers. Resilia? feathers have been specially processed to be fluffier and more resilient than ordinary feathers. Hyperclean? fill has been thoroughly washed and rinsed to remove dust, dirt and allergens 205 thread count 100% cotton zippered cover in Forest Green fabric with ProGuard? protection for stain protection and easy care 230 thread count 100% cotton inner fabric Barrier Weave? prevents feathers from sneaking out Gusset design, rectangle shape. 4-in. gusset extends fluffy comfort to the very edge of the bed. 2 year limited warranty</short-description>
+    <online-flag>
+    </online-flag>
+    <searchable-flag>true</searchable-flag>
+    <tax-class-id>standard</tax-class-id>
+    <sitemap-included-flag>true</sitemap-included-flag>
+    <Item_status>Inactive</Item_status>
+    <custom-attributes>
+      <custom-attribute attribute-id="orin">
+        <value>1018986</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphCategory">
+        <value>Item_Primary_Hierarchy///4269-For_the_Home///4376-Home_Dcor///4390-Pet_Accessories</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL1">
+        <value>For_the_Home</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL2">
+        <value>Home_Dcor</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL3">
+        <value>Pet_Accessories</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="productCopyText">
+        <value>Filled with fluffy Resilia feathers, this bed will relax and comfort your beloved pet during naps and nights. •4-in. gusset extends fluffy comfort to the very edge of the bed•205 thread count•Cover has ProGuard protection for stain protection•Resilia feathers have been specially processed to be fluffier and more resilient than ordinary feathers•Includes removable zippered cover with ProGuard stain protection for durable easy care•2-year limited warranty•Cover: cotton; Fill: hyperclean Resilia feather•Cover: machine washable•Imported</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyCAProp65Compliant">
+        <value>F</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="defaultSkuCode">
+        <value>0438516753651</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="conversionFlag">
+        <value>true</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="groupingType">
+        <value>RCG</value>
+      </custom-attribute>
+    </custom-attributes>
+    <product-set-products>
+      <product-set-product>
+        <product-id>920109025039</product-id>
+        <type>Style</type>
+      </product-set-product>
+      <product-set-product>
+        <product-id>920109025038</product-id>
+        <type>Style</type>
+      </product-set-product>
+    </product-set-products>
+  </product>
+  <product product-id="9204137ORANG9487EN">
+    <display-name-PEP>Orange Cay 3-Piece Comforter Set-Online Only</display-name-PEP>
+    <long-description-PEP>Capture the luxury of island-inspired living with this Orange Cay comforter set with a lush tropical print in rich tones of paprika. Full comforter set includes:1 Comforter: 96-in. x 92-in.2 Standard shams: 20-in. x 26-in.Queen comforter set includes:1 Comforter: 96-in. x 92-in.2 Standard shams: 20-in. x 26-in.King comforter set includes:1 Comforter: 96-in. x 110-in.2 King shams: 20-in. x 36-in.</long-description-PEP>
+    <short-description>Capture the luxury of island inspired living. Orange Cay is a lush tropical print in rich tones of paprika. Full/Queen comforter set includes:1 Comforter: 96-in. x 92-in.2 Standard shams: 20-in. x 26-in.King comforter set includes:1 Comforter: 96-in. x 110-in.2 King shams: 20-in. x 36-in.</short-description>
+    <online-flag>
+    </online-flag>
+    <online-from>2017-08-09T04:00:00</online-from>
+    <online-to>2017-09-30T04:00:00</online-to>
+    <searchable-flag>true</searchable-flag>
+    <tax-class-id>standard</tax-class-id>
+    <brand>Tommy Bahama®</brand>
+    <sitemap-included-flag>true</sitemap-included-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="orin">
+        <value>1019077</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphCategory">
+        <value>Item_Primary_Hierarchy///4269-For_the_Home///4270-Bed_and_Bath///4278-Bedding///4279-Bed_in_a_Bag</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL1">
+        <value>For_the_Home</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL2">
+        <value>Bed_and_Bath</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL3">
+        <value>Bedding</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL4">
+        <value>Bedspreads_and_Coverlets</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="productCopyText">
+        <value>Capture the luxury of island-inspired living with this Orange Cay comforter set with a lush tropical print in rich tones of paprika. Full comforter set includes:1 Comforter: 96-in. x 92-in.2 Standard shams: 20-in. x 26-in.Queen comforter set includes:1 Comforter: 96-in. x 92-in.2 Standard shams: 20-in. x 26-in.King comforter set includes:1 Comforter: 96-in. x 110-in.2 King shams: 20-in. x 36-in.</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyLine1">
+        <value>3-piece set</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyLine2">
+        <value>Shams: overlapping closure</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyMaterial">
+        <value>100% Cotton, fill is 100% polyester</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyCare">
+        <value>Machine wash cold, separately, delicate cycle. Do not bleach. Tumble dry low. Use extra large capacity machines. Reposition during the drying cycle. Do not iron. Do not dry clean</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyImportDomestic">
+        <value>Import</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyCAProp65Compliant">
+        <value>T</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="defaultSkuCode">
+        <value>dsku100041481</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="conversionFlag">
+        <value>true</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="groupingType">
+        <value>RCG</value>
+      </custom-attribute>
+    </custom-attributes>
+    <product-set-products>
+      <product-set-product>
+        <product-id>9204137204396</product-id>
+        <type>Style</type>
+      </product-set-product>
+      <product-set-product>
+        <product-id>9204137204395</product-id>
+        <type>Style</type>
+      </product-set-product>
+    </product-set-products>
+  </product>
+  <product product-id="99999999964MIXM">
+    <display-name-PEP>Mix &amp; Match Construction Collection Boys 4-7</display-name-PEP>
+    <long-description-PEP>This collection features coordinating shirts and a pant with fun patterns!</long-description-PEP>
+    <short-description>Make dressing your little man fun and easy with the Construction Collection from J Khaki.This collection features coordinating shirts and pants with fun patterns!</short-description>
+    <online-flag>
+    </online-flag>
+    <online-from>2014-09-08T04:00:00</online-from>
+    <searchable-flag>true</searchable-flag>
+    <tax-class-id>standard</tax-class-id>
+    <brand>J. Khaki®</brand>
+    <sitemap-included-flag>true</sitemap-included-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="orin">
+        <value>1024103</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphCategory">
+        <value>Item_Primary_Hierarchy///6220-Product_Grouping///6223-Baby_and_Kids_Collections</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL1">
+        <value>Baby_and_Kids</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL2">
+        <value>Boys</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL3">
+        <value>Shirts_and_Tees</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="productCopyText">
+        <value>This collection features coordinating shirts and a pant with fun patterns!</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyCAProp65Compliant">
+        <value>T</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="defaultSkuCode">
+        <value>dsku100040983</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="conversionFlag">
+        <value>true</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="groupingType">
+        <value>BCG</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="defaultColorIds">
+        <value>440237915567</value>
+        <value>075237913393</value>
+      </custom-attribute>
+    </custom-attributes>
+    <product-set-products>
+      <product-set-product>
+        <product-id>45006644516734</product-id>
+        <type>Style</type>
+      </product-set-product>
+      <product-set-product>
+        <product-id>0480001640977</product-id>
+        <type>SKU</type>
+      </product-set-product>
+      <product-set-product>
+        <product-id>0480001640984</product-id>
+        <type>SKU</type>
+      </product-set-product>
+      <product-set-product>
+        <product-id>0480001640991</product-id>
+        <type>SKU</type>
+      </product-set-product>
+      <product-set-product>
+        <product-id>0480001641004</product-id>
+        <type>SKU</type>
+      </product-set-product>
+      <product-set-product>
+        <product-id>0480001641011</product-id>
+        <type>SKU</type>
+      </product-set-product>
+      <product-set-product>
+        <product-id>0480001641028</product-id>
+        <type>SKU</type>
+      </product-set-product>
+      <product-set-product>
+        <product-id>0480001641035</product-id>
+        <type>SKU</type>
+      </product-set-product>
+      <product-set-product>
+        <product-id>0480001641042</product-id>
+        <type>SKU</type>
+      </product-set-product>
+      <product-set-product>
+        <product-id>0480001639896</product-id>
+        <type>SKU</type>
+      </product-set-product>
+      <product-set-product>
+        <product-id>0480001639902</product-id>
+        <type>SKU</type>
+      </product-set-product>
+      <product-set-product>
+        <product-id>0480001639919</product-id>
+        <type>SKU</type>
+      </product-set-product>
+      <product-set-product>
+        <product-id>0480001639926</product-id>
+        <type>SKU</type>
+      </product-set-product>
+      <product-set-product>
+        <product-id>0480001639933</product-id>
+        <type>SKU</type>
+      </product-set-product>
+      <product-set-product>
+        <product-id>0480001639940</product-id>
+        <type>SKU</type>
+      </product-set-product>
+      <product-set-product>
+        <product-id>0480001639957</product-id>
+        <type>SKU</type>
+      </product-set-product>
+      <product-set-product>
+        <product-id>0480001639964</product-id>
+        <type>SKU</type>
+      </product-set-product>
+    </product-set-products>
+  </product>
+  <product product-id="0438500862789">
+    <parent-id>9200771038533812074</parent-id>
+    <upc>0038533812074</upc>
+    <step-quantity>1</step-quantity>
+    <display-name>SHERPA REVERS PD FULL:Full Pad Mattress Banded:White</display-name>
+    <online-flag/>
+    <searchable-flag>true</searchable-flag>
+    <tax-class-id>standard</tax-class-id>
+    <Color_Master>true</Color_Master>
+    <images>
+      <vendorProvidedImages>
+        <image>
+          <imageName>9200601_1912048BATH_124_A.jpeg</imageName>
+          <shotType>A</shotType>
+          <vendorUploadedImageName>yellow.jpeg</vendorUploadedImageName>
+          <imagePath path="https://belkcaimg01.hosted.belk.com/ecommerce/Images/2016/Adidas/AG5820_AR93.jpg"/>
+        </image>
+        <image>
+          <imageName>9200601_1912048BATH_124_SW.jpeg</imageName>
+          <shotType>SW</shotType>
+          <vendorUploadedImageName>yellowswatch.jpeg</vendorUploadedImageName>
+          <imagePath path="https://belkcaimg01.hosted.belk.com/ecommerce/Images/2016/Adidas/AH4156_P237.jpg"/>
+        </image>
+      </vendorProvidedImages>
+      <scene7Images>
+        <scene7Image>
+          <shotType>A</shotType>
+          <mainImage path="https://is/image/Belk?layer=0&amp;src=2900627_DEBRA_A_449_T10L00&amp;layer=comp&amp;$P_PRODUCT_IMAGE$"/>
+          <swatchImage path="https://is/image/Belk?layer=0&amp;src=2900627_DEBRA_A_449_T10L00&amp;crop=873,1540,151,151&amp;layer=comp&amp;$P_SWATCH_BIG$"/>
+          <viewerImage path="https://is/image/Belk?layer=0&amp;src=2900627_DEBRA_A_449_T10L00&amp;crop=873,1540,151,151&amp;layer=comp&amp;$P_SWATCH_BIG$"/>
+        </scene7Image>
+      </scene7Images>
+    </images>
+    <custom-attributes>
+      <custom-attribute attribute-id="isMaster">
+        <value>false</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="skuOrin">
+        <value>228749093</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="isGiftBoxEligible">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="sourcedDomestically">
+        <value>Import</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="directShipFlag">
+        <value>true</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="size">
+        <value>62433_Full</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="color">
+        <value>100228749085</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="nrfSizeCode">
+        <value><![CDATA[62433]]></value>
+      </custom-attribute>
+      <custom-attribute attribute-id="omniSizeDesc">
+        <value><![CDATA[Full]]></value>
+      </custom-attribute>
+      <custom-attribute attribute-id="refinementSize">
+        <value><![CDATA[Full]]></value>
+      </custom-attribute>
+      <custom-attribute attribute-id="refinementColor">
+        <value>white</value>
+        <value>blue</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="nrfColorCode">
+        <value>100</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="il_eligible">
+        <value>false</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorSizeDescription">
+        <value>Full Pad Mattress Banded</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorColorDescription">
+        <value>Red</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Expedited_Shipping">
+        <value>N</value>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="0480001639933">
+    <parent-id>9200771038533812074</parent-id>
+    <upc>0480001639933</upc>
+    <step-quantity>1</step-quantity>
+    <display-name>FLEECE PANT:4:DELTA BLUE</display-name>
+    <online-flag/>
+    <searchable-flag>true</searchable-flag>
+    <tax-class-id>standard</tax-class-id>
+    <images>
+      <vendorProvidedImages>
+      </vendorProvidedImages>
+      <scene7Images>
+        <scene7Image>
+          <shotType>A</shotType>
+          <mainImage path="https://is/image/Belk?layer=0&amp;src=2900627_DEBRA_A_001_T10L00&amp;layer=comp&amp;$P_PRODUCT_IMAGE$"/>
+          <swatchImage path="https:///belk.scene7.com/is/image/Belk?layer=0&amp;src=2900627_DEBRA_A_001_T10L00&amp;layer=comp&amp;$P_SWATCH_NEW$"/>
+          <viewerImage path="https:/is/image/Belk?layer=0&amp;src=2900627_DEBRA_A_449_T10L00&amp;crop=873,1540,151,151&amp;layer=comp&amp;$P_SWATCH_BIG$"/>
+        </scene7Image>
+        <scene7Image>
+          <shotType>B</shotType>
+          <mainImage path="https://is/image/Belk?layer=0&amp;src=2900627_DEBRA_B_001_T10L00&amp;layer=comp&amp;$P_PRODUCT_IMAGE$"/>
+          <swatchImage path="https:///belk.scene7.com/is/image/Belk?layer=0&amp;src=2900627_DEBRA_B_001_T10L00&amp;layer=comp&amp;$P_SWATCH_NEW$"/>
+          <viewerImage path="https:/is/image/Belk?layer=0&amp;src=2900627_DEBRA_B_449_T10L00&amp;crop=873,1540,151,151&amp;layer=comp&amp;$P_SWATCH_BIG$"/>
+        </scene7Image>
+      </scene7Images>
+    </images>
+    <custom-attributes>
+      <custom-attribute attribute-id="isMaster">
+        <value>false</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="skuOrin">
+        <value>237914441</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="isGiftBoxEligible">
+        <value>Yes</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="sourcedDomestically">
+        <value>Import</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="directShipFlag">
+        <value>false</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="size">
+        <value>20055_4</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="color">
+        <value>402237913393</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="nrfSizeCode">
+        <value><![CDATA[20055]]></value>
+      </custom-attribute>
+      <custom-attribute attribute-id="omniSizeDesc">
+        <value><![CDATA[4]]></value>
+      </custom-attribute>
+      <custom-attribute attribute-id="refinementSize">
+        <value><![CDATA[4]]></value>
+      </custom-attribute>
+      <custom-attribute attribute-id="refinementColor">
+        <value>blue</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="nrfColorCode">
+        <value>402</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="omniChannelColorDescription">
+        <value>Blue</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="il_eligible">
+        <value>false</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorSizeDescription">
+        <value>4</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorColorDescription">
+        <value>DELTA BLUE</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Expedited_Shipping">
+        <value>Y</value>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="0480001639940">
+    <parent-id>45006644516419</parent-id>
+    <upc>0480001639940</upc>
+    <step-quantity>1</step-quantity>
+    <display-name>FLEECE PANT:5:DELTA BLUE</display-name>
+    <online-flag>
+    </online-flag>
+    <searchable-flag>true</searchable-flag>
+    <tax-class-id>standard</tax-class-id>
+    <custom-attributes>
+      <custom-attribute attribute-id="isMaster">
+        <value>false</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="skuOrin">
+        <value>237914450</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="isGiftBoxEligible">
+        <value>Yes</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="sourcedDomestically">
+        <value>Import</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="directShipFlag">
+        <value>false</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="size">
+        <value>20060_5</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="color">
+        <value>402237913393</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="nrfSizeCode">
+        <value><![CDATA[20060]]></value>
+      </custom-attribute>
+      <custom-attribute attribute-id="omniSizeDesc">
+        <value><![CDATA[5]]></value>
+      </custom-attribute>
+      <custom-attribute attribute-id="refinementSize">
+        <value><![CDATA[5]]></value>
+      </custom-attribute>
+      <custom-attribute attribute-id="refinementColor">
+        <value>blue</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="nrfColorCode">
+        <value>402</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="omniChannelColorDescription">
+        <value>Blue</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="il_eligible">
+        <value>false</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorSizeDescription">
+        <value>5</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorColorDescription">
+        <value>DELTA BLUE</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Expedited_Shipping">
+        <value>Y</value>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="0480001639957">
+    <parent-id>45006644516419</parent-id>
+    <upc>0480001639957</upc>
+    <step-quantity>1</step-quantity>
+    <display-name>FLEECE PANT:6:DELTA BLUE</display-name>
+    <online-flag>
+    </online-flag>
+    <searchable-flag>true</searchable-flag>
+    <tax-class-id>standard</tax-class-id>
+    <custom-attributes>
+      <custom-attribute attribute-id="isMaster">
+        <value>false</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="skuOrin">
+        <value>237914468</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="isGiftBoxEligible">
+        <value>Yes</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="sourcedDomestically">
+        <value>Import</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="directShipFlag">
+        <value>false</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="size">
+        <value>20065_6</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="color">
+        <value>402237913393</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="nrfSizeCode">
+        <value><![CDATA[20065]]></value>
+      </custom-attribute>
+      <custom-attribute attribute-id="omniSizeDesc">
+        <value><![CDATA[6]]></value>
+      </custom-attribute>
+      <custom-attribute attribute-id="refinementSize">
+        <value><![CDATA[6]]></value>
+      </custom-attribute>
+      <custom-attribute attribute-id="refinementColor">
+        <value>blue</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="nrfColorCode">
+        <value>402</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="omniChannelColorDescription">
+        <value>Blue</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="il_eligible">
+        <value>false</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorSizeDescription">
+        <value>6</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyLine1">
+        <value>blablablabla</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorColorDescription">
+        <value>DELTA BLUE</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Expedited_Shipping">
+        <value>Y</value>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="0480001639964">
+    <parent-id>45006644516419</parent-id>
+    <upc>0480001639964</upc>
+    <step-quantity>1</step-quantity>
+    <display-name>FLEECE PANT:7:DELTA BLUE</display-name>
+    <online-flag>
+    </online-flag>
+    <searchable-flag>true</searchable-flag>
+    <tax-class-id>standard</tax-class-id>
+    <custom-attributes>
+      <custom-attribute attribute-id="isMaster">
+        <value>false</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="skuOrin">
+        <value>237914476</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="isGiftBoxEligible">
+        <value>Yes</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="sourcedDomestically">
+        <value>Import</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="directShipFlag">
+        <value>false</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="size">
+        <value>20070_7</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="color">
+        <value>402237913393</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="nrfSizeCode">
+        <value><![CDATA[20070]]></value>
+      </custom-attribute>
+      <custom-attribute attribute-id="omniSizeDesc">
+        <value><![CDATA[7]]></value>
+      </custom-attribute>
+      <custom-attribute attribute-id="refinementSize">
+        <value><![CDATA[7]]></value>
+      </custom-attribute>
+      <custom-attribute attribute-id="refinementColor">
+        <value>blue</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="nrfColorCode">
+        <value>402</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="omniChannelColorDescription">
+        <value>Blue</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="il_eligible">
+        <value>false</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorSizeDescription">
+        <value>7</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorColorDescription">
+        <value>DELTA BLUE</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Expedited_Shipping">
+        <value>Y</value>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="0438575724647">
+    <parent-id>3201196405642855001</parent-id>
+    <upc>0888188331310</upc>
+    <step-quantity>1</step-quantity>
+    <display-name>LTHR REPP STRIPE CARD CASE BLK:One Size Fits All:BLACK</display-name>
+    <online-flag/>
+    <searchable-flag>true</searchable-flag>
+    <tax-class-id>standard</tax-class-id>
+    <custom-attributes>
+      <custom-attribute attribute-id="isMaster">
+        <value>false</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="skuOrin">
+        <value>288986699</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="isGiftBoxEligible">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="directShipFlag">
+        <value>false</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="size">
+        <value>10001_OneSize</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="color">
+        <value>001288986681</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="nrfSizeCode">
+        <value><![CDATA[10001]]></value>
+      </custom-attribute>
+      <custom-attribute attribute-id="omniSizeDesc">
+        <value><![CDATA[One Size]]></value>
+      </custom-attribute>
+      <custom-attribute attribute-id="refinementSize">
+        <value><![CDATA[One Size]]></value>
+      </custom-attribute>
+      <custom-attribute attribute-id="refinementColor">
+        <value>black</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="nrfColorCode">
+        <value>001</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="omniChannelColorDescription">
+        <value>Black</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="il_eligible">
+        <value>false</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorSizeDescription">
+        <value>One Size Fits All</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorColorDescription">
+        <value>Black</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Expedited_Shipping">
+        <value>Y</value>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="9200771038533812074">
+    <display-name>SHERPA REVERS PD FUL</display-name>
+    <short-description>SHERPA REVERS PD FUL</short-description>
+    <long-description>SHERPA REVERS PD FULL</long-description>
+    <online-flag>
+    </online-flag>
+    <online-from>
+    </online-from>
+    <searchable-flag>true</searchable-flag>
+    <tax-class-id>standard</tax-class-id>
+    <brand><![CDATA[Wellrest™]]></brand>
+    <sitemap-included-flag>true</sitemap-included-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="isMaster">
+        <value>true</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="orin">
+        <value>228749085</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="deptNumber">
+        <value>743</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="demandCtr">
+        <value>109</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="classNumber">
+        <value>9450</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="fobNumber">
+        <value>54</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorNumber">
+        <value>9200771</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="styleNumber">
+        <value>038533812074</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="deptName">
+        <value>UTILITY</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="demandCtrName">
+        <value>SOFT HOME</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="className">
+        <value>MATTRESS PADS/PROTECTORS</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="fobName">
+        <value>HOME</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorName">
+        <value>PERFECT FIT</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphCategory">
+        <value>Item_Primary_Hierarchy///4269-For_the_Home///4270-Bed_and_Bath///4278-Bedding///4286-Mattress_Pads_and_Toppers</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL1">
+        <value>For_the_Home</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL2">
+        <value>Bed_and_Bath</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL3">
+        <value>Bedding</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL4">
+        <value>Mattress_Pads_and_Toppers</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="belkExclusive">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="isPYG">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="isGWP">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="isPWP">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="productCopyText">
+        <value>This luxurious, four-seasons mattress pad provides you with both comfort and protection, all year long.The &quot;Winter&quot; side features an ultra soft, polyester Sherpa fabric that keeps you cozy and warm while the &quot;Summer&quot; side&apos;s 100% cotton, 200 thread count construction keeps you cool and dry. This pad also offers stain repel and release protection for ease of care, and a poly-knit stretch skirt that is guaranteed to fit mattresses up to 18 inches.Measurements:Full: 54-in. x 75-in.Queen: 60-in. x 80-in.King: 78-in. x 80-in.</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyLine1">
+        <value>Online only</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyMaterial">
+        <value>100% Cotton</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyCare">
+        <value>Machine Washable</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyImportDomestic">
+        <value>Import</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyCAProp65Compliant">
+        <value>T</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="mirVendorNumber">
+        <value>9200771</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="conversionFlag">
+        <value>true</value>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="45006644516419">
+    <display-name>Fleece Pants Boys 4-7</display-name>
+    <short-description>COPYWRITER - PLEASE REMOVE INSEAM PER THE BUYING OFFICE. Your little boy will be cute and comfy in these fleece pants. Pair it with his favorite tee for the perfect play outfit.</short-description>
+    <long-description>FLEECE PANT</long-description>
+    <online-flag>
+    </online-flag>
+    <online-from>
+    </online-from>
+    <searchable-flag>true</searchable-flag>
+    <tax-class-id>standard</tax-class-id>
+    <brand><![CDATA[J. Khaki®]]></brand>
+    <sitemap-included-flag>true</sitemap-included-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="isMaster">
+        <value>true</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="orin">
+        <value>237913393</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="deptNumber">
+        <value>451</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="demandCtr">
+        <value>102</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="classNumber">
+        <value>4536</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="fobNumber">
+        <value>44</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorNumber">
+        <value>4500664</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="styleNumber">
+        <value>4516419</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="deptName">
+        <value>BYS 4-7 SPTSWR</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="demandCtrName">
+        <value>TDLR 4-7 BOYS &amp; ACCESS</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="className">
+        <value>PANTS</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="fobName">
+        <value>KIDS</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorName">
+        <value>J KHAKI/BELK INT&apos;L</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphCategory">
+        <value>Item_Primary_Hierarchy///4099-Baby_and_Kids///4138-Boys///4139-Bottoms///4141-Pants</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL1">
+        <value>Baby_and_Kids</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL2">
+        <value>Boys</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL3">
+        <value>Bottoms</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL4">
+        <value>Pants</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="belkExclusive">
+        <value>Yes</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="isPYG">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="productCopyText">
+        <value>Your little man will be cute and comfortable in this fleece pant. Pair them with his favorite tee for the perfect play outfit.</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyLine1">
+        <value>Elastic waistband</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyLine2">
+        <value>Pockets</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyMaterial">
+        <value>Cotton, polyester</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyCare">
+        <value>Machine washable</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyExclusive">
+        <value>Yes</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyImportDomestic">
+        <value>Import</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyCAProp65Compliant">
+        <value>T</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="defaultSkuCode">
+        <value>0480001639919</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="mirVendorNumber">
+        <value>4500664</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="conversionFlag">
+        <value>true</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Waistband">
+        <value>Elastic</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Care">
+        <value>Machine washable</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Material">
+        <value>Cotton</value>
+        <value> polyester</value>
+        <value>Cotton Blend</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Closure_Type">
+        <value>Elastic waistband</value>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="920109025038">
+    <display-name>Pet Bed</display-name>
+    <pet-source>PO</pet-source>
+    <short-description>Filled with fluffy Resilia™ feathers, this bed will relax and comfort your beloved pet during naps and nights.Includes removable zippered cover with ProGuard® stain protection for durable easy care. Pacific Coast™ Hyperclean® Resilia™ feathers.Resilia™ feathers have been specially processed to be fluffier and more resilient than ordinary feathers.Hyperclean® fill has been thoroughly washed and rinsed to remove dust, dirt and allergens205 thread count100% cotton zippered cover in Forest Green fabric with ProGuard® protection for stain protection and easy care230 thread count100% cotton inner fabricBarrier Weave® prevents feathers from sneaking outGusset design, rectangle shape.4-in. gusset extends fluffy comfort to the very edge of the bed.2 year limited warranty</short-description>
+    <long-description>PC PET BED 30X40</long-description>
+    <online-flag>
+    </online-flag>
+    <online-from>
+    </online-from>
+    <searchable-flag>true</searchable-flag>
+    <tax-class-id>standard</tax-class-id>
+    <sitemap-included-flag>true</sitemap-included-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="isMaster">
+        <value>true</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="orin">
+        <value>241102868</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="deptNumber">
+        <value>743</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="demandCtr">
+        <value>109</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="classNumber">
+        <value>9440</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="fobNumber">
+        <value>54</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorNumber">
+        <value>9201090</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="styleNumber">
+        <value>25038</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="deptName">
+        <value>UTILITY</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="demandCtrName">
+        <value>SOFT HOME</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="className">
+        <value>BED PILLOWS</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="fobName">
+        <value>HOME</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorName">
+        <value>CALVIN KLEIN/PACIFIC COAST</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphCategory">
+        <value>Item_Primary_Hierarchy///4269-For_the_Home///4376-Home_Dcor///4390-Pet_Accessories</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL1">
+        <value>For_the_Home</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL2">
+        <value>Home_Dcor</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL3">
+        <value>Pet_Accessories</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="belkExclusive">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="isPYG">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="isGWP">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="isPWP">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="productCopyText">
+        <value>Filled with fluffy Resilia feathers, this bed will relax and comfort your beloved pet during naps and nights. •4-in. gusset extends fluffy comfort to the very edge of the bed•205 thread count•Cover has ProGuard protection for stain protection•Resilia feathers have been specially processed to be fluffier and more resilient than ordinary feathers•Includes removable zippered cover with ProGuard stain protection for durable easy care•2-year limited warranty•Cover: cotton; Fill: hyperclean Resilia feather•Cover: machine washable•Imported</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyCAProp65Compliant">
+        <value>F</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="mirVendorNumber">
+        <value>9201090</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="conversionFlag">
+        <value>true</value>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="3201196405642855001">
+    <completion-date>2013-02-26T05:00:00</completion-date>
+    <display-name>Grosgrain-Striped Card Case</display-name>
+    <short-description>Varsity-inspired stripes give this waxed calfskin card case a collegiate twist and a vibrant pop of pattern.	Slim design. Single-needle stitched edges. Debossed &quot;Polo Ralph Lauren&quot; at one side. Pockets are lined with faille. Median slip pocket and three card slots at each side.	Debossed signature pony at one side.	Presented in our signature &quot;Polo Ralph Lauren&quot; embossed box. 3 1/4&quot; H x 4&quot; L x 1/4&quot; D. Leather, polyester. Imported.</short-description>
+    <long-description>LTHR REPP STRIPE CARD CASE BLK</long-description>
+    <online-flag>
+    </online-flag>
+    <online-from>
+    </online-from>
+    <searchable-flag>true</searchable-flag>
+    <tax-class-id>standard</tax-class-id>
+    <brand><![CDATA[Lauren Ralph Lauren]]></brand>
+    <sitemap-included-flag>true</sitemap-included-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="isMaster">
+        <value>true</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="orin">
+        <value>288986681</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="deptNumber">
+        <value>372</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="demandCtr">
+        <value>90</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="classNumber">
+        <value>3451</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="fobNumber">
+        <value>34</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorNumber">
+        <value>3201196</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="styleNumber">
+        <value>405642855001</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="deptName">
+        <value>POLO MNS</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="demandCtrName">
+        <value>MNS BTR COLLECTIONS</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="className">
+        <value>ACCESS-NON APPAREL</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="fobName">
+        <value>MENS</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorName">
+        <value>LAUREN RALPH LAUREN LEATHERGOODS</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphCategory">
+        <value>Item_Primary_Hierarchy///4001-Accessories///4073-Wallets///6619-Card_Case</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL1">
+        <value>Accessories</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL2">
+        <value>Wallets</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="iphL3">
+        <value>Card_Case</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="belkExclusive">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="channelExclusive">
+        <value>Store and Ecomm</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="isPYG">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="isGWP">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="isPWP">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="productCopyText">
+        <value>Varsity-inspired stripes give this waxed calfskin card case a collegiate twist and a vibrant pop of pattern.	•3 1/4&quot; H x 4&quot; L x 1/4&quot; D•Median slip pocket and three card slots at each side•Slim design•Single-needle stitched edges•Debossed &quot;Polo Ralph Lauren&quot; at one side•Debossed signature pony at one side•Pockets are lined with faille•Presented in our signature &quot;Polo Ralph Lauren&quot; embossed box•Leather, polyester•Wipe clean•Imported</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="copyCAProp65Compliant">
+        <value>T</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="defaultSkuCode">
+        <value>0438575724647</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="mirVendorNumber">
+        <value>3201196</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Gender">
+        <value>Men</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Holds">
+        <value>Credit cards</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Pattern">
+        <value>Stripe</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Faux_Fur">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Hardware">
+        <value>Varies by color</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Material">
+        <value>Leather</value>
+        <value> polyester</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Number_of_Pieces">
+        <value>1</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Care">
+        <value>Wipe clean</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Dimensions">
+        <value>3 1/4&quot; H x 4&quot; L x 1/4&quot; D</value>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="0400679842206">
+    <completion-date>2013-02-26T05:00:00</completion-date>
+    <pet-source>PO</pet-source>
+    <parent-id>3205465CU9486</parent-id>
+    <upc>0886535185159</upc>
+    <step-quantity>1</step-quantity>
+    <display-name>PFG CAMO BALLCAP:Small/Medium or Short/Medium:FLA</display-name>
+    <online-flag/>
+    <searchable-flag>true</searchable-flag>
+    <tax-class-id>standard</tax-class-id>
+    <custom-attributes>
+      <custom-attribute attribute-id="isMaster">
+        <value>false</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="skuOrin">
+        <value>214154751</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="isGiftBoxEligible">
+        <value>Yes</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="sourcedDomestically">
+        <value>Domestic</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="directShipFlag">
+        <value>false</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="size">
+        <value>11911_S/M</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="color">
+        <value>486214154726</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="nrfSizeCode">
+        <value><![CDATA[11911]]></value>
+      </custom-attribute>
+      <custom-attribute attribute-id="omniSizeDesc">
+        <value><![CDATA[S/M]]></value>
+      </custom-attribute>
+      <custom-attribute attribute-id="refinementSize">
+        <value><![CDATA[S]]></value>
+        <value><![CDATA[M]]></value>
+      </custom-attribute>
+      <custom-attribute attribute-id="refinementColor">
+        <value>tan/khaki</value>
+        <value>blue</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="nrfColorCode">
+        <value>486</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="omniChannelColorDescription">
+        <value>Blue</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="il_eligible">
+        <value>false</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorSizeDescription">
+        <value>Small/Medium or Short/Medium</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="vendorColorDescription">
+        <value>FLA</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Expedited_Shipping">
+        <value>Y</value>
+      </custom-attribute>
+    </custom-attributes>
+    <images>
+      <vendorProvidedImages>
+        <image>
+          <imageName/>
+          <shotType/>
+          <vendorUploadedImageName/>
+          <imagePath/>
+        </image>
+      </vendorProvidedImages>
+      <scene7Images>
+        <scene7Image>
+          <shotType>A</shotType>
+          <mainImage path="http://s7d4.scene7.com/is/image/Belk?layer=0&amp;src=3205465_CU9486_A_486_T10L00&amp;layer=comp&amp;"/>
+          <swatchImage path="http://s7d4.scene7.com/is/image/Belk?layer=0&amp;src=3205465_CU9486_A_486_T10L00&amp;crop=1018,954,222,222&amp;layer=comp&amp;"/>
+          <viewerImage path="http://s7d4.scene7.com/is-viewers/flash/genericzoom.swf?contentRoot=http://s7d4.scene7.com/skins/&amp;config=Belk/V&amp;image=Belk%3fqlt%3d100,1%26layer%3d0%26src%3d3205465_CU9486_A_486_T10L00%26layer%3dcomp%26"/>
+        </scene7Image>
+      </scene7Images>
+    </images>
+  </product>
+  <product product-id="0438566024640">
+    <Item_status>Delete</Item_status>
+  </product>
+  <product product-id="260059260420891">
+    <Item_status>Delete</Item_status>
+  </product>
+</catalog>

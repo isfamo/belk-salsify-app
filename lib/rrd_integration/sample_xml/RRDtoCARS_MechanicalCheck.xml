@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carsMessage from="RRD" to="CARS" type="vendorImagesMechResults" imagesReceived="126" imagesProcessed="126">
+  <image image_id="134">
+    <check type="MECHANICAL">PASS</check>
+  </image>
+  <image image_id="22">
+    <check type="MECHANICAL">FAIL</check>
+    <reasons>
+      <reason>Less than 300 dpi</reason>
+    </reasons>
+  </image>
+</carsMessage>

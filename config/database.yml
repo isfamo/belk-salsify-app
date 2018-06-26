@@ -1,0 +1,17 @@
+development:
+  adapter: postgresql
+  database: customer_belk_development
+  host: localhost
+  pool: <%= ENV["DB_POOL"].to_i || ENV['RAILS_MAX_THREADS'].to_i || 5 %>
+
+test:
+  adapter: postgresql
+  database: customer_belk_test
+  host: localhost
+  pool: 10
+
+production:
+  adapter: postgresql
+  database: customer_belk_production
+  host: localhost
+  pool: <%= ENV["DB_POOL"].to_i || ENV['RAILS_MAX_THREADS'].to_i || 5 %>

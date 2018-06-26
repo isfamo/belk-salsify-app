@@ -1,0 +1,32 @@
+[
+  {
+      "salsify:id": "cdurling@salsify.com",
+      "salsify:system_id": "s-1723cf93-53e6-4749-b08d-ffdd8d4168c7",
+      "salsify:created_at": "2017-12-05T19:16:08.480Z",
+      "salsify:updated_at": "2017-12-05T19:16:08.480Z",
+      "salsify:version": 0,
+      "salsify:profile_asset_id": null,
+      "salsify:parent_id": "99999991170835",
+      "product_id": "cdurling@salsify.com",
+      "Product Name": "Test new grouping",
+      "Parent Product": "99999991170835",
+      "Is 2 Weeks past Turn-In?": false,
+      "Has Multiple Default SKU Codes": false
+  },
+  {
+    "salsify:id": "cdurling+1@salsify.com",
+    "salsify:system_id": "s-1723cf93-53e6-4749-b08d-ffdd8d4168c7",
+    "salsify:created_at": "2017-12-05T19:16:08.480Z",
+    "salsify:updated_at": "2017-12-05T19:16:08.480Z",
+    "salsify:version": 0,
+    "salsify:profile_asset_id": null,
+    "salsify:parent_id": "99999991170835",
+    "product_id": "cdurling+1@salsify.com",
+    "Product Name": "Test new grouping",
+    "Parent Product": "99999991170835",
+    "Is 2 Weeks past Turn-In?": false,
+    "Has Multiple Default SKU Codes": false,
+    "Vendor#": 9385285,
+    "Orin/Grouping #": 8286432
+}
+]

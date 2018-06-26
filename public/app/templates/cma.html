@@ -1,0 +1,41 @@
+<div class="row">
+  <div class="col-xs-12 col-centered">
+    <div class="row">
+      <div class="col-xs-4">
+        <h2>Belk CMA On-Demand</h2>
+      </div>
+    </div>
+
+    <br>
+
+    <div class="row">
+      <div class="col-xs-1"></div>
+      <div class="col-xs-10">
+        <p>
+          In order to generate a CMA On-Demand export, please ensure that the source CMA file
+          has been uploaded to Salsify FTP. Then, please enter the filename as it appears on FTP
+          below and click the export button.
+        </p>
+      </div>
+    </div>
+
+    <br>
+
+    <div class="row">
+      <div class="col-xs-4"></div>
+      <div class="col-xs-4">
+          <div class="input-group">
+            <input type="text" class="form-control" name="cma" id="input-cma" placeholder="Please enter CMA filename here..." ng-disabled="$root.error">
+            <span class="input-group-btn">
+              <button class="btn btn-default" id="btn-cma" type="button" ng-click="onDemand()" ng-class="{'disabled': $root.lockbutton}"><i class="fa fa-external-link"></i></button>
+            </span>
+          </div>
+      </div>
+
+      <br>
+      <br>
+      <br>
+
+    </div>
+  </div>
+</div>

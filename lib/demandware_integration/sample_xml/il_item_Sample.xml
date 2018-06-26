@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="http://www.demandware.com/xml/impex/catalog/2006-10-31" catalog-id="belk-master-catalog">
+    
+    <product product-id="0400001800898">
+        <ean/>
+        <upc>0400001800898</upc>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">CMAS TREE VEGETABLE:No Size:NO COLOR</display-name>
+        <short-description xml:lang="x-default">CMAS TREE VEGETABLE:No Size:NO COLOR</short-description>
+        <long-description xml:lang="x-default">CMAS TREE VEGETABLE:No Size:NO COLOR</long-description>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Expedited_Shipping">Y</custom-attribute>
+            <custom-attribute attribute-id="className">CHRISTMAS</custom-attribute>
+            <custom-attribute attribute-id="classNumber">7616</custom-attribute>
+            <custom-attribute attribute-id="color">000100231679</custom-attribute>
+            <custom-attribute attribute-id="demandCtr">110</custom-attribute>
+            <custom-attribute attribute-id="demandCtrName">TABLETOP</custom-attribute>
+            <custom-attribute attribute-id="deptName">CHINA</custom-attribute>
+            <custom-attribute attribute-id="deptNumber">761</custom-attribute>
+            <custom-attribute attribute-id="directShipFlag">false</custom-attribute>
+            <custom-attribute attribute-id="fobName">HOME</custom-attribute>
+            <custom-attribute attribute-id="fobNumber">54</custom-attribute>
+            <custom-attribute attribute-id="il_eligible">true</custom-attribute>
+            <custom-attribute attribute-id="isMaster">false</custom-attribute>
+            <custom-attribute attribute-id="mirVendorNumber">7600124</custom-attribute>
+            <custom-attribute attribute-id="omniChannelColorDescription">NO COLOR</custom-attribute>
+            <custom-attribute attribute-id="omniSizeDesc">No Size</custom-attribute>
+            <custom-attribute attribute-id="size">00000_NoSize</custom-attribute>
+            <custom-attribute attribute-id="skuOrin">102053103</custom-attribute>
+            <custom-attribute attribute-id="styleNumber">30CTR161</custom-attribute>
+            <custom-attribute attribute-id="vendorColorDescription">NO COLOR</custom-attribute>
+            <custom-attribute attribute-id="vendorName">ROYAL WORCESTER SPODE</custom-attribute>
+            <custom-attribute attribute-id="vendorNumber">7600124</custom-attribute>
+            <custom-attribute attribute-id="vendorSizeDescription">No Size</custom-attribute>
+        </custom-attributes>
+      
+    </product>
+
+</catalog>

@@ -1,0 +1,42 @@
+[
+  {
+    "header":{
+      "version":"2013-04",
+      "scope":[
+        {
+          "products": [
+            "product_id",
+            "salsify:parent_id"
+          ]
+        }
+      ],
+      "mode":"upsert"
+    }
+  },
+  {
+    "attributes":[]
+  },
+  {
+    "attribute_values":[]
+  },
+  {
+    "products":[
+      {
+        "product_id":"0438564303105",
+        "salsify:parent_id":"5900090S2XJ60"
+      },
+      {
+        "product_id":"0438564311117",
+        "salsify:parent_id":"5900090S2X670"
+      },
+      {
+        "product_id":"0480004675754",
+        "salsify:parent_id":"92001107460455"
+      },
+      {
+        "product_id":"0480004675822",
+        "salsify:parent_id":"92001107460462"
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+salsify:id,salsify:name,salsify:data_type,salsify:is_facetable,salsify:attribute_group,salsify:position,belk:enrichment_attribute,belk:role
+Class Description,Class Description,string,Yes,Style Info,,,
+Class#,Class#,enumerated,Yes,Style Info,,TRUE,
+Dept#,Dept#,enumerated,Yes,Style Info,,TRUE,
+Material,Material,boolean,Yes,Product Attributes,4,TRUE,
+OmniChannel Brand,OmniChannel Brand,enumerated,Yes,Style Info,,TRUE,
+Pattern,Pattern,enumerated,Yes,Product Attributes,,TRUE,
+Type,Type,enumerated,Yes,Product Attributes,,TRUE,
+iphCategory,iphCategory,enumerated,Yes,Product Attributes,,TRUE,
+omniChannelColorDescription,omniChannelColorDescription,enumerated,Yes,Product Attributes,,TRUE,
+omniSizeDesc,omniSizeDesc,enumerated,Yes,Product Attributes,,TRUE,
+refinementColor,refinementColor,enumerated,Yes,Product Attributes,,TRUE,SKU
+refinementSize,refinementSize,enumerated,Yes,Product Attributes,,TRUE,SKU
+Hosiery Features,Hosiery Features,string,Yes,Product Attributes,,TRUE,
+Exterior Features,Exterior Features,string,Yes,Product Attributes,,TRUE,
+Care,Care,string,Yes,Product Attributes,,TRUE,
+Advertised_Origin,Advertised_Origin,string,Yes,Product Attributes,,TRUE,
+Closure Style,Closure Style,string,Yes,Product Attributes,,TRUE,
+Closure Type,Closure Type,string,Yes,Product Attributes,,TRUE,

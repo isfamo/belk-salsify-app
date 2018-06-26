@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<inventory xmlns="http://www.demandware.com/xml/impex/inventory/2007-05-31">
+	<inventory-list>
+		<header list-id="inventory_Demandware_US">
+			<default-instock>false</default-instock>
+			<description>This is the inventory list for Demandware US site</description>
+			<use-bundle-inventory-only>false</use-bundle-inventory-only>
+			<on-order>false</on-order>
+		</header>
+		<records>
+			<record product-id="0438539248455">
+				<allocation>999</allocation>
+			</record>
+			<record product-id="0438539517209">
+				<allocation>999</allocation>
+			</record>
+			<record product-id="0438540818432">
+				<allocation>999</allocation>
+			</record>
+			<record product-id="0438541196256">
+				<allocation>999</allocation>
+			</record>
+			<record product-id="0438539544854">
+				<allocation>999</allocation>
+			</record>
+			<record product-id="0438541196249">
+				<allocation>999</allocation>
+			</record>
+			<record product-id="0000400418133299">
+				<allocation>999</allocation>
+			</record>
+		</records>
+	</inventory-list>
+</inventory>

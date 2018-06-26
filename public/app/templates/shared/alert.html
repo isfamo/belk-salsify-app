@@ -1,0 +1,5 @@
+<div class="container" ng-if="$root.alertService.alert">
+    <div id="alert" class="alert alert-dismissible text-center" ng-class="$root.alertService.alert.type" role="alert">
+        <button type="button" id="alert-dismiss" class="close" data-dismiss="alert" aria-label="Close" ng-click="$root.alertService.dismiss()"><span aria-hidden="true">&times;</span></button>{{$root.alertService.alert.text}}
+    </div>
+</div>

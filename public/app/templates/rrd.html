@@ -1,0 +1,106 @@
+<div class="row">
+  <div class="col-xs-12 col-centered">
+    <div class="row">
+      <div class="col-xs-4">
+        <h2>RRD Sample Photo Requests</h2>
+      </div>
+    </div>
+    <br />
+
+    <input id="input-product-code" type="text" placeholder="Product Code" style="width: 200px; height: 33px; padding: 4px;"/>
+    <button id="search-product-btn" class="btn btn-primary" ng-click="searchProductCode()">Search</button>
+    <br /><br />
+
+    <div ng-show="product">
+      <p>Product: {{product['Product Name']}} ({{product['salsify:id']}})</p>
+      <p>Vendor: {{product['Vendor  Name']}} ({{product['Vendor#']}})</p>
+      <p>Department: {{product['Dept Description']}} ({{product['Dept#']}})</p>
+      <p>Style #: {{product['Style#']}}</p>
+      <p>Brand: {{product['OmniChannel Brand']}}</p>
+      <p>Color Variants: {{colorList.join(', ')}}</p>
+      <br />
+
+      <h3>Request Photos</h3>
+      <table class="table table-striped">
+        <thead>
+          <tr>
+            <th>Request?</th>
+            <th>Color</th>
+            <th>Color Name</th>
+            <th>On-Figure or Still-Life</th>
+            <th>On-Hand or From Vendor</th>
+            <th>Sample Type</th>
+            <th>Completion Date</th>
+            <th>Requested Return Date</th>
+            <th>Must be Returned</th>
+            <th>Return To</th>
+            <th>Return Notes / Shipping Info</th>
+            <th>Silhouette Required</th>
+            <th>Instructions for RRD</th>
+            <th>Request Sent to RRD</th>
+            <th>Request Completed Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <div>
+            <tr ng-repeat="color in colors" class="color-row">
+              <td><input type="checkbox"
+                  class="color-selected"
+                  data-color-id="{{color['code']}}"
+                  data-color-name="{{color['name']}}"
+                  ng-disabled="reqdColors[color['code']] !== undefined && reqdColors[color['code']]['sent_to_rrd']"
+                  ng-click="checkIfAnySelected()"/></td>
+              <td>{{color['code']}}</td>
+              <td>{{color['name']}}</td>
+              <td>
+                <select class="of-or-sl" ng-disabled="reqdColors[color['code']] !== undefined && reqdColors[color['code']]['sent_to_rrd']">
+                  <option ng-selected="(reqdColors[color['code']] !== undefined && reqdColors[color['code']]['of_or_sl'] == 'OF') || (reqdColors[color['code']] == undefined && product['OForSL'] == 'OF')">OF</option>
+                  <option ng-selected="(reqdColors[color['code']] !== undefined && reqdColors[color['code']]['of_or_sl'] == 'SL') || (reqdColors[color['code']] == undefined && product['OForSL'] == 'SL')">SL</option>
+                  <option ng-selected="(reqdColors[color['code']] !== undefined && reqdColors[color['code']]['of_or_sl'] == 'OF/SL') || (reqdColors[color['code']] == undefined && product['OForSL'] == 'OF/SL')">OF/SL</option>
+                  <option ng-selected="(reqdColors[color['code']] !== undefined && reqdColors[color['code']]['of_or_sl'] == 'SW') || (reqdColors[color['code']] == undefined && product['OForSL'] == 'SW')">SW</option>
+                </select>
+              </td>
+              <td>
+                <select class="on-hand-or-from-vendor" ng-disabled="reqdColors[color['code']] !== undefined && reqdColors[color['code']]['sent_to_rrd']">
+                  <option ng-selected="reqdColors[color['code']]['on_hand_or_from_vendor'] == 'OH'" value="OH">On Hand</option>
+                  <option ng-selected="reqdColors[color['code']]['on_hand_or_from_vendor'] == 'FV'" value="FV">From Vendor</option>
+                </select>
+              </td>
+              <td>
+                <select class="sample-type" ng-disabled="reqdColors[color['code']] !== undefined && reqdColors[color['code']]['sent_to_rrd']">
+                  <option ng-selected="reqdColors[color['code']] !== undefined && reqdColors[color['code']]['sample_type'] == 'Product'">Product</option>
+                  <option ng-selected="reqdColors[color['code']] !== undefined && reqdColors[color['code']]['sample_type'] == 'Swatch'">Swatch</option>
+                </select>
+              </td>
+              <td>{{color['completion_date']}}</td>
+              <td><input type="date" class="turn-in-date" ng-disabled="reqdColors[color['code']] !== undefined && reqdColors[color['code']]['sent_to_rrd']" ng-value="reqdColors[color['code']]['turn_in_date']"/></td>
+              <td><input type="checkbox" class="must-be-returned" ng-checked="reqdColors[color['code']]['must_be_returned']" ng-disabled="reqdColors[color['code']] !== undefined && reqdColors[color['code']]['sent_to_rrd']"/></td>
+              <td>
+                <select class="return-to" ng-disabled="reqdColors[color['code']] !== undefined && reqdColors[color['code']]['sent_to_rrd']">
+                  <option ng-selected="reqdColors[color['code']]['return_to'] == 'merchant'" value="merchant">Merchant</option>
+                  <option ng-selected="reqdColors[color['code']]['return_to'] == 'vendor'" value="vendor">Vendor (Must provide shipping info)</option>
+                  <option ng-selected="reqdColors[color['code']]['return_to'] == 'charity'" value="charity">Charity</option>
+                  <option ng-selected="reqdColors[color['code']]['return_to'] == 'none'" value="none">No sample being turned in</option>
+                  <option ng-selected="reqdColors[color['code']]['return_to'] == 'pdc'" value="pdc">PDC</option>
+                </select>
+              </td>
+              <td><textarea class="return-notes" ng-disabled="reqdColors[color['code']] !== undefined && reqdColors[color['code']]['sent_to_rrd']" style="resize: vertical; max-height: 200px;">{{reqdColors[color['code']]['return_notes']}}</textarea></td>
+              <td><input type="checkbox" class="silhouette" ng-checked="reqdColors[color['code']]['silhouette_required']" ng-disabled="reqdColors[color['code']] !== undefined && reqdColors[color['code']]['sent_to_rrd']"/></td>
+              <td><textarea class="instructions" ng-disabled="reqdColors[color['code']] !== undefined && reqdColors[color['code']]['sent_to_rrd']" style="resize: vertical; max-height: 200px;">{{reqdColors[color['code']]['instructions']}}</textarea></td>
+              <td><input type="checkbox" class="already-reqd" ng-checked="reqdColors[color['code']]['sent_to_rrd']" ng-disabled="true"/></td>
+              <td><input type="date" class="req-completed-date" ng-value="reqdColors[color['code']]['completed_at']" ng-disabled="true"/></td>
+            </tr>
+          </div>
+        </tbody>
+      </table>
+
+      <button class="btn btn-primary" ng-click="submitRequests()" ng-disabled="submitDisabled">Submit Requests</button>
+      <br/><br/>
+      <a ng-href="{{domain}}/rrd_print?product_id={{product['salsify:id']}}">Go to print view</a>
+
+    </div>
+
+    <br>
+    <br>
+  </div>
+</div>

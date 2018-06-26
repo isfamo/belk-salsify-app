@@ -1,0 +1,46 @@
+[
+  {
+    "header":{
+      "version": "2013-04",
+      "scope": [
+        "attributes",
+        {
+          "products":[
+            "product_id",
+            "Groupings"
+          ]
+        }
+      ],
+      "mode": "truncate"
+    }
+  },
+  {
+    "attributes":[
+      {
+        "salsify:id":"Groupings",
+        "salsify:name":"Groupings",
+        "salsify:data_type":"string"
+      }
+    ]
+  },
+  {
+    "products":[
+      {
+        "product_id":"1802975ZS1330K0004",
+        "Groupings":"7100422SELIN753036"
+      },
+      {
+        "product_id":"1802975ZS1330K0004",
+        "Groupings":"7100422SELIN753036"
+      },
+      {
+        "product_id":"1802975ZS1330K0004",
+        "Groupings":"7100422SELIN753036"
+      },
+      {
+        "product_id":"1802975ZS1330K0004",
+        "Groupings":"7100422SELIN753036"
+      }
+    ]
+  }
+]

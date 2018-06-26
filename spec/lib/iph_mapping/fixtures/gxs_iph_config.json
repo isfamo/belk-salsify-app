@@ -1,0 +1,835 @@
+{
+  "gxs_mapping": {
+    "heel_height": {
+      "xml_path": [
+        "extended_retail_group",
+        "heel_height"
+      ],
+      "transforms": [
+        "UOM"
+      ]
+    },
+    "fur_treatment": {
+      "xml_path": [
+        "extended_retail_group",
+        "fur_association_list",
+        "fur_association",
+        "fur_treatment"
+      ]
+    },
+    "fur_animal_name": {
+      "xml_path": [
+        "extended_retail_group",
+        "fur_association_list",
+        "fur_association",
+        "fur_animal_name"
+      ]
+    },
+    "fur_country_of_origin": {
+      "xml_path": [
+        "extended_retail_group",
+        "fur_association_list",
+        "fur_association",
+        "fur_country_of_origin"
+      ]
+    },
+    "care_instructions": {
+      "xml_path": [
+        "gdsn_optional_group",
+        "care_instructions"
+      ]
+    },
+    "key_active_ingredient_name": {
+      "xml_path": [
+        "gdsn_optional_group",
+        "key_active_ingredient_name"
+      ]
+    },
+    "available_date_consumer": {
+      "xml_path": [
+        "common_retail_group",
+        "available_date_association",
+        "available_date"
+      ]
+    },
+    "warranty_desc": {
+      "xml_path": [
+        "common_retail_group",
+        "warranty_desc"
+      ]
+    },
+    "sleeve_measurement": {
+      "xml_path": [
+        "extended_retail_group",
+        "sleeve_measurement"
+      ],
+      "transforms": [
+        "UOM_DECIMAL"
+      ]
+    },
+    "boot_leg_circumference": {
+      "xml_path": [
+        "extended_retail_group",
+        "boot_leg_circumference"
+      ],
+      "transforms": [
+        "UOM_DECIMAL"
+      ]
+    },
+    "aerosol": {
+      "xml_path": [
+        "extended_retail_group",
+        "aerosol"
+      ]
+    },
+    "lining_material": {
+      "xml_path": [
+        "extended_retail_group",
+        "lining_material"
+      ]
+    },
+    "platform_height": {
+      "xml_path": [
+        "extended_retail_group",
+        "platform_height"
+      ],
+      "transforms": [
+        "UOM_DECIMAL"
+      ]
+    },
+    "sole_type": {
+      "xml_path": [
+        "extended_retail_group",
+        "sole_type"
+      ]
+    },
+    "pant_inseam_length": {
+      "xml_path": [
+        "extended_retail_group",
+        "pant_inseam_length"
+      ]
+    },
+    "shaft_height": {
+      "xml_path": [
+        "extended_retail_group",
+        "shaft_height"
+      ],
+      "transforms": [
+        "UOM_DECIMAL"
+      ]
+    },
+    "handbag_shoulder_drop": {
+      "xml_path": [
+        "extended_retail_group",
+        "handbag_shoulder_drop"
+      ],
+      "transforms": [
+        "UOM_DECIMAL"
+      ]
+    },
+    "faux_fur": {
+      "xml_path": [
+        "extended_retail_group",
+        "faux_fur"
+      ]
+    },
+    "collar_type": {
+      "xml_path": [
+        "extended_retail_group",
+        "collar_type"
+      ]
+    },
+    "fabric_description": {
+      "xml_path": [
+        "common_retail_group",
+        "fabric_description"
+      ]
+    },
+    "gold_karat": {
+      "xml_path": [
+        "extended_retail_group",
+        "gold_karat"
+      ]
+    },
+    "sleeve_length": {
+      "xml_path": [
+        "extended_retail_group",
+        "sleeve_length"
+      ]
+    },
+    "closures": {
+      "xml_path": [
+        "extended_retail_group",
+        "closure"
+      ]
+    },
+    "feature_benefits": {
+      "xml_path": [
+        "extended_retail_group",
+        "feature_benefit_list",
+        "string"
+      ]
+    },
+    "booking_date": {
+      "xml_path": [
+        "common_retail_group",
+        "booking_date"
+      ]
+    },
+    "brand_type": {
+      "xml_path": [
+        "extended_retail_group",
+        "brand_type"
+      ]
+    },
+    "cancel_date": {
+      "xml_path": [
+        "common_retail_group",
+        "cancel_date"
+      ]
+    },
+    "special_code": {
+      "xml_path": [
+        "common_retail_group",
+        "special_code"
+      ]
+    },
+    "consumer_package_height": {
+      "xml_path": [
+        "common_logistics_group",
+        "consumer_package_dimension_association",
+        "consumer_package_height"
+      ],
+      "transforms": [
+        "UOM_DECIMAL"
+      ]
+    },
+    "consumer_package_length": {
+      "xml_path": [
+        "common_logistics_group",
+        "consumer_package_dimension_association",
+        "consumer_package_length"
+      ],
+      "transforms": [
+        "UOM_DECIMAL"
+      ]
+    },
+    "consumer_package_width": {
+      "xml_path": [
+        "common_logistics_group",
+        "consumer_package_dimension_association",
+        "consumer_package_width"
+      ],
+      "transforms": [
+        "UOM_DECIMAL"
+      ]
+    },
+    "consumer_package_volume": {
+      "xml_path": [
+        "common_logistics_group",
+        "consumer_package_volume"
+      ],
+      "transforms": [
+        "UOM_DECIMAL"
+      ]
+    },
+    "consumer_package_size": {
+      "xml_path": [
+        "common_logistics_group",
+        "consumer_package_size"
+      ]
+    },
+    "commodity_harmonized_tariff_sched": {
+      "xml_path": [
+        "Gdsn_optional_group",
+        "commodity_harmonized_tariff_sched"
+      ]
+    },
+    "lead_time": {
+      "xml_path": [
+        "common_logistics_group",
+        "lead_time"
+      ],
+      "transforms": [
+        "UOM"
+      ]
+    },
+    "transport_handling_codes": {
+      "xml_path": [
+        "gdsn_optional_group",
+        "transport_handling_code_list",
+        "string"
+      ]
+    },
+    "vendor_collection": {
+      "xml_path": [
+        "Gdsn_optional_group",
+        "vendor_collection"
+      ]
+    },
+    "advertised_origin": {
+      "xml_path": [
+        "common_logistics_group",
+        "advertised_origin"
+      ]
+    },
+    "stone": {
+      "xml_path": [
+        "extended_retail_group",
+        "stone"
+      ]
+    },
+    "does_not_contain": {
+      "xml_path": [
+        "gdsn_group",
+        "consumer_package_content_declaration"
+      ],
+      "transforms": [
+        "UOM"
+      ]
+    }
+  },
+  "iph_mapping": {
+    "gxs_feature_benefits": {
+      "level": "style",
+      "maps_to": [
+        "Boot Features",
+        "Hosiery Features",
+        "Swim Features",
+        "Insole Features",
+        "Exterior Features",
+        "Interior Features"
+      ]
+    },
+    "gxs_care_instructions": {
+      "level": "style",
+      "maps_to": [
+        "Care"
+      ]
+    },
+    "gxs_warranty_desc": {
+      "level": "style",
+      "maps_to": [
+        "Warranty Terms"
+      ]
+    },
+    "gxs_available_date_consumer": {
+      "level": "sku",
+      "maps_to": [
+        "Launch Date"
+      ]
+    },
+    "gxs_booking_date": {
+      "level": "sku",
+      "maps_to": [
+        "skuActiveStartDate"
+      ]
+    },
+    "gxs_key_active_ingredient_name": {
+      "level": "style",
+      "maps_to": [
+        "Active Ingredients"
+      ]
+    },
+    "gxs_aerosol": {
+      "level": "style",
+      "maps_to": [
+        "Aerosol"
+      ]
+    },
+    "gxs_fur_country_of_origin": {
+      "level": "style",
+      "maps_to": [
+        "Fur country of origin"
+      ]
+    },
+    "gxs_fur_animal_name": {
+      "level": "style",
+      "maps_to": [
+        "Fur animal name"
+      ],
+      "transforms": [
+        {
+          "type": "code",
+          "dict": "fur_animal_name"
+        }
+      ]
+    },
+    "gxs_fur_treatment": {
+      "level": "style",
+      "maps_to": [
+        "Fur treatment"
+      ],
+      "transforms": [
+        {
+          "type": "code",
+          "dict": "fur_treatment"
+        }
+      ]
+    },
+    "gxs_sleeve_measurement": {
+      "level": "style",
+      "maps_to": [
+        "Sleeve Measurement"
+      ]
+    },
+    "gxs_boot_leg_circumference": {
+      "level": "style",
+      "maps_to": [
+        "Calf Circumference"
+      ]
+    },
+    "gxs_lining_material": {
+      "level": "style",
+      "maps_to": [
+        "Lining Material"
+      ],
+      "transforms": [
+        {
+          "type": "code",
+          "dict": "lining_material"
+        }
+      ]
+    },
+    "gxs_platform_height": {
+      "level": "style",
+      "maps_to": [
+        "Platform Height"
+      ]
+    },
+    "gxs_sole_type": {
+      "level": "style",
+      "maps_to": [
+        "Outsole Content"
+      ],
+      "transforms": [
+        {
+          "type": "code",
+          "dict": "outsole_content"
+        }
+      ]
+    },
+    "gxs_pant_inseam_length": {
+      "level": "style",
+      "maps_to": [
+        "Inseam"
+      ]
+    },
+    "gxs_shaft_height": {
+      "level": "style",
+      "maps_to": [
+        "Shaft Height"
+      ]
+    },
+    "gxs_closures": {
+      "level": "style",
+      "maps_to": [
+        "Closure",
+        "Closure Style",
+        "Closure Type"
+      ],
+      "transforms": [
+        {
+          "type": "code",
+          "dict": "closure"
+        }
+      ]
+    },
+    "gxs_handbag_shoulder_drop": {
+      "level": "style",
+      "maps_to": [
+        "Shoulder Drop"
+      ]
+    },
+    "gxs_faux_fur": {
+      "level": "style",
+      "maps_to": [
+        "Faux Fur"
+      ]
+    },
+    "gxs_does_not_contain": {
+      "level": "style",
+      "maps_to": [
+        "Does not contain"
+      ]
+    },
+    "gxs_brand_type": {
+      "level": "sku",
+      "maps_to": [
+        "GXS_PDU_Brand_Type"
+      ],
+			"iph_dependent": false
+    },
+    "gxs_cancel_date": {
+      "level": "sku",
+      "maps_to": [
+        "GXS_Cancel_Date"
+      ],
+			"iph_dependent": false
+    },
+    "gxs_special_code": {
+      "level": "sku",
+      "maps_to": [
+        "GXS_Special_Handling_Code"
+      ]
+    },
+    "gxs_consumer_package_contents": {
+      "level": "sku",
+      "maps_to": [
+        "GXS_PDU_Content_Per_Consumer_Package"
+      ],
+			"iph_dependent": false
+    },
+    "gxs_consumer_package_height": {
+      "level": "sku",
+      "maps_to": [
+        "GXS_PDU_Consumer_Package_Height"
+      ],
+			"iph_dependent": false
+    },
+    "gxs_consumer_package_length": {
+      "level": "sku",
+      "maps_to": [
+        "GXS_PDU_Consumer_Package_Length"
+      ],
+			"iph_dependent": false
+    },
+    "gxs_consumer_package_width": {
+      "level": "sku",
+      "maps_to": [
+        "GXS_PDU_Consumer_Package_Width"
+      ],
+			"iph_dependent": false
+    },
+    "gxs_consumer_package_volume": {
+      "level": "sku",
+      "maps_to": [
+        "GXS_PDU_Consumer_Package_Volume"
+      ],
+			"iph_dependent": false
+    },
+    "gxs_dress_skirt_length": {
+      "level": "sku",
+      "maps_to": [
+        "GXS_Dress_Skirt_Length"
+      ],
+			"iph_dependent": false
+    },
+    "gxs_commodity_harmonized_tariff_sched": {
+      "level": "sku",
+      "maps_to": [
+        "GXS_PDU_Harmonized_Tariff_Schedule"
+      ],
+			"iph_dependent": false
+    },
+    "gxs_heel_height": {
+      "level": "style",
+      "maps_to": [
+        "Heel Height"
+      ]
+    },
+    "gxs_lead_time": {
+      "level": "sku",
+      "maps_to": [
+        "GXS_PDU_Lead_Time"
+      ],
+			"iph_dependent": false
+    },
+    "gxs_transport_handling_code": {
+      "level": "sku",
+      "maps_to": [
+        "GXS_Special_Handling_Code"
+      ],
+			"iph_dependent": false
+    },
+    "gxs_special_item_code": {
+      "level": "sku",
+      "maps_to": [
+        "GXS_PDU_Special_Item_Code"
+      ],
+			"iph_dependent": false
+    },
+    "gxs_available_date": {
+      "level": "sku",
+      "maps_to": [
+        "GXS_PDU_Available_Date"
+      ],
+			"iph_dependent": false
+    },
+    "gxs_collar_type": {
+      "level": "sku",
+      "maps_to": [
+        "Collar Type"
+      ],
+      "transforms": [
+        {
+          "type": "code",
+          "dict": "collar_type"
+        }
+      ]
+    },
+    "gxs_fabric_description": {
+      "level": "sku",
+      "maps_to": [
+        "Fabric"
+      ]
+    },
+    "gxs_gold_karat": {
+      "level": "sku",
+      "maps_to": [
+        "Gold_Karat"
+      ],
+      "transforms": [
+        {
+          "type": "code",
+          "dict": "gold_karat"
+        }
+      ]
+    },
+    "gxs_sleeve_length": {
+      "level": "sku",
+      "maps_to": [
+        "Sleeve Length"
+      ],
+      "transforms": [
+        {
+          "type": "code",
+          "dict": "sleeve_length"
+        }
+      ]
+    },
+    "gxs_stone": {
+      "level": "sku",
+      "maps_to": [
+        "Stone"
+      ],
+			"iph_dependent": false
+    },
+    "gxs_vendor_collection": {
+      "level": "style",
+      "maps_to": [
+        "Vendor_Collection"
+      ],
+			"iph_dependent": false
+    },
+    "gxs_advertised_origin": {
+      "level": "sku",
+      "maps_to": [
+        "Advertised_Origin"
+      ],
+			"iph_dependent": false,
+      "transforms": [
+        {
+          "type": "code",
+          "dict": "advertised_origin"
+        }
+      ]
+    }
+  },
+  "gxs_codes": {
+    "fur_animal_name": {
+      "GM03FANMAP": "Australian Brushtail Possum",
+      "GM03FANMBV": "Beaver",
+      "GM03FANMCH": "Calf Hair",
+      "GM03FANMFX": "Fox",
+      "GM03FANMGJ": "Golden Jackal",
+      "GM03FANMGW": "Grey Wolf",
+      "GM03FANMMA": "Marten",
+      "GM03FANMMK": "Mink",
+      "GM03FANMOU": "Otter",
+      "GM03FANMPH": "Pony Hair",
+      "GM03FANMRI": "Rabbit",
+      "GM03FANMRC": "Raccoon",
+      "GM03FANMSG": "Sable",
+      "GM03FANMSK": "Skunk",
+      "GM04FANM99": "Other Fur Animal"
+    },
+    "fur_treatment": {
+      "GM03FTMTAC": "Artificially colored",
+      "GM03FTMTBM": "Bleached",
+      "GM03FTMTDY": "Dyed",
+      "GM03FTMTNA": "Natural",
+      "GM03FTMTPT": "Pointed",
+      "GM04FTMT99": "Other Fur Treatment"
+    },
+    "lining_material": {
+      "GM03LIMTAN": "Antimicrobial",
+      "GM03LIMTFD": "Fabric",
+      "GM03LIMTFB": "Faux Fur",
+      "GM03LIMTFL": "Faux Leather",
+      "GM03LIMTFS": "Faux Shearling",
+      "GM03LIMTFC": "Fleece",
+      "GM03LIMTGE": "Gel",
+      "GM03LIMTLE": "Leather",
+      "GM03LIMTMF": "Memory Foam",
+      "GM03LIMTOM": "Organic Material",
+      "GM03LIMTQT": "Quilted",
+      "GM03LIMTSL": "Shearling lined",
+      "GM03LIMTSP": "Sherpa",
+      "GM03LIMTSY": "Synthetic",
+      "GM04LIMT99": "Other Lining"
+    },
+    "outsole_content": {
+      "GM03SOLTLS": "Leather",
+      "GM03SOLTRS": "Rubber",
+      "GM03SOLTSJ": "Synthetic",
+      "GM03SOLTRE": "Recycled",
+      "GM03SOLTNS": "Natural Fiber",
+      "GM04SOLT99": "Other Sole Type"
+    },
+    "closure": {
+      "GM03CLOSAP": "Adjustable/Pull",
+      "GM03CLOSBB": "Back Button/Zip",
+      "GM03CLOSBH": "Back Hook/Zip",
+      "GM03CLOSBA": "Barrel closure",
+      "GM03CLOSBT": "Box clasp",
+      "GM03CLOSBU": "Buckle closure",
+      "GM03CLOSBN": "Button closure",
+      "GM03CLOSBK": "Button closure",
+      "GM03CLOSBF": "Button closure",
+      "GM03CLOSBP": "Button closure",
+      "GM03CLOSBS": "Button closure",
+      "GM03CLOSCL": "Clasp closure",
+      "GM03CLOSCT": "Click top closure",
+      "GM03CLOSCO": "Clip earring",
+      "GM03CLOSDS": "Drawstring closure",
+      "GM03CLOSDF": "Drawstring closure",
+      "GM03CLOSDE": "Drawstring Elastic",
+      "GM03CLOSDR": "D Ring",
+      "GM03CLOSDO": "O Ring",
+      "GM03CLOSFS": "French wire earring",
+      "GM03CLOSFP": "Foldover closure",
+      "GM03CLOSFO": "Foldover closure",
+      "GM03CLOSFW": "French wire earring",
+      "GM03CLOSFA": "Frog/Button Loop",
+      "GM03CLOSFZ": "Front Button/Zip",
+      "GM03CLOSFH": "Front Hook/Zip",
+      "GM03CLOSHB": "Hidden button closure",
+      "GM03CLOSHS": "Hidden snap closure",
+      "GM03CLOSHZ": "Invisible zip closure",
+      "GM03CLOSHI": "Hinged",
+      "GM03CLOSHE": "Hinged/Foldover",
+      "GM03CLOSHO": "Hook and eye closure",
+      "GM03CLOSHL": "Hook and loop closure",
+      "GM03CLOSHC": "Hook and eye closure",
+      "GM03CLOSHD": "Hook and eye closure",
+      "GM03CLOSKB": "Keyhole with button closure",
+      "GM03CLOSKL": "Kiss-lock closure",
+      "GM03CLOSKN": "Tie closure",
+      "GM03CLOSLU": "Lace-up closure",
+      "GM03CLOSLF": "Lace-up closure",
+      "GM03CLOSLB": "Euro wire closure",
+      "GM03CLOSLL": "Push-lock closure",
+      "GM03CLOSLC": "Lobster closure",
+      "GM03CLOSLW": "Lobster closure",
+      "GM03CLOSMG": "Magnetic closure",
+      "GM03CLOSPP": "Pierced earring",
+      "GM03CLOSPL": "Push-lock closure",
+      "GM03CLOSSB": "Side Button/Zip",
+      "GM03CLOSSZ": "Side Hook/Zip",
+      "GM03CLOSSN": "Snap closure",
+      "GM03CLOSSM": "Snap closure",
+      "GM03CLOSSF": "Snap closure",
+      "GM03CLOSS2": "Snap closure",
+      "GM03CLOSSE": "Snap closure",
+      "GM03CLOSSS": "Snap closure",
+      "GM03CLOSSA": "Snap Post",
+      "GM03CLOSSR": "Tie closure",
+      "GM03CLOSSW": "Swivel",
+      "GM03CLOSTB": "Tab",
+      "GM03CLOSTI": "Tie closure",
+      "GM03CLOSTH": "Tie closure",
+      "GM03CLOSTF": "Tie closure",
+      "GM03CLOSTS": "Tie closure",
+      "GM03CLOSTO": "Toggle closure",
+      "GM03CLOSTN": "Toggle closure",
+      "GM03CLOSTZ": "Top zip closure",
+      "GM03CLOSTQ": "Tunnel Side Tie",
+      "GM03CLOSTL": "Turn-lock closure",
+      "GM03CLOSWR": "Wrap",
+      "GM03CLOSZI": "Zip closure",
+      "GM03CLOSZB": "Zip closure",
+      "GM03CLOSZP": "Zip closure",
+      "GM03CLOSZF": "Zip closure",
+      "GM03CLOSZR": "Zip closure",
+      "GM03CLOSZS": "Zip closure",
+      "GM03CLOSZA": "Zip closure",
+      "GM03CLOSZQ": "Quarter-zip closure",
+      "GM03CLOSZH": "Half-zip closure",
+      "GM04CLOS99": "Other Closure"
+    },
+    "collar_type": {
+      "GM03CLNTBD": "Button-down collar",
+      "GM03CLNTCW": "Cowl neck",
+      "GM03CLNTBL": "Crew neck",
+      "GM03CLNTBC": "Band collar",
+      "GM03CLNTBE": "Boat neck",
+      "GM03CLNTCR": "Crew neck",
+      "GM03CLNTFU": "Funnel neck",
+      "GM03CLNTHA": "Halter",
+      "GM03CLNTDP": "Drape neck",
+      "GM03CLNTHN": "Henley",
+      "GM03CLNTHF": "Henley",
+      "GM03CLNTJE": "Crew neck",
+      "GM03CLNTHU": "Henley",
+      "GM03CLNTMB": "Mandarin collar",
+      "GM03CLNTMO": "Mock neck",
+      "GM03CLNTNO": "Notch collar",
+      "GM03CLNTOR": "Off the shoulder",
+      "GM03CLNTOS": "One shoulder",
+      "GM03CLNTPA": "Round collar",
+      "GM03CLNTPJ": "V-neck",
+      "GM03CLNTPO": "Point collar",
+      "GM03CLNTPU": "Polo collar",
+      "GM03CLNTPR": "Portrait collar",
+      "GM03CLNTQZ": "Mock neck",
+      "GM03CLNTRB": "Racerback",
+      "GM03CLNTRO": "Roll neck",
+      "GM03CLNTSQ": "Square neck",
+      "GM03CLNTSV": "Stand collar",
+      "GM03CLNTRU": "Scoop neck",
+      "GM03CLNTSC": "Scoop neck",
+      "GM03CLNTSH": "Shawl collar",
+      "GM03CLNTSL": "Halter",
+      "GM03CLNTSO": "Spread collar",
+      "GM03CLNTSU": "Crossover V-neck",
+      "GM03CLNTSX": "Sweetheart neck",
+      "GM03CLNTTA": "Tab collar",
+      "GM03CLNTTI": "Tie neck",
+      "GM03CLNTTU": "Turtleneck",
+      "GM03CLNTVN": "V-neck",
+      "GM03CLNTWI": "Wingtip collar",
+      "GM03CLNTYN": "Split neck"
+    },
+    "gold_karat": {
+      "8 KT": "8 Karat",
+      "10 KT": "10 Karat",
+      "12 KT": "12 Karat",
+      "14 KT": "14 Karat",
+      "16 KT": "16 Karat",
+      "18 KT": "18 Karat",
+      "20 KT": "20 Karat",
+      "22 KT": "22 Karat",
+      "24 KT": "24 Karat",
+      "blank": "None"
+    },
+    "sleeve_length": {
+      "GM03SLVTHT": "Elbow sleeve",
+      "GM03SLVTQS": "Short sleeve",
+      "GM03SLVTTT": "Three-quarter sleeve",
+      "GM03SLVTES": "Elbow sleeve",
+      "GM03SLVTLO": "Long sleeve",
+      "GM03SLVTST": "Short sleeve",
+      "GM03SLVTS4": "Sleeveless",
+      "GM03SLVTSI": "Sleeveless"
+    },
+    "advertised_origin": {
+      "GM03ADVOIM": "Import",
+      "GM03ADVOMC": "Import",
+      "GM03ADVOMU": "Domestic",
+      "GM03ADVOUI": "Import",
+      "GM03ADVOUO": "Import",
+      "GM04ADVO99": "Import"
+    }
+  }
+}

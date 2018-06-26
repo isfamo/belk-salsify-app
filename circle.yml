@@ -1,0 +1,24 @@
+machine:
+  timezone:
+    America/New_York
+  ruby:
+    version:
+      2.5.0
+
+dependencies:
+  pre:
+    - gem install bundler --pre
+
+  override:
+    - bundle install: # note ':' here
+        timeout: 181 # fail if command has no output for 3 minutes
+        # IMPORTANT NOTE: ^^ the timeout modifier above must be
+        # double indented (four spaces) from the previous line
+
+database:
+  override:
+    # Circle's generated database.yml is invalid so use our own.
+    - cp config/database.ci.yml config/database.yml
+    - bundle exec rake db:setup:
+        environment:
+          RAILS_ENV: test

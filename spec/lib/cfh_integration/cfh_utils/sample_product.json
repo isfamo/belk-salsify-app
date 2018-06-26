@@ -1,0 +1,185 @@
+[
+  {
+    "header":{
+      "version": "2013-04",
+      "scope": [
+        "attributes",
+        "attribute_values",
+        {
+          "products":[
+            "product_id",
+            "online_flag",
+            "images"
+          ]
+        }
+      ],
+      "mode": "truncate"
+    }
+  },
+  {
+    "attributes":[
+      {
+        "salsify:id":"product_id",
+        "salsify:name":"product_id",
+        "salsify:data_type":"string",
+        "salsify:attribute_group":"",
+        "salsify:help_text":""
+      },
+      {
+        "salsify:id":"display_name",
+        "salsify:name":"display_name",
+        "salsify:data_type":"boolean",
+        "salsify:attribute_group":"",
+        "salsify:help_text":""
+      },
+      {
+        "salsify:id":"short_description",
+        "salsify:name":"short_description",
+        "salsify:data_type":"digital_asset",
+        "salsify:attribute_group":"",
+        "salsify:help_text":""
+      },
+      {
+        "salsify:id":"long_description",
+        "salsify:name":"long_description",
+        "salsify:data_type":"digital_asset",
+        "salsify:attribute_group":"",
+        "salsify:help_text":""
+      }
+    ],
+    "attribute_values":[],
+    "digital_assets":[
+      {
+        "salsify:id": "http://belk.scene7.com/is/image/Belk?layer=0&src=1802975_ZS1330K0004_A_157_T10L00&layer=comp&",
+        "salsify:url": "http://belk.scene7.com/is/image/Belk?layer=0&src=1802975_ZS1330K0004_A_157_T10L00&layer=comp&"
+      },
+      {
+        "salsify:id": "http://belk.scene7.com/is/image/Belk?layer=0&src=1802975_ZS1330K0004_B_157_T10L00&layer=comp&",
+        "salsify:url": "http://belk.scene7.com/is/image/Belk?layer=0&src=1802975_ZS1330K0004_B_157_T10L00&layer=comp&"
+      },
+      {
+        "salsify:id": "http://belk.scene7.com/is/image/Belk?layer=0&src=1802975_ZS1330K0004_A_157_T10L00&crop=870,1338,150,150&layer=comp&",
+        "salsify:url": "http://belk.scene7.com/is/image/Belk?layer=0&src=1802975_ZS1330K0004_A_157_T10L00&crop=870,1338,150,150&layer=comp&"
+      }
+    ],
+    "products":[
+      {
+        "product_id":"1802975ZS1330K0004",
+        "display_name":"Plus Size Roadtrip Screen Tank",
+        "short_description":"Screen print on front of tank, sleeveless",
+        "long_description":"A super sleek screen print and face-framing crew neck make this laid-back knit tank the star of any wardrobe. A flattering silhouette and comfortable feel ensure the off-duty staple is ideal for day-long wear.",
+        "online_flag":true,
+        "min_order_quantity":1,
+        "step_quantity":1,
+        "available_flag":true,
+        "searchable_flag":true,
+        "images":[
+          "http://belk.scene7.com/is/image/Belk?layer=0&src=1802975_ZS1330K0004_A_157_T10L00&layer=comp&",
+          "http://belk.scene7.com/is/image/Belk?layer=0&src=1802975_ZS1330K0004_B_157_T10L00&layer=comp&"
+        ],
+        "swatch_images":[
+          "http://belk.scene7.com/is/image/Belk?layer=0&src=1802975_ZS1330K0004_A_157_T10L00&crop=870,1338,150,150&layer=comp&"
+        ],
+        "tax_class_id":"Standard",
+        "brand":"H.I.P",
+        "Activewear":false,
+        "Care":"Machine washable, gentle cycle",
+        "Closure_Type":"Pullover",
+        "Fabric":"Knit",
+        "Faux_Fur":false,
+        "Fur_RN_Number_or_Distributor":"N/A",
+        "Fur_animal_name":"N/A",
+        "Fur_country_of_origin":"N/A",
+        "Fur_treatment":"N/A",
+        "Garment_Length":"Approx. 32-in. L",
+        "Hem_Length":"Hips",
+        "Lining_Type":"Unlined",
+        "Material":"Cotton/Spandex",
+        "Neckline":"Crew neck",
+        "Pockets":false,
+        "Sleeve_Length":"Sleeveless",
+        "Sleeve_Style":"Sleeveless",
+        "Special_Sizes":"Plus",
+        "Tag_Free":false,
+        "belkExclusive":false,
+        "channelExclusive":"Store and Ecomm",
+        "classNumber":"1803",
+        "copyCAProp65Compliant":"T",
+        "copyCare":"Machine washable",
+        "copyExclusive":false,
+        "copyImportDomestic":"Import",
+        "copyLine1":"Approximately 32-in. L",
+        "copyLine2":"Pullover",
+        "copyLine3":"Crew neck",
+        "copyLine4":"Sleeveless",
+        "copyLine5":"Unlined",
+        "copyMaterial":"Cotton, spandex",
+        "defaultSkuCode":"0438566844620",
+        "demandCtr":"163",
+        "deptNumber":"38",
+        "iphCategory":"Item_Primary_Hierarchy///4557-Juniors///4610-Tops///4614-Tanks_and_Camisoles",
+        "isGWP":false,
+        "isPWP":false,
+        "isPYG":false,
+        "mirVendorNumber":"1802975",
+        "orin":"282522375",
+        "productCopyText":"A super sleek screen print and face-framing crew neck make this laid-back knit tank the star of any wardrobe. A flattering silhouette and comfortable feel ensure the off-duty staple is ideal for day-long wear.",
+        "styleNumber":"ZS1330K0004",
+        "vendorNumber":"1802975",
+        "pinterest_enabled_flag":false,
+        "facebook_enabled_flag":false
+      },
+      {
+        "product_id":"0438566844569",
+        "upc":"0190172240493",
+        "color": "157282522375",
+        "isGiftBoxEligible":"Yes",
+        "nrfColorCode":"157",
+        "nrfSizeCode":"31006",
+        "omniChannelColorDescription":"Ivory",
+        "omniSizeDesc":"1X",
+        "refinementColor":"White",
+        "refinementSize":"1X",
+        "size": "1X",
+        "skuActiveStartDate": "2016-05-16",
+        "skuOrin": "282522391",
+        "sourcedDomestically":"Domestic",
+        "salsify:parent_id":"1802975ZS1330K0004"
+      },
+      {
+        "product_id":"0438566844620",
+        "upc":"0190172240509",
+        "color": "Ivory",
+        "isGiftBoxEligible":"Yes",
+        "nrfColorCode":"157",
+        "nrfSizeCode":"31007",
+        "omniChannelColorDescription":"Ivory",
+        "omniSizeDesc":"2X",
+        "refinementColor":"White",
+        "refinementSize":"2X",
+        "size": "2X",
+        "skuActiveStartDate": "2016-05-16",
+        "skuOrin": "282522412",
+        "sourcedDomestically":"Domestic",
+        "salsify:parent_id":"1802975ZS1330K0004"
+      },
+      {
+        "product_id":"0438566844620",
+        "upc":"0190172240516",
+        "color": "Ivory",
+        "isGiftBoxEligible":"Yes",
+        "nrfColorCode":"157",
+        "nrfSizeCode":"31008",
+        "omniChannelColorDescription":"Ivory",
+        "omniSizeDesc":"3X",
+        "refinementColor":"White",
+        "refinementSize":"3X",
+        "size": "3X",
+        "skuActiveStartDate": "2016-05-16",
+        "skuOrin": "282522447",
+        "sourcedDomestically":"Domestic",
+        "salsify:parent_id":"1802975ZS1330K0004"
+      }
+    ]
+  }
+]

@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="http://www.demandware.com/xml/impex/catalog/2006-10-31" catalog-id="belk-master-catalog">
+    <header>
+        <image-settings>
+            <external-location>
+                <http-url>http://belk.scene7.com</http-url>
+                <https-url>https://belk.scene7.com</https-url>
+            </external-location>
+            <view-types>
+                <view-type>imageURL</view-type>
+                <view-type>swatch</view-type>
+            </view-types>
+            <variation-attribute-id>color</variation-attribute-id>
+            <alt-pattern>${productname}</alt-pattern>
+            <title-pattern>${productname}</title-pattern>
+        </image-settings>
+    </header>
+
+    <product product-id="0438569529890">
+        <ean/>
+        <upc>0014782011611</upc>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Expedited_Shipping">Y</custom-attribute>
+            <custom-attribute attribute-id="color">004284557459</custom-attribute>
+            <custom-attribute attribute-id="currentEventCodeID">
+                <value>G5045</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="directShipFlag">false</custom-attribute>
+            <custom-attribute attribute-id="eventCodeID">
+                <value>G7647</value>
+                <value>17ODBB26</value>
+                <value>G7721</value>
+                <value>G5045</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="il_eligible">false</custom-attribute>
+            <custom-attribute attribute-id="isGiftBoxEligible">Yes</custom-attribute>
+            <custom-attribute attribute-id="isMaster">false</custom-attribute>
+            <custom-attribute attribute-id="nrfColorCode">004</custom-attribute>
+            <custom-attribute attribute-id="nrfSizeCode">10975</custom-attribute>
+            <custom-attribute attribute-id="omniChannelColorDescription">Coal Mrl</custom-attribute>
+            <custom-attribute attribute-id="omniSizeDesc">L</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">
+                <value>black</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="refinementSize">
+                <value>L</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="regularPrice">38.0</custom-attribute>
+            <custom-attribute attribute-id="size">10975_L</custom-attribute>
+            <custom-attribute attribute-id="skuActiveStartDate">2016-06-17</custom-attribute>
+            <custom-attribute attribute-id="skuOrin">284557651</custom-attribute>
+            <custom-attribute attribute-id="vendorColorDescription">Coal Mrl</custom-attribute>
+            <custom-attribute attribute-id="vendorSizeDescription">Large</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="0438569530421">
+        <ean/>
+        <upc>0014782011673</upc>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Expedited_Shipping">Y</custom-attribute>
+            <custom-attribute attribute-id="color">534284557459</custom-attribute>
+            <custom-attribute attribute-id="currentEventCodeID">
+                <value>G5045</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="directShipFlag">false</custom-attribute>
+            <custom-attribute attribute-id="eventCodeID">
+                <value>G7647</value>
+                <value>17ODBB26</value>
+                <value>G7721</value>
+                <value>G5045</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="il_eligible">false</custom-attribute>
+            <custom-attribute attribute-id="isGiftBoxEligible">Yes</custom-attribute>
+            <custom-attribute attribute-id="isMaster">false</custom-attribute>
+            <custom-attribute attribute-id="nrfColorCode">534</custom-attribute>
+            <custom-attribute attribute-id="nrfSizeCode">10980</custom-attribute>
+            <custom-attribute attribute-id="omniChannelColorDescription">Prince B</custom-attribute>
+            <custom-attribute attribute-id="omniSizeDesc">XL</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">
+                <value>purple</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="refinementSize">
+                <value>XL</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="regularPrice">38.0</custom-attribute>
+            <custom-attribute attribute-id="size">10980_XL</custom-attribute>
+            <custom-attribute attribute-id="skuActiveStartDate">2016-06-17</custom-attribute>
+            <custom-attribute attribute-id="skuOrin">284557803</custom-attribute>
+            <custom-attribute attribute-id="vendorColorDescription">Prince B</custom-attribute>
+            <custom-attribute attribute-id="vendorSizeDescription">XLarge</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="0438569530384">
+        <ean/>
+        <upc>0014782011666</upc>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Expedited_Shipping">Y</custom-attribute>
+            <custom-attribute attribute-id="color">534284557459</custom-attribute>
+            <custom-attribute attribute-id="currentEventCodeID">
+                <value>G5045</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="directShipFlag">false</custom-attribute>
+            <custom-attribute attribute-id="eventCodeID">
+                <value>G7647</value>
+                <value>17ODBB26</value>
+                <value>G7721</value>
+                <value>G5045</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="il_eligible">false</custom-attribute>
+            <custom-attribute attribute-id="isGiftBoxEligible">Yes</custom-attribute>
+            <custom-attribute attribute-id="isMaster">false</custom-attribute>
+            <custom-attribute attribute-id="nrfColorCode">534</custom-attribute>
+            <custom-attribute attribute-id="nrfSizeCode">10975</custom-attribute>
+            <custom-attribute attribute-id="omniChannelColorDescription">Prince B</custom-attribute>
+            <custom-attribute attribute-id="omniSizeDesc">L</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">
+                <value>purple</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="refinementSize">
+                <value>L</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="regularPrice">38.0</custom-attribute>
+            <custom-attribute attribute-id="size">10975_L</custom-attribute>
+            <custom-attribute attribute-id="skuActiveStartDate">2016-06-17</custom-attribute>
+            <custom-attribute attribute-id="skuOrin">284557791</custom-attribute>
+            <custom-attribute attribute-id="vendorColorDescription">Prince B</custom-attribute>
+            <custom-attribute attribute-id="vendorSizeDescription">Large</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="0438569530643">
+        <ean/>
+        <upc>0014782011703</upc>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Expedited_Shipping">Y</custom-attribute>
+            <custom-attribute attribute-id="color">638284557459</custom-attribute>
+            <custom-attribute attribute-id="currentEventCodeID">
+                <value>G5045</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="directShipFlag">false</custom-attribute>
+            <custom-attribute attribute-id="eventCodeID">
+                <value>G7647</value>
+                <value>17ODBB26</value>
+                <value>G7721</value>
+                <value>G5045</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="il_eligible">false</custom-attribute>
+            <custom-attribute attribute-id="isGiftBoxEligible">Yes</custom-attribute>
+            <custom-attribute attribute-id="isMaster">false</custom-attribute>
+            <custom-attribute attribute-id="nrfColorCode">638</custom-attribute>
+            <custom-attribute attribute-id="nrfSizeCode">10970</custom-attribute>
+            <custom-attribute attribute-id="omniChannelColorDescription">Chrysant</custom-attribute>
+            <custom-attribute attribute-id="omniSizeDesc">M</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">
+                <value>red</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="refinementSize">
+                <value>M</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="regularPrice">38.0</custom-attribute>
+            <custom-attribute attribute-id="size">10970_M</custom-attribute>
+            <custom-attribute attribute-id="skuActiveStartDate">2016-06-17</custom-attribute>
+            <custom-attribute attribute-id="skuOrin">284557854</custom-attribute>
+            <custom-attribute attribute-id="vendorColorDescription">Chrysant</custom-attribute>
+            <custom-attribute attribute-id="vendorSizeDescription">Medium</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="0438569530162">
+        <ean/>
+        <upc>0014782011635</upc>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Expedited_Shipping">Y</custom-attribute>
+            <custom-attribute attribute-id="color">004284557459</custom-attribute>
+            <custom-attribute attribute-id="currentEventCodeID">
+                <value>G5045</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="directShipFlag">false</custom-attribute>
+            <custom-attribute attribute-id="eventCodeID">
+                <value>G7647</value>
+                <value>17ODBB26</value>
+                <value>G7721</value>
+                <value>G5045</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="il_eligible">false</custom-attribute>
+            <custom-attribute attribute-id="isGiftBoxEligible">Yes</custom-attribute>
+            <custom-attribute attribute-id="isMaster">false</custom-attribute>
+            <custom-attribute attribute-id="nrfColorCode">004</custom-attribute>
+            <custom-attribute attribute-id="nrfSizeCode">10985</custom-attribute>
+            <custom-attribute attribute-id="omniChannelColorDescription">Coal Mrl</custom-attribute>
+            <custom-attribute attribute-id="omniSizeDesc">2XL</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">
+                <value>black</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="refinementSize">
+                <value>2XL</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="regularPrice">38.0</custom-attribute>
+            <custom-attribute attribute-id="size">10985_2XL</custom-attribute>
+            <custom-attribute attribute-id="skuActiveStartDate">2016-06-17</custom-attribute>
+            <custom-attribute attribute-id="skuOrin">284557723</custom-attribute>
+            <custom-attribute attribute-id="vendorColorDescription">Coal Mrl</custom-attribute>
+            <custom-attribute attribute-id="vendorSizeDescription">XXLarge</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="0438569529739">
+        <ean/>
+        <upc>0014782011604</upc>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Expedited_Shipping">Y</custom-attribute>
+            <custom-attribute attribute-id="color">004284557459</custom-attribute>
+            <custom-attribute attribute-id="currentEventCodeID">
+                <value>G5045</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="directShipFlag">false</custom-attribute>
+            <custom-attribute attribute-id="eventCodeID">
+                <value>G7647</value>
+                <value>17ODBB26</value>
+                <value>G7721</value>
+                <value>G5045</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="il_eligible">false</custom-attribute>
+            <custom-attribute attribute-id="isGiftBoxEligible">Yes</custom-attribute>
+            <custom-attribute attribute-id="isMaster">false</custom-attribute>
+            <custom-attribute attribute-id="nrfColorCode">004</custom-attribute>
+            <custom-attribute attribute-id="nrfSizeCode">10970</custom-attribute>
+            <custom-attribute attribute-id="omniChannelColorDescription">Coal Mrl</custom-attribute>
+            <custom-attribute attribute-id="omniSizeDesc">M</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">
+                <value>black</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="refinementSize">
+                <value>M</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="regularPrice">38.0</custom-attribute>
+            <custom-attribute attribute-id="size">10970_M</custom-attribute>
+            <custom-attribute attribute-id="skuActiveStartDate">2016-06-17</custom-attribute>
+            <custom-attribute attribute-id="skuOrin">284557619</custom-attribute>
+            <custom-attribute attribute-id="vendorColorDescription">Coal Mrl</custom-attribute>
+            <custom-attribute attribute-id="vendorSizeDescription">Medium</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="0438569530339">
+        <ean/>
+        <upc>0014782011659</upc>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Expedited_Shipping">Y</custom-attribute>
+            <custom-attribute attribute-id="color">534284557459</custom-attribute>
+            <custom-attribute attribute-id="currentEventCodeID">
+                <value>G5045</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="directShipFlag">false</custom-attribute>
+            <custom-attribute attribute-id="eventCodeID">
+                <value>G7647</value>
+                <value>17ODBB26</value>
+                <value>G7721</value>
+                <value>G5045</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="il_eligible">false</custom-attribute>
+            <custom-attribute attribute-id="isGiftBoxEligible">Yes</custom-attribute>
+            <custom-attribute attribute-id="isMaster">false</custom-attribute>
+            <custom-attribute attribute-id="nrfColorCode">534</custom-attribute>
+            <custom-attribute attribute-id="nrfSizeCode">10970</custom-attribute>
+            <custom-attribute attribute-id="omniChannelColorDescription">Prince B</custom-attribute>
+            <custom-attribute attribute-id="omniSizeDesc">M</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">
+                <value>purple</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="refinementSize">
+                <value>M</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="regularPrice">38.0</custom-attribute>
+            <custom-attribute attribute-id="size">10970_M</custom-attribute>
+            <custom-attribute attribute-id="skuActiveStartDate">2016-06-17</custom-attribute>
+            <custom-attribute attribute-id="skuOrin">284557774</custom-attribute>
+            <custom-attribute attribute-id="vendorColorDescription">Prince B</custom-attribute>
+            <custom-attribute attribute-id="vendorSizeDescription">Medium</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="0438569530001">
+        <ean/>
+        <upc>0014782011628</upc>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Expedited_Shipping">Y</custom-attribute>
+            <custom-attribute attribute-id="color">004284557459</custom-attribute>
+            <custom-attribute attribute-id="currentEventCodeID">
+                <value>G5045</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="directShipFlag">false</custom-attribute>
+            <custom-attribute attribute-id="eventCodeID">
+                <value>G7647</value>
+                <value>17ODBB26</value>
+                <value>G7721</value>
+                <value>G5045</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="il_eligible">false</custom-attribute>
+            <custom-attribute attribute-id="isGiftBoxEligible">Yes</custom-attribute>
+            <custom-attribute attribute-id="isMaster">false</custom-attribute>
+            <custom-attribute attribute-id="nrfColorCode">004</custom-attribute>
+            <custom-attribute attribute-id="nrfSizeCode">10980</custom-attribute>
+            <custom-attribute attribute-id="omniChannelColorDescription">Coal Mrl</custom-attribute>
+            <custom-attribute attribute-id="omniSizeDesc">XL</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">
+                <value>black</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="refinementSize">
+                <value>XL</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="regularPrice">38.0</custom-attribute>
+            <custom-attribute attribute-id="size">10980_XL</custom-attribute>
+            <custom-attribute attribute-id="skuActiveStartDate">2016-06-17</custom-attribute>
+            <custom-attribute attribute-id="skuOrin">284557686</custom-attribute>
+            <custom-attribute attribute-id="vendorColorDescription">Coal Mrl</custom-attribute>
+            <custom-attribute attribute-id="vendorSizeDescription">XLarge</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="0438569530780">
+        <ean/>
+        <upc>0014782011727</upc>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Expedited_Shipping">Y</custom-attribute>
+            <custom-attribute attribute-id="color">638284557459</custom-attribute>
+            <custom-attribute attribute-id="currentEventCodeID">
+                <value>G5045</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="directShipFlag">false</custom-attribute>
+            <custom-attribute attribute-id="eventCodeID">
+                <value>G7647</value>
+                <value>17ODBB26</value>
+                <value>G7721</value>
+                <value>G5045</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="il_eligible">false</custom-attribute>
+            <custom-attribute attribute-id="isGiftBoxEligible">Yes</custom-attribute>
+            <custom-attribute attribute-id="isMaster">false</custom-attribute>
+            <custom-attribute attribute-id="nrfColorCode">638</custom-attribute>
+            <custom-attribute attribute-id="nrfSizeCode">10980</custom-attribute>
+            <custom-attribute attribute-id="omniChannelColorDescription">Chrysant</custom-attribute>
+            <custom-attribute attribute-id="omniSizeDesc">XL</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">
+                <value>red</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="refinementSize">
+                <value>XL</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="regularPrice">38.0</custom-attribute>
+            <custom-attribute attribute-id="size">10980_XL</custom-attribute>
+            <custom-attribute attribute-id="skuActiveStartDate">2016-06-17</custom-attribute>
+            <custom-attribute attribute-id="skuOrin">284557897</custom-attribute>
+            <custom-attribute attribute-id="vendorColorDescription">Chrysant</custom-attribute>
+            <custom-attribute attribute-id="vendorSizeDescription">XLarge</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="3201171166171B">
+        <ean/>
+        <upc/>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Short Sleeve Stripe Shirt</display-name>
+        <short-description xml:lang="x-default">Casual short sleeve stripe knit shirt with 3 button placket, features a polo collar, two side vents hem, comes in a variety of colors, features moisture wicking for extra comfort.</short-description>
+        <long-description xml:lang="x-default">This casual striped shirt is essential to every modern man's wardrobe. Featuring two side vents at the hem and moisture wicking material for extra comfort, this versatile top is perfect for every day wear.</long-description>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <images>
+            <image-group view-type="imageURL">
+                <image path="/is/image/Belk?layer=0&amp;src=3201171_166171B_A_004_T10L00&amp;layer=comp&amp;"/>
+            </image-group>
+            <image-group view-type="imageURL" variation-value="004284557459">
+                <image path="/is/image/Belk?layer=0&amp;src=3201171_166171B_A_004_T10L00&amp;layer=comp&amp;"/>
+                <image path="/is/image/Belk?layer=0&amp;src=3201171_166171B_B_004_T10L00&amp;layer=comp&amp;"/>
+            </image-group>
+            <image-group view-type="imageURL" variation-value="534284557459">
+                <image path="/is/image/Belk?layer=0&amp;src=3201171_166171B_A_534_T10L00&amp;layer=comp&amp;"/>
+                <image path="/is/image/Belk?layer=0&amp;src=3201171_166171B_B_534_T10L00&amp;layer=comp&amp;"/>
+            </image-group>
+            <image-group view-type="imageURL" variation-value="638284557459">
+                <image path="/is/image/Belk?layer=0&amp;src=3201171_166171B_A_638_T10L00&amp;layer=comp&amp;"/>
+                <image path="/is/image/Belk?layer=0&amp;src=3201171_166171B_B_638_T10L00&amp;layer=comp&amp;"/>
+            </image-group>
+            <image-group view-type="swatch" variation-value="004284557459">
+                <image path="/is/image/Belk?layer=0&amp;src=3201171_166171B_A_004_T10L00&amp;crop=1027,701,150,150&amp;layer=comp&amp;"/>
+            </image-group>
+            <image-group view-type="swatch" variation-value="534284557459">
+                <image path="/is/image/Belk?layer=0&amp;src=3201171_166171B_A_534_T10L00&amp;crop=831,1460,150,150&amp;layer=comp&amp;"/>
+            </image-group>
+            <image-group view-type="swatch" variation-value="638284557459">
+                <image path="/is/image/Belk?layer=0&amp;src=3201171_166171B_A_638_T10L00&amp;crop=827,1381,150,150&amp;layer=comp&amp;"/>
+            </image-group>
+        </images>
+        <tax-class-id>standard</tax-class-id>
+        <brand>Saddlebred®</brand>
+        <sitemap-included-flag>true</sitemap-included-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Activewear">No</custom-attribute>
+            <custom-attribute attribute-id="Care">
+                <value>Machine washable</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="Closure_Type">
+                <value>Button closure</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="Fabric">
+                <value>Polyester</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="Faux_Fur">
+                <value>No</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="Features">
+                <value>Moisture wicking</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="Logo">No</custom-attribute>
+            <custom-attribute attribute-id="Material">100%Polyester</custom-attribute>
+            <custom-attribute attribute-id="Pattern">
+                <value>Stripe</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="Pockets">No</custom-attribute>
+            <custom-attribute attribute-id="Sleeve_Length">
+                <value>Short sleeve</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="Tag_Free">Yes</custom-attribute>
+            <custom-attribute attribute-id="belkExclusive">Yes</custom-attribute>
+            <custom-attribute attribute-id="bonusEventCodeID">
+                <value>174JLYBB</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="channelExclusive">Store and Ecomm</custom-attribute>
+            <custom-attribute attribute-id="className">SS KNIT TOPS</custom-attribute>
+            <custom-attribute attribute-id="classNumber">3540</custom-attribute>
+            <custom-attribute attribute-id="copyCAProp65Compliant">T</custom-attribute>
+            <custom-attribute attribute-id="copyCare">Machine washable</custom-attribute>
+            <custom-attribute attribute-id="copyExclusive">Yes</custom-attribute>
+            <custom-attribute attribute-id="copyLine1">Button front placket</custom-attribute>
+            <custom-attribute attribute-id="copyLine2">Collar</custom-attribute>
+            <custom-attribute attribute-id="copyLine3">Short sleeves</custom-attribute>
+            <custom-attribute attribute-id="copyMaterial">Polyester</custom-attribute>
+            <custom-attribute attribute-id="defaultSkuCode">0438569530827</custom-attribute>
+            <custom-attribute attribute-id="demandCtr">89</custom-attribute>
+            <custom-attribute attribute-id="demandCtrName">MNS MOD SPRT</custom-attribute>
+            <custom-attribute attribute-id="deptName">MNS MOD TOPS</custom-attribute>
+            <custom-attribute attribute-id="deptNumber">355</custom-attribute>
+            <custom-attribute attribute-id="fobName">MENS</custom-attribute>
+            <custom-attribute attribute-id="fobNumber">34</custom-attribute>
+            <custom-attribute attribute-id="iphCategory">Item_Primary_Hierarchy///4617-Men///4630-Shirts///4631-Casual_Shirts///4633-Pullovers</custom-attribute>
+            <custom-attribute attribute-id="iphL1">Men</custom-attribute>
+            <custom-attribute attribute-id="iphL2">Shirts</custom-attribute>
+            <custom-attribute attribute-id="iphL3">Casual_Shirts</custom-attribute>
+            <custom-attribute attribute-id="iphL4">Pullovers</custom-attribute>
+            <custom-attribute attribute-id="isGWP">No</custom-attribute>
+            <custom-attribute attribute-id="isMaster">true</custom-attribute>
+            <custom-attribute attribute-id="isPWP">No</custom-attribute>
+            <custom-attribute attribute-id="isPYG">No</custom-attribute>
+            <custom-attribute attribute-id="mirVendorNumber">3201171</custom-attribute>
+            <custom-attribute attribute-id="orin">284557459</custom-attribute>
+            <custom-attribute attribute-id="productCopyText">This casual striped shirt is essential to every modern man's wardrobe. Featuring two side vents at the hem and moisture wicking material for extra comfort, this versatile top is perfect for every day wear.</custom-attribute>
+            <custom-attribute attribute-id="styleNumber">166171B</custom-attribute>
+            <custom-attribute attribute-id="vendorName">SADDLEBRED/ROYTEX</custom-attribute>
+            <custom-attribute attribute-id="vendorNumber">3201171</custom-attribute>
+        </custom-attributes>
+        <variations>
+            <attributes>
+                <variation-attribute attribute-id="color" variation-attribute-id="color">
+                    <display-name xml:lang="x-default">color</display-name>
+                    <variation-attribute-values>
+                        <variation-attribute-value value="004284557459">
+                            <display-value xml:lang="x-default">Coal Mrl</display-value>
+                        </variation-attribute-value>
+                        <variation-attribute-value value="534284557459">
+                            <display-value xml:lang="x-default">Prince B</display-value>
+                        </variation-attribute-value>
+                        <variation-attribute-value value="638284557459">
+                            <display-value xml:lang="x-default">Chrysant</display-value>
+                        </variation-attribute-value>
+                    </variation-attribute-values>
+                </variation-attribute>
+                <variation-attribute attribute-id="size" variation-attribute-id="size">
+                    <display-name xml:lang="x-default">size</display-name>
+                    <variation-attribute-values>
+                        <variation-attribute-value value="10965_S">
+                            <display-value xml:lang="x-default">S</display-value>
+                        </variation-attribute-value>
+                        <variation-attribute-value value="10970_M">
+                            <display-value xml:lang="x-default">M</display-value>
+                        </variation-attribute-value>
+                        <variation-attribute-value value="10975_L">
+                            <display-value xml:lang="x-default">L</display-value>
+                        </variation-attribute-value>
+                        <variation-attribute-value value="10980_XL">
+                            <display-value xml:lang="x-default">XL</display-value>
+                        </variation-attribute-value>
+                        <variation-attribute-value value="10985_2XL">
+                            <display-value xml:lang="x-default">2XL</display-value>
+                        </variation-attribute-value>
+                    </variation-attribute-values>
+                </variation-attribute>
+            </attributes>
+            <variants>
+                <variant product-id="0438569529739"/>
+                <variant product-id="0438569529890"/>
+                <variant product-id="0438569530001"/>
+                <variant product-id="0438569530162"/>
+                <variant product-id="0438569530339"/>
+                <variant product-id="0438569530384"/>
+                <variant product-id="0438569530421"/>
+                <variant product-id="0438569530506"/>
+                <variant product-id="0438569530643"/>
+                <variant product-id="0438569530780"/>
+                <variant product-id="0438569530759"/>
+                <variant product-id="0438569530827"/>
+            </variants>
+        </variations>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="0438569530759">
+        <ean/>
+        <upc>0014782011710</upc>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Expedited_Shipping">Y</custom-attribute>
+            <custom-attribute attribute-id="color">638284557459</custom-attribute>
+            <custom-attribute attribute-id="currentEventCodeID">
+                <value>G5045</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="directShipFlag">false</custom-attribute>
+            <custom-attribute attribute-id="eventCodeID">
+                <value>G7647</value>
+                <value>17ODBB26</value>
+                <value>G7721</value>
+                <value>G5045</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="il_eligible">false</custom-attribute>
+            <custom-attribute attribute-id="isGiftBoxEligible">Yes</custom-attribute>
+            <custom-attribute attribute-id="isMaster">false</custom-attribute>
+            <custom-attribute attribute-id="nrfColorCode">638</custom-attribute>
+            <custom-attribute attribute-id="nrfSizeCode">10975</custom-attribute>
+            <custom-attribute attribute-id="omniChannelColorDescription">Chrysant</custom-attribute>
+            <custom-attribute attribute-id="omniSizeDesc">L</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">
+                <value>red</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="refinementSize">
+                <value>L</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="regularPrice">38.0</custom-attribute>
+            <custom-attribute attribute-id="size">10975_L</custom-attribute>
+            <custom-attribute attribute-id="skuActiveStartDate">2016-06-17</custom-attribute>
+            <custom-attribute attribute-id="skuOrin">284557871</custom-attribute>
+            <custom-attribute attribute-id="vendorColorDescription">Chrysant</custom-attribute>
+            <custom-attribute attribute-id="vendorSizeDescription">Large</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="0438569530827">
+        <ean/>
+        <upc>0014782011734</upc>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Expedited_Shipping">Y</custom-attribute>
+            <custom-attribute attribute-id="color">638284557459</custom-attribute>
+            <custom-attribute attribute-id="currentEventCodeID">
+                <value>G5045</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="directShipFlag">false</custom-attribute>
+            <custom-attribute attribute-id="eventCodeID">
+                <value>G7647</value>
+                <value>17ODBB26</value>
+                <value>G7721</value>
+                <value>G5045</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="il_eligible">false</custom-attribute>
+            <custom-attribute attribute-id="isGiftBoxEligible">Yes</custom-attribute>
+            <custom-attribute attribute-id="isMaster">false</custom-attribute>
+            <custom-attribute attribute-id="nrfColorCode">638</custom-attribute>
+            <custom-attribute attribute-id="nrfSizeCode">10985</custom-attribute>
+            <custom-attribute attribute-id="omniChannelColorDescription">Chrysant</custom-attribute>
+            <custom-attribute attribute-id="omniSizeDesc">2XL</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">
+                <value>red</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="refinementSize">
+                <value>2XL</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="regularPrice">38.0</custom-attribute>
+            <custom-attribute attribute-id="size">10985_2XL</custom-attribute>
+            <custom-attribute attribute-id="skuActiveStartDate">2016-06-17</custom-attribute>
+            <custom-attribute attribute-id="skuOrin">284557918</custom-attribute>
+            <custom-attribute attribute-id="vendorColorDescription">Chrysant</custom-attribute>
+            <custom-attribute attribute-id="vendorSizeDescription">XXLarge</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="0438569530506">
+        <ean/>
+        <upc>0014782011680</upc>
+        <unit/>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="Expedited_Shipping">Y</custom-attribute>
+            <custom-attribute attribute-id="color">534284557459</custom-attribute>
+            <custom-attribute attribute-id="currentEventCodeID">
+                <value>G5045</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="directShipFlag">false</custom-attribute>
+            <custom-attribute attribute-id="eventCodeID">
+                <value>G7647</value>
+                <value>17ODBB26</value>
+                <value>G7721</value>
+                <value>G5045</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="il_eligible">false</custom-attribute>
+            <custom-attribute attribute-id="isGiftBoxEligible">Yes</custom-attribute>
+            <custom-attribute attribute-id="isMaster">false</custom-attribute>
+            <custom-attribute attribute-id="nrfColorCode">534</custom-attribute>
+            <custom-attribute attribute-id="nrfSizeCode">10985</custom-attribute>
+            <custom-attribute attribute-id="omniChannelColorDescription">Prince B</custom-attribute>
+            <custom-attribute attribute-id="omniSizeDesc">2XL</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">
+                <value>purple</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="refinementSize">
+                <value>2XL</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="regularPrice">38.0</custom-attribute>
+            <custom-attribute attribute-id="size">10985_2XL</custom-attribute>
+            <custom-attribute attribute-id="skuActiveStartDate">2016-06-17</custom-attribute>
+            <custom-attribute attribute-id="skuOrin">284557811</custom-attribute>
+            <custom-attribute attribute-id="vendorColorDescription">Prince B</custom-attribute>
+            <custom-attribute attribute-id="vendorSizeDescription">XXLarge</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+</catalog>

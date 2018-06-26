@@ -1,0 +1,512 @@
+<carsMessage from="CARS" to="RRD" type="photoRequests">
+  <productPhotoRequests>
+    <productPhotoRequest>
+      <car id="557"/>
+      <product type="Sleepwear">
+        <name>Short Sleeve Flower Print Gown</name>
+        <vendor id="2100014">
+          <name>MISS ELAINE</name>
+        </vendor>
+        <style id="202418"/>
+        <department id="76">
+          <name>SLEEPWEAR</name>
+        </department>
+        <class id="429">
+          <name>KNIT SLEEPWEAR</name>
+        </class>
+      </product>
+      <photos>
+        <photo type="sample">
+          <file>
+            <name>
+              <prefix>2100014_202418_X_385</prefix>
+            </name>
+          </file>
+          <instructions>Need date vendor expects to ship sample.Thanks!</instructions>
+          <samples>
+            <sample id="892" type="product">
+              <color code="385">
+                <name>Sage with Pink and Lilac Flowers</name>
+              </color>
+              <returnRequested>N</returnRequested>
+              <returnInformation>
+                <shippingAccount carrier="UPS"/>
+              </returnInformation>
+            </sample>
+          </samples>
+        </photo>
+      </photos>
+    </productPhotoRequest>
+    <productPhotoRequest>
+      <car id="558"/>
+      <product type="Sleepwear">
+        <name>Solid Knit Gown </name>
+        <vendor id="2100014">
+          <name>MISS ELAINE</name>
+        </vendor>
+        <style id="202408"/>
+        <department id="76">
+          <name>SLEEPWEAR</name>
+        </department>
+        <class id="429">
+          <name>KNIT SLEEPWEAR</name>
+        </class>
+      </product>
+      <photos>
+        <photo type="sample">
+          <file>
+            <name>
+              <prefix>2100014_202408_X_355</prefix>
+            </name>
+          </file>
+          <instructions>Need date vendor expects to ship sample.Thanks!</instructions>
+          <samples>
+            <sample id="895" type="product">
+              <color code="355">
+                <name>Sage</name>
+              </color>
+              <returnRequested>N</returnRequested>
+              <returnInformation>
+                <shippingAccount carrier="UPS"/>
+              </returnInformation>
+            </sample>
+          </samples>
+        </photo>
+      </photos>
+    </productPhotoRequest>
+    <productPhotoRequest>
+      <car id="559"/>
+      <product type="Robes">
+        <name>Quilted Knit Snap Front Short Robe</name>
+        <vendor id="2100014">
+          <name>MISS ELAINE</name>
+        </vendor>
+        <style id="852808"/>
+        <department id="78">
+          <name>ROBES</name>
+        </department>
+        <class id="415">
+          <name>COTTON ROBES</name>
+        </class>
+      </product>
+      <photos>
+        <photo type="sample">
+          <file>
+            <name>
+              <prefix>2100014_852808_X_650</prefix>
+            </name>
+          </file>
+          <instructions>Swatch must be 6&quot;X6&quot;</instructions>
+          <samples>
+            <sample id="1122" type="swatch">
+              <color code="650">
+                <name>Pink</name>
+              </color>
+              <returnRequested>N</returnRequested>
+              <returnInformation>
+                <shippingAccount carrier="UPS"/>
+              </returnInformation>
+            </sample>
+          </samples>
+        </photo>
+        <photo type="sample">
+          <file>
+            <name>
+              <prefix>2100014_852808_X_355</prefix>
+            </name>
+          </file>
+          <instructions>Swatch must be 6&quot;X6&quot;</instructions>
+          <samples>
+            <sample id="1123" type="product">
+              <color code="355">
+                <name>Sage</name>
+              </color>
+              <returnRequested>N</returnRequested>
+              <returnInformation>
+                <shippingAccount carrier="UPS"/>
+              </returnInformation>
+            </sample>
+          </samples>
+        </photo>
+      </photos>
+    </productPhotoRequest>
+    <productPhotoRequest>
+      <car id="560"/>
+      <product type="Robes">
+        <name>Quilted Knit Long Zip Robe</name>
+        <vendor id="2100014">
+          <name>MISS ELAINE</name>
+        </vendor>
+        <style id="862808"/>
+        <department id="78">
+          <name>ROBES</name>
+        </department>
+        <class id="415">
+          <name>COTTON ROBES</name>
+        </class>
+      </product>
+      <photos>
+        <photo type="sample">
+          <file>
+            <name>
+              <prefix>2100014_862808_X_650</prefix>
+            </name>
+          </file>
+          <instructions>Need date vendor expects to ship sample. Attatch copy of CAR to sample and send to buyer. Thanks!</instructions>
+          <samples>
+            <sample id="1126" type="product">
+              <color code="650">
+                <name>Pink</name>
+              </color>
+              <returnRequested>N</returnRequested>
+              <returnInformation>
+                <shippingAccount carrier="UPS"/>
+              </returnInformation>
+            </sample>
+          </samples>
+        </photo>
+        <photo type="sample">
+          <file>
+            <name>
+              <prefix>2100014_862808_X_380</prefix>
+            </name>
+          </file>
+          <instructions>Need date vendor expects to ship sample. Attatch copy of CAR to sample and send to buyer. Thanks!</instructions>
+          <samples>
+            <sample id="1127" type="swatch">
+              <color code="380">
+                <name>Turquoise </name>
+              </color>
+              <returnRequested>N</returnRequested>
+              <returnInformation>
+                <shippingAccount carrier="UPS"/>
+              </returnInformation>
+            </sample>
+          </samples>
+        </photo>
+      </photos>
+    </productPhotoRequest>
+    <productPhotoRequest>
+      <car id="561"/>
+      <product type="Sleepwear">
+        <name>French Terry Long Printed Zip Robe</name>
+        <vendor id="2100014">
+          <name>MISS ELAINE</name>
+        </vendor>
+        <style id="362418"/>
+        <department id="76">
+          <name>SLEEPWEAR</name>
+        </department>
+        <class id="429">
+          <name>KNIT SLEEPWEAR</name>
+        </class>
+      </product>
+      <photos>
+        <photo type="sample">
+          <file>
+            <name>
+              <prefix>2100014_362418_X_385</prefix>
+            </name>
+          </file>
+          <instructions>Need date vendor expects to ship sample. Attatch copy of CAR to sample. Thanks!</instructions>
+          <samples>
+            <sample id="849" type="product">
+              <color code="385">
+                <name>Sage with Pink and Lilac Flowers</name>
+              </color>
+              <returnRequested>N</returnRequested>
+              <returnInformation>
+                <shippingAccount carrier="UPS"/>
+              </returnInformation>
+            </sample>
+          </samples>
+        </photo>
+      </photos>
+    </productPhotoRequest>
+    <productPhotoRequest>
+      <car id="562"/>
+      <product type="Sleepwear">
+        <name>Knit Short Sleeve Gown</name>
+        <vendor id="2100014">
+          <name>MISS ELAINE</name>
+        </vendor>
+        <style id="502428"/>
+        <department id="76">
+          <name>SLEEPWEAR</name>
+        </department>
+        <class id="429">
+          <name>KNIT SLEEPWEAR</name>
+        </class>
+      </product>
+      <photos>
+        <photo type="sample">
+          <file>
+            <name>
+              <prefix>2100014_502428_X_677</prefix>
+            </name>
+          </file>
+          <instructions>Need date the vendor expects to ship sample. Thanks!</instructions>
+          <samples>
+            <sample id="893" type="product">
+              <color code="677">
+                <name>Peach</name>
+              </color>
+              <returnRequested>N</returnRequested>
+              <returnInformation>
+                <shippingAccount carrier="UPS"/>
+              </returnInformation>
+            </sample>
+          </samples>
+        </photo>
+        <photo type="sample">
+          <file>
+            <name>
+              <prefix>2100014_502428_X_449</prefix>
+            </name>
+          </file>
+          <instructions>Need date the vendor expects to ship sample. Thanks!</instructions>
+          <samples>
+            <sample id="894" type="swatch">
+              <color code="449">
+                <name>Aqua </name>
+              </color>
+              <returnRequested>N</returnRequested>
+              <returnInformation>
+                <shippingAccount carrier="UPS"/>
+              </returnInformation>
+            </sample>
+          </samples>
+        </photo>
+      </photos>
+    </productPhotoRequest>
+    <productPhotoRequest>
+      <car id="791"/>
+      <product type="Sleepwear">
+        <name>Bridal Satin Jacquard Chemise</name>
+        <vendor id="2100359">
+          <name>JONES NEW YORK/MADISON MAIDENS</name>
+        </vendor>
+        <style id="1J248C"/>
+        <department id="77">
+          <name>SLEEPWR COLL</name>
+        </department>
+        <class id="434">
+          <name>SATIN</name>
+        </class>
+      </product>
+      <photos>
+        <photo type="sample">
+          <file>
+            <name>
+              <prefix>2100359_1J248C_X_108</prefix>
+            </name>
+          </file>
+          <samples>
+            <sample id="1362" type="product">
+              <color code="108">
+                <name>Ivory</name>
+              </color>
+              <returnRequested>Y</returnRequested>
+              <returnInformation>
+                <shippingAccount carrier="UPS"/>
+                <instructions>Shipping address:  Madison Maidens, Inc. &#xd;
+     6400 Fleet street,       &#xd;
+                               Commerce CA. 90040&#xd;
+</instructions>
+              </returnInformation>
+            </sample>
+          </samples>
+        </photo>
+      </photos>
+    </productPhotoRequest>
+    <productPhotoRequest>
+      <car id="795"/>
+      <product type="Sleepwear">
+        <name>Bridal Jacquard Long Gown</name>
+        <vendor id="2100359">
+          <name>JONES NEW YORK/MADISON MAIDENS</name>
+        </vendor>
+        <style id="1J248G"/>
+        <department id="77">
+          <name>SLEEPWR COLL</name>
+        </department>
+        <class id="434">
+          <name>SATIN</name>
+        </class>
+      </product>
+      <photos>
+        <photo type="sample">
+          <file>
+            <name>
+              <prefix>2100359_1J248G_X_108</prefix>
+            </name>
+          </file>
+          <samples>
+            <sample id="1356" type="product">
+              <color code="108">
+                <name>Ivory</name>
+              </color>
+              <returnRequested>Y</returnRequested>
+              <returnInformation>
+                <shippingAccount carrier="UPS"/>
+                <instructions>Shipping address:  Madison Maidens, Inc. &#xd;
+     6400 Fleet street,       &#xd;
+                               Commerce CA. 90040&#xd;
+</instructions>
+                <instructions>Account # : 912428</instructions>
+              </returnInformation>
+            </sample>
+          </samples>
+        </photo>
+      </photos>
+    </productPhotoRequest>
+    <productPhotoRequest>
+      <car id="808"/>
+      <product type="Sleepwear">
+        <name>Bridal Jacquard Long Wrap</name>
+        <vendor id="2100359">
+          <name>JONES NEW YORK/MADISON MAIDENS</name>
+        </vendor>
+        <style id="1J248R"/>
+        <department id="77">
+          <name>SLEEPWR COLL</name>
+        </department>
+        <class id="434">
+          <name>SATIN</name>
+        </class>
+      </product>
+      <photos>
+        <photo type="sample">
+          <file>
+            <name>
+              <prefix>2100359_1J248R_X_108</prefix>
+            </name>
+          </file>
+          <samples>
+            <sample id="1329" type="product">
+              <color code="108">
+                <name>Ivory</name>
+              </color>
+              <returnRequested>Y</returnRequested>
+              <returnInformation>
+                <shippingAccount carrier="UPS"/>
+                <instructions>Shipping address:  Madison Maidens, Inc. &#xd;
+     6400 Fleet street,       &#xd;
+                               Commerce CA. 90040&#xd;
+</instructions>
+                <instructions>Account # : 912428</instructions>
+              </returnInformation>
+            </sample>
+          </samples>
+        </photo>
+      </photos>
+    </productPhotoRequest>
+    <productPhotoRequest>
+      <car id="816"/>
+      <product type="Sleepwear">
+        <name>Bridal Satin Jacquard Short Wrap</name>
+        <vendor id="2100359">
+          <name>JONES NEW YORK/MADISON MAIDENS</name>
+        </vendor>
+        <style id="1J248W"/>
+        <department id="77">
+          <name>SLEEPWR COLL</name>
+        </department>
+        <class id="434">
+          <name>SATIN</name>
+        </class>
+      </product>
+      <photos>
+        <photo type="sample">
+          <file>
+            <name>
+              <prefix>2100359_1J248W_X_108</prefix>
+            </name>
+          </file>
+          <samples>
+            <sample id="1370" type="product">
+              <color code="108">
+                <name>Ivory</name>
+              </color>
+              <returnRequested>Y</returnRequested>
+              <returnInformation>
+                <shippingAccount carrier="UPS"/>
+                <instructions>Shipping address:  Madison Maidens, Inc. &#xd;
+     6400 Fleet street,       &#xd;
+                               Commerce CA. 90040&#xd;
+</instructions>
+                <instructions>Account # : 912428</instructions>
+              </returnInformation>
+            </sample>
+          </samples>
+        </photo>
+      </photos>
+    </productPhotoRequest>
+    <productPhotoRequest>
+      <car id="840"/>
+      <product type="Sleepwear">
+        <name>Classic Long Sleeve Satin Pajama</name>
+        <vendor id="2100359">
+          <name>JONES NEW YORK/MADISON MAIDENS</name>
+        </vendor>
+        <style id="1J638L"/>
+        <department id="77">
+          <name>SLEEPWR COLL</name>
+        </department>
+        <class id="434">
+          <name>SATIN</name>
+        </class>
+      </product>
+      <photos>
+        <photo type="sample">
+          <file>
+            <name>
+              <prefix>2100359_1J638L_X_001</prefix>
+            </name>
+          </file>
+          <instructions>Swatches must be 6&quot;X6&quot;</instructions>
+          <samples>
+            <sample id="1313" type="swatch">
+              <color code="001">
+                <name>Black</name>
+              </color>
+              <returnRequested>Y</returnRequested>
+              <returnInformation>
+                <shippingAccount carrier="UPS"/>
+                <instructions>Shipping address:  Madison Maidens, Inc. &#xd;
+     6400 Fleet street,       &#xd;
+                               Commerce CA. 90040&#xd;
+</instructions>
+                <instructions>Account # : 912428</instructions>
+              </returnInformation>
+            </sample>
+          </samples>
+        </photo>
+        <photo type="sample">
+          <file>
+            <name>
+              <prefix>2100359_1J638L_X_600</prefix>
+            </name>
+          </file>
+          <instructions>Swatches must be 6&quot;X6&quot;</instructions>
+          <samples>
+            <sample id="1314" type="product">
+              <color code="600">
+                <name>Red</name>
+              </color>
+              <returnRequested>Y</returnRequested>
+              <returnInformation>
+                <shippingAccount carrier="UPS"/>
+                <instructions>Shipping address:  Madison Maidens, Inc. &#xd;
+     6400 Fleet street,       &#xd;
+                               Commerce CA. 90040&#xd;
+</instructions>
+                <instructions>Account # : 912428</instructions>
+              </returnInformation>
+            </sample>
+          </samples>
+        </photo>
+      </photos>
+    </productPhotoRequest>
+  </productPhotoRequests>
+</carsMessage>

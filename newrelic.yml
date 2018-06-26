@@ -1,0 +1,8 @@
+common: &default_settings
+  enable_custom_tracing: true
+  log_level: debug
+  transaction_tracer: &default_settings
+    enabled: true
+    capture_attributes: true
+  rake:
+    tasks: [".+"]

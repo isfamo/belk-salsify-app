@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="http://www.demandware.com/xml/impex/catalog/2006-10-31" catalog-id="belk-master-catalog">
+  <product product-id="0400438076576">
+    <ean/>
+    <upc>3360372100522</upc>
+    <step-quantity>1</step-quantity>
+    <online-flag>true</online-flag>
+    <searchable-flag>true</searchable-flag>
+    <tax-class-id>Standard</tax-class-id>
+    <custom-attributes>
+      <custom-attribute attribute-id="size">00000_One Size</custom-attribute>
+      <custom-attribute attribute-id="color">002100634311</custom-attribute>
+      <custom-attribute attribute-id="omniSizeDesc">One Size</custom-attribute>
+      <custom-attribute attribute-id="refinementSize">One Size</custom-attribute>
+      <custom-attribute attribute-id="Vendor_State_Restrictions"/>
+      <custom-attribute attribute-id="Country of Origin"/>
+      <custom-attribute attribute-id="Launch Date"/>
+      <custom-attribute attribute-id="isGiftBoxEligible"/>
+      <custom-attribute attribute-id="sourcedDomestically"/>
+      <custom-attribute attribute-id="refinementColor">Black</custom-attribute>
+      <custom-attribute attribute-id="High_Value_Status"/>
+      <custom-attribute attribute-id="Max_Buy_Quantity"/>
+      <custom-attribute attribute-id="refinementSubSize"/>
+      <custom-attribute attribute-id="GXS_PDU_Content_Per_Consumer_Package"/>
+      <custom-attribute attribute-id="GXS_PDU_Consumer_Package_Length"/>
+      <custom-attribute attribute-id="GXS_PDU_Consumer_Package_Height"/>
+      <custom-attribute attribute-id="GXS_PDU_Consumer_Package_Width"/>
+      <custom-attribute attribute-id="GXS_PDU_Lead_Time"/>
+      <custom-attribute attribute-id="GXS_PDU_Available_Date"/>
+      <custom-attribute attribute-id="GXS_PDU_Consumer_Package_Volume"/>
+      <custom-attribute attribute-id="GXS_PDU_Brand_Type"/>
+      <custom-attribute attribute-id="GXS_PDU_Harmonized_Tariff_Schedule"/>
+      <custom-attribute attribute-id="GXS_PDU_Special_Item_Code"/>
+      <custom-attribute attribute-id="featuresAndBenefits"/>
+      <custom-attribute attribute-id="Item_Exchangeable"/>
+      <custom-attribute attribute-id="Item_Returnable"/>
+      <custom-attribute attribute-id="Ship_Alone"/>
+      <custom-attribute attribute-id="Surcharge_Flag"/>
+      <custom-attribute attribute-id="denominations"/>
+      <custom-attribute attribute-id="featuresAndBenefitsOverwrite"/>
+      <custom-attribute attribute-id="productDimensionsLength"/>
+      <custom-attribute attribute-id="productDimensionsHeight"/>
+      <custom-attribute attribute-id="productDimensionsWidth"/>
+      <custom-attribute attribute-id="productDimensionsUOM"/>
+      <custom-attribute attribute-id="shippingDimensionsUOM"/>
+      <custom-attribute attribute-id="productWeight"/>
+      <custom-attribute attribute-id="productWeightUOM"/>
+      <custom-attribute attribute-id="shippingDimensionsLength"/>
+      <custom-attribute attribute-id="shippingDimensionsHeight"/>
+      <custom-attribute attribute-id="shippingDimensionsWidth"/>
+      <custom-attribute attribute-id="shippingWeight"/>
+      <custom-attribute attribute-id="shippingWeightUOM"/>
+      <custom-attribute attribute-id="specialItemReturnMethod"/>
+      <custom-attribute attribute-id="shippingSizeProfile"/>
+      <custom-attribute attribute-id="GXS_PDU_Dress_Skirt_Length"/>
+      <custom-attribute attribute-id="GXS_PDU_Special_Handling_Code"/>
+      <custom-attribute attribute-id="GXS_PDU_Cancel_Date"/>
+      <custom-attribute attribute-id="Product_Shipping_Restrictions"/>
+    </custom-attributes>
+  </product>
+  <product product-id="0400438076583">
+    <ean/>
+    <upc>3360372100515</upc>
+    <step-quantity>1</step-quantity>
+    <online-flag>true</online-flag>
+    <searchable-flag>true</searchable-flag>
+    <tax-class-id>Standard</tax-class-id>
+    <custom-attributes>
+      <custom-attribute attribute-id="size">00000_One Size</custom-attribute>
+      <custom-attribute attribute-id="color">003100634310</custom-attribute>
+      <custom-attribute attribute-id="omniSizeDesc">One Size</custom-attribute>
+      <custom-attribute attribute-id="refinementSize">One Size</custom-attribute>
+      <custom-attribute attribute-id="Vendor_State_Restrictions"/>
+      <custom-attribute attribute-id="Country of Origin"/>
+      <custom-attribute attribute-id="Launch Date"/>
+      <custom-attribute attribute-id="isGiftBoxEligible"/>
+      <custom-attribute attribute-id="sourcedDomestically"/>
+      <custom-attribute attribute-id="refinementColor">Black</custom-attribute>
+      <custom-attribute attribute-id="High_Value_Status"/>
+      <custom-attribute attribute-id="Max_Buy_Quantity"/>
+      <custom-attribute attribute-id="refinementSubSize"/>
+      <custom-attribute attribute-id="GXS_PDU_Content_Per_Consumer_Package"/>
+      <custom-attribute attribute-id="GXS_PDU_Consumer_Package_Length"/>
+      <custom-attribute attribute-id="GXS_PDU_Consumer_Package_Height"/>
+      <custom-attribute attribute-id="GXS_PDU_Consumer_Package_Width"/>
+      <custom-attribute attribute-id="GXS_PDU_Lead_Time"/>
+      <custom-attribute attribute-id="GXS_PDU_Available_Date"/>
+      <custom-attribute attribute-id="GXS_PDU_Consumer_Package_Volume"/>
+      <custom-attribute attribute-id="GXS_PDU_Brand_Type"/>
+      <custom-attribute attribute-id="GXS_PDU_Harmonized_Tariff_Schedule"/>
+      <custom-attribute attribute-id="GXS_PDU_Special_Item_Code"/>
+      <custom-attribute attribute-id="featuresAndBenefits"/>
+      <custom-attribute attribute-id="Item_Exchangeable"/>
+      <custom-attribute attribute-id="Item_Returnable"/>
+      <custom-attribute attribute-id="Ship_Alone"/>
+      <custom-attribute attribute-id="Surcharge_Flag"/>
+      <custom-attribute attribute-id="denominations"/>
+      <custom-attribute attribute-id="featuresAndBenefitsOverwrite"/>
+      <custom-attribute attribute-id="productDimensionsLength"/>
+      <custom-attribute attribute-id="productDimensionsHeight"/>
+      <custom-attribute attribute-id="productDimensionsWidth"/>
+      <custom-attribute attribute-id="productDimensionsUOM"/>
+      <custom-attribute attribute-id="shippingDimensionsUOM"/>
+      <custom-attribute attribute-id="productWeight"/>
+      <custom-attribute attribute-id="productWeightUOM"/>
+      <custom-attribute attribute-id="shippingDimensionsLength"/>
+      <custom-attribute attribute-id="shippingDimensionsHeight"/>
+      <custom-attribute attribute-id="shippingDimensionsWidth"/>
+      <custom-attribute attribute-id="shippingWeight"/>
+      <custom-attribute attribute-id="shippingWeightUOM"/>
+      <custom-attribute attribute-id="specialItemReturnMethod"/>
+      <custom-attribute attribute-id="shippingSizeProfile"/>
+      <custom-attribute attribute-id="GXS_PDU_Dress_Skirt_Length"/>
+      <custom-attribute attribute-id="GXS_PDU_Special_Handling_Code"/>
+      <custom-attribute attribute-id="GXS_PDU_Cancel_Date"/>
+      <custom-attribute attribute-id="Product_Shipping_Restrictions"/>
+    </custom-attributes>
+  </product>
+  <product product-id="0400509537661">
+    <ean/>
+    <upc>3360375006432</upc>
+    <step-quantity>1</step-quantity>
+    <online-flag>true</online-flag>
+    <searchable-flag>true</searchable-flag>
+    <tax-class-id>Standard</tax-class-id>
+    <custom-attributes>
+      <custom-attribute attribute-id="size">00000_One Size</custom-attribute>
+      <custom-attribute attribute-id="color">001100635324</custom-attribute>
+      <custom-attribute attribute-id="omniSizeDesc">One Size</custom-attribute>
+      <custom-attribute attribute-id="refinementSize">One Size</custom-attribute>
+      <custom-attribute attribute-id="Vendor_State_Restrictions"/>
+      <custom-attribute attribute-id="Country of Origin"/>
+      <custom-attribute attribute-id="Launch Date"/>
+      <custom-attribute attribute-id="isGiftBoxEligible"/>
+      <custom-attribute attribute-id="sourcedDomestically"/>
+      <custom-attribute attribute-id="refinementColor">Black</custom-attribute>
+      <custom-attribute attribute-id="High_Value_Status"/>
+      <custom-attribute attribute-id="Max_Buy_Quantity"/>
+      <custom-attribute attribute-id="refinementSubSize"/>
+      <custom-attribute attribute-id="GXS_PDU_Content_Per_Consumer_Package"/>
+      <custom-attribute attribute-id="GXS_PDU_Consumer_Package_Length"/>
+      <custom-attribute attribute-id="GXS_PDU_Consumer_Package_Height"/>
+      <custom-attribute attribute-id="GXS_PDU_Consumer_Package_Width"/>
+      <custom-attribute attribute-id="GXS_PDU_Lead_Time"/>
+      <custom-attribute attribute-id="GXS_PDU_Available_Date"/>
+      <custom-attribute attribute-id="GXS_PDU_Consumer_Package_Volume"/>
+      <custom-attribute attribute-id="GXS_PDU_Brand_Type"/>
+      <custom-attribute attribute-id="GXS_PDU_Harmonized_Tariff_Schedule"/>
+      <custom-attribute attribute-id="GXS_PDU_Special_Item_Code"/>
+      <custom-attribute attribute-id="featuresAndBenefits"/>
+      <custom-attribute attribute-id="Item_Exchangeable"/>
+      <custom-attribute attribute-id="Item_Returnable"/>
+      <custom-attribute attribute-id="Ship_Alone"/>
+      <custom-attribute attribute-id="Surcharge_Flag"/>
+      <custom-attribute attribute-id="denominations"/>
+      <custom-attribute attribute-id="featuresAndBenefitsOverwrite"/>
+      <custom-attribute attribute-id="productDimensionsLength"/>
+      <custom-attribute attribute-id="productDimensionsHeight"/>
+      <custom-attribute attribute-id="productDimensionsWidth"/>
+      <custom-attribute attribute-id="productDimensionsUOM"/>
+      <custom-attribute attribute-id="shippingDimensionsUOM"/>
+      <custom-attribute attribute-id="productWeight"/>
+      <custom-attribute attribute-id="productWeightUOM"/>
+      <custom-attribute attribute-id="shippingDimensionsLength"/>
+      <custom-attribute attribute-id="shippingDimensionsHeight"/>
+      <custom-attribute attribute-id="shippingDimensionsWidth"/>
+      <custom-attribute attribute-id="shippingWeight"/>
+      <custom-attribute attribute-id="shippingWeightUOM"/>
+      <custom-attribute attribute-id="specialItemReturnMethod"/>
+      <custom-attribute attribute-id="shippingSizeProfile"/>
+      <custom-attribute attribute-id="GXS_PDU_Dress_Skirt_Length"/>
+      <custom-attribute attribute-id="GXS_PDU_Special_Handling_Code"/>
+      <custom-attribute attribute-id="GXS_PDU_Cancel_Date"/>
+      <custom-attribute attribute-id="Product_Shipping_Restrictions"/>
+    </custom-attributes>
+  </product>
+  <product product-id="5900127CODEF6920VY">
+    <ean/>
+    <upc/>
+    <step-quantity/>
+    <display-name/>
+    <online-flag>true</online-flag>
+    <searchable-flag>true</searchable-flag>
+    <images>
+      <image-group view-type="imageURL">
+        <image path="http://s7d4.scene7.com/is/image/Belk?layer=0&amp;src=BACKGROUND002&amp;layer=1&amp;src=5900127_0210051_A_000_T2B2L01&amp;layer=comp&amp;"/>
+      </image-group>
+      <image-group view-type="swatch">
+        <image path="http://s7d4.scene7.com/is/image/Belk?layer=0&amp;src=BACKGROUND002&amp;anchor=0,0&amp;crop=701,1486,376,376&amp;layer=1&amp;src=5900127_0210051_A_000_T2B2L01&amp;anchor=0,0&amp;layer=comp&amp;"/>
+      </image-group>
+    </images>
+    <tax-class-id>Standard</tax-class-id>
+    <brand>Giorgio Armani</brand>
+    <sitemap-included-flag/>
+    <custom-attributes>
+      <custom-attribute attribute-id="isMaster">true</custom-attribute>
+      <custom-attribute attribute-id="className"/>
+      <custom-attribute attribute-id="groupingType">RCG</custom-attribute>
+      <custom-attribute attribute-id="iphCategory"/>
+      <custom-attribute attribute-id="channelExclusive"/>
+      <custom-attribute attribute-id="Vendor_State_Restrictions"/>
+      <custom-attribute attribute-id="Country of Origin"/>
+      <custom-attribute attribute-id="deptName"/>
+      <custom-attribute attribute-id="High_Value_Status"/>
+      <custom-attribute attribute-id="conversionFlag">true</custom-attribute>
+      <custom-attribute attribute-id="supplierDirectFulfillment"/>
+      <custom-attribute attribute-id="CA Prop 65 Compliant"/>
+      <custom-attribute attribute-id="featuresAndBenefits"/>
+      <custom-attribute attribute-id="discontinuedDate"/>
+      <custom-attribute attribute-id="poBoxShippable"/>
+      <custom-attribute attribute-id="featuresAndBenefitsOverwrite"/>
+      <custom-attribute attribute-id="splitColorEligible"/>
+    </custom-attributes>
+    <product-set-products>
+      <product-set-product product-id="59010520210052"/>
+      <product-set-product product-id="59001272500643"/>
+      <product-set-product product-id="59001270210051"/>
+    </product-set-products>
+  </product>
+  <product product-id="59001270210051">
+    <ean/>
+    <upc/>
+    <step-quantity/>
+    <display-name/>
+    <online-flag>true</online-flag>
+    <searchable-flag>true</searchable-flag>
+    <images>
+      <image-group view-type="imageURL">
+        <image path="http://s7d4.scene7.com/is/image/Belk?layer=0&amp;src=BACKGROUND002&amp;layer=1&amp;src=5900127_0210051_A_000_T2B2L01&amp;layer=comp&amp;"/>
+      </image-group>
+      <image-group view-type="imageURL" variation-value="003100634310">
+        <image path="http://s7d4.scene7.com/is/image/Belk?layer=0&amp;src=BACKGROUND002&amp;layer=1&amp;src=5900127_0210051_A_000_T2B2L01&amp;layer=comp&amp;"/>
+      </image-group>
+      <image-group view-type="swatch" variation-value="003100634310">
+        <image path="http://s7d4.scene7.com/is/image/Belk?layer=0&amp;src=BACKGROUND002&amp;anchor=0,0&amp;crop=701,1486,376,376&amp;layer=1&amp;src=5900127_0210051_A_000_T2B2L01&amp;anchor=0,0&amp;layer=comp&amp;"/>
+      </image-group>
+    </images>
+    <tax-class-id>Standard</tax-class-id>
+    <brand>Giorgio Armani</brand>
+    <sitemap-included-flag>false</sitemap-included-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="isMaster">true</custom-attribute>
+      <custom-attribute attribute-id="className"/>
+      <custom-attribute attribute-id="groupingType"/>
+      <custom-attribute attribute-id="iphCategory"/>
+      <custom-attribute attribute-id="channelExclusive"/>
+      <custom-attribute attribute-id="Vendor_State_Restrictions"/>
+      <custom-attribute attribute-id="Country of Origin"/>
+      <custom-attribute attribute-id="deptName"/>
+      <custom-attribute attribute-id="High_Value_Status"/>
+      <custom-attribute attribute-id="conversionFlag">true</custom-attribute>
+      <custom-attribute attribute-id="supplierDirectFulfillment"/>
+      <custom-attribute attribute-id="CA Prop 65 Compliant"/>
+      <custom-attribute attribute-id="featuresAndBenefits"/>
+      <custom-attribute attribute-id="discontinuedDate"/>
+      <custom-attribute attribute-id="poBoxShippable"/>
+      <custom-attribute attribute-id="featuresAndBenefitsOverwrite"/>
+      <custom-attribute attribute-id="splitColorEligible"/>
+    </custom-attributes>
+    <variations>
+      <attributes>
+        <variation-attribute attribute-id="color" variation-attribute-id="color">
+          <display-name xml:lang="x-default">color</display-name>
+          <variation-attribute-values>
+            <variation-attribute-value value="003100634310">
+              <display-value xml:lang="x-default">No Color</display-value>
+            </variation-attribute-value>
+          </variation-attribute-values>
+        </variation-attribute>
+        <variation-attribute attribute-id="size" variation-attribute-id="size">
+          <display-name xml:lang="x-default">size</display-name>
+          <variation-attribute-values>
+            <variation-attribute-value value="00000_One Size">
+              <display-value xml:lang="x-default">One Size</display-value>
+            </variation-attribute-value>
+          </variation-attribute-values>
+        </variation-attribute>
+      </attributes>
+      <variants>
+        <variant product-id="0400438076583"/>
+      </variants>
+    </variations>
+  </product>
+</catalog>

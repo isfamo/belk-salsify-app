@@ -1,0 +1,31 @@
+[
+  {
+    "header": {
+      "version": "2013-04",
+      "scope": [
+        {
+          "products": [
+            "product_id"
+          ]
+        }
+      ],
+      "mode": "truncate"
+    }
+  },
+  {
+    "products": [
+      {
+        "product_id": "0438566844569",
+        "salsify:parent_id": "1802975ZS1330K0004"
+      },
+      {
+        "product_id": "0438566844620",
+        "salsify:parent_id": "1802975ZS1330K0004"
+      },
+      {
+        "product_id": "0438566844651",
+        "salsify:parent_id": "1802975ZS1330K0004"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2 @@
+class RrdCarId < ApplicationRecord
+end

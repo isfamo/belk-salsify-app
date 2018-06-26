@@ -1,0 +1,63 @@
+<carsMessage from="CARS" to="RRD" type="photoRequests">
+  <productPhotoRequests>
+    <productPhotoRequest>
+      <car id="719497"/>
+      <product type="Mens Pants">
+        <name>5 Pocket Stretch Twill Pants</name>
+        <vendor id="3203489">
+          <name>OCEAN &amp; COAST/GENERAL SPORTSWEAR</name>
+        </vendor>
+        <style id="POCKE3617U2"/>
+        <brand>Ocean &amp; Coast&amp;reg;</brand>
+        <department code="365">
+          <name>OCEAN &amp; COAST</name>
+        </department>
+        <class id="2572">
+          <name>PANTS</name>
+        </class>
+      </product>
+      <photos>
+        <photo type="sample">
+          <file>
+            <OForSLvalue>SL</OForSLvalue>
+            <name>
+              <prefix>3203489_9951_X_270</prefix>
+            </name>
+          </file>
+          <samples>
+            <sample id="1294453" type="swatch">
+              <color code="270">
+                <name>Light Khaki</name>
+              </color>
+              <returnRequested>N</returnRequested>
+              <returnInformation>
+                <shippingAccount carrier="UPS"/>
+              </returnInformation>
+              <silhouetteRequired>N</silhouetteRequired>
+            </sample>
+          </samples>
+        </photo>
+        <photo type="sample">
+          <file>
+            <OForSLvalue>SL</OForSLvalue>
+            <name>
+              <prefix>3203489_9954_X_214</prefix>
+            </name>
+          </file>
+          <samples>
+            <sample id="1294454" type="swatch">
+              <color code="214">
+                <name>Medium Brown</name>
+              </color>
+              <returnRequested>N</returnRequested>
+              <returnInformation>
+                <shippingAccount carrier="UPS"/>
+              </returnInformation>
+              <silhouetteRequired>N</silhouetteRequired>
+            </sample>
+          </samples>
+        </photo>
+      </photos>
+    </productPhotoRequest>
+  </productPhotoRequests>
+</carsMessage>

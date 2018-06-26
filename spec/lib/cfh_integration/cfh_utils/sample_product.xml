@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product product-id="1802975ZS1330K0004">
+    <ean/>
+    <upc/>
+    <unit/>
+    <min-order-quantity>1</min-order-quantity>
+    <step-quantity>1</step-quantity>
+    <display-name xml:lang="x-default">Plus Size Roadtrip Screen Tank</display-name>
+    <short-description xml:lang="x-default">Screen print on front of tank, sleeveless</short-description>
+    <long-description xml:lang="x-default">A super sleek screen print and face-framing crew neck make this laid-back knit tank the star of any wardrobe. A flattering silhouette and comfortable feel ensure the off-duty staple is ideal for day-long wear.</long-description>
+    <online-flag>true</online-flag>
+    <available-flag>true</available-flag>
+    <searchable-flag>true</searchable-flag>
+    <images>
+      <image-group view-type="imageURL" variation-value="157282522375">
+        <image path="/is/image/Belk?layer=0&amp;src=1802975_ZS1330K0004_A_157_T10L00&amp;layer=comp&amp;"/>
+        <image path="/is/image/Belk?layer=0&amp;src=1802975_ZS1330K0004_B_157_T10L00&amp;layer=comp&amp;"/>
+      </image-group>
+      <image-group view-type="swatch" variation-value="157282522375">
+        <image path="/is/image/Belk?layer=0&amp;src=1802975_ZS1330K0004_A_157_T10L00&amp;crop=870,1338,150,150&amp;layer=comp&amp;"/>
+      </image-group>
+    </images>
+    <tax-class-id>Standard</tax-class-id>
+    <brand>H.I.P</brand>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="Activewear" xml:lang="x-default">No</custom-attribute>
+      <custom-attribute attribute-id="Care" xml:lang="x-default">
+        <value>Machine washable, gentle cycle</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Closure_Type" xml:lang="x-default">
+        <value>Pullover</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Fabric" xml:lang="x-default">
+        <value>Knit</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Faux_Fur" xml:lang="x-default">
+        <value>No</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Fur_RN_Number_or_Distributor" xml:lang="x-default">
+        <value>N/A</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Fur_animal_name" xml:lang="x-default">
+        <value>N/A</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Fur_country_of_origin" xml:lang="x-default">
+        <value>N/A</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Fur_treatment" xml:lang="x-default">
+        <value>N/A</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Garment_Length" xml:lang="x-default">
+        <value>Approx. 32-in. L</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Hem_Length" xml:lang="x-default">
+        <value>Hips</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Lining_Type" xml:lang="x-default">Unlined</custom-attribute>
+      <custom-attribute attribute-id="Material" xml:lang="x-default">Cotton/Spandex</custom-attribute>
+      <custom-attribute attribute-id="Neckline" xml:lang="x-default">Crew neck</custom-attribute>
+      <custom-attribute attribute-id="Pockets" xml:lang="x-default">No</custom-attribute>
+      <custom-attribute attribute-id="Sleeve_Length" xml:lang="x-default">
+        <value>Sleeveless</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Sleeve_Style" xml:lang="x-default">
+        <value>Sleeveless</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Special_Sizes" xml:lang="x-default">Plus</custom-attribute>
+      <custom-attribute attribute-id="Tag_Free" xml:lang="x-default">No</custom-attribute>
+      <custom-attribute attribute-id="belkExclusive" xml:lang="x-default">No</custom-attribute>
+      <custom-attribute attribute-id="channelExclusive" xml:lang="x-default">Store and Ecomm</custom-attribute>
+      <custom-attribute attribute-id="classNumber" xml:lang="x-default">1803</custom-attribute>
+      <custom-attribute attribute-id="copyCAProp65Compliant" xml:lang="x-default">T</custom-attribute>
+      <custom-attribute attribute-id="copyCare" xml:lang="x-default">Machine washable</custom-attribute>
+      <custom-attribute attribute-id="copyExclusive" xml:lang="x-default">No</custom-attribute>
+      <custom-attribute attribute-id="copyImportDomestic" xml:lang="x-default">Import</custom-attribute>
+      <custom-attribute attribute-id="copyLine1" xml:lang="x-default">Approximately 32-in. L</custom-attribute>
+      <custom-attribute attribute-id="copyLine2" xml:lang="x-default">Pullover</custom-attribute>
+      <custom-attribute attribute-id="copyLine3" xml:lang="x-default">Crew neck</custom-attribute>
+      <custom-attribute attribute-id="copyLine4" xml:lang="x-default">Sleeveless</custom-attribute>
+      <custom-attribute attribute-id="copyLine5" xml:lang="x-default">Unlined</custom-attribute>
+      <custom-attribute attribute-id="copyMaterial" xml:lang="x-default">Cotton, spandex</custom-attribute>
+      <custom-attribute attribute-id="defaultSkuCode" xml:lang="x-default">0438566844620</custom-attribute>
+      <custom-attribute attribute-id="demandCtr" xml:lang="x-default">163</custom-attribute>
+      <custom-attribute attribute-id="deptNumber" xml:lang="x-default">38</custom-attribute>
+      <custom-attribute attribute-id="iphCategory" xml:lang="x-default">Item_Primary_Hierarchy///4557-Juniors///4610-Tops///4614-Tanks_and_Camisoles</custom-attribute>
+      <custom-attribute attribute-id="isGWP" xml:lang="x-default">No</custom-attribute>
+      <custom-attribute attribute-id="isPWP" xml:lang="x-default">No</custom-attribute>
+      <custom-attribute attribute-id="isPYG" xml:lang="x-default">No</custom-attribute>
+      <custom-attribute attribute-id="mirVendorNumber" xml:lang="x-default">1802975</custom-attribute>
+      <custom-attribute attribute-id="orin" xml:lang="x-default">282522375</custom-attribute>
+      <custom-attribute attribute-id="productCopyText" xml:lang="x-default">A super sleek screen print and face-framing crew neck make this laid-back knit tank the star of any wardrobe. A flattering silhouette and comfortable feel ensure the off-duty staple is ideal for day-long wear.</custom-attribute>
+      <custom-attribute attribute-id="styleNumber" xml:lang="x-default">ZS1330K0004</custom-attribute>
+      <custom-attribute attribute-id="vendorNumber" xml:lang="x-default">1802975</custom-attribute>
+    </custom-attributes>
+    <variations>
+      <attributes>
+        <variation-attribute attribute-id="size" variation-attribute-id="size">
+          <display-name xml:lang="x-default">size</display-name>
+          <variation-attribute-values>
+            <variation-attribute-value value="31006_1X">
+              <display-value xml:lang="x-default">1X</display-value>
+            </variation-attribute-value>
+            <variation-attribute-value value="31007_2X">
+              <display-value xml:lang="x-default">2X</display-value>
+            </variation-attribute-value>
+            <variation-attribute-value value="31008_3X">
+              <display-value xml:lang="x-default">3X</display-value>
+            </variation-attribute-value>
+          </variation-attribute-values>
+        </variation-attribute>
+        <variation-attribute attribute-id="color" variation-attribute-id="color">
+          <display-name xml:lang="x-default">color</display-name>
+          <variation-attribute-values>
+            <variation-attribute-value value="157282522375">
+              <display-value xml:lang="x-default">Ivory</display-value>
+            </variation-attribute-value>
+          </variation-attribute-values>
+        </variation-attribute>
+      </attributes>
+      <variants>
+        <variant product-id="0438566844569"/>
+        <variant product-id="0438566844620"/>
+        <variant product-id="0438566844651"/>
+      </variants>
+    </variations>
+    <pinterest-enabled-flag>false</pinterest-enabled-flag>
+    <facebook-enabled-flag>false</facebook-enabled-flag>
+  </product>
+  <product product-id="0438566844569">
+    <ean/>
+    <upc>0190172240493</upc>
+    <unit/>
+    <min-order-quantity>1</min-order-quantity>
+    <step-quantity>1</step-quantity>
+    <online-flag>true</online-flag>
+    <available-flag>true</available-flag>
+    <searchable-flag>true</searchable-flag>
+    <tax-class-id>Standard</tax-class-id>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="color">157282522375</custom-attribute>
+      <custom-attribute attribute-id="isGiftBoxEligible" xml:lang="x-default">Yes</custom-attribute>
+      <custom-attribute attribute-id="nrfColorCode" xml:lang="x-default">157</custom-attribute>
+      <custom-attribute attribute-id="nrfSizeCode" xml:lang="x-default">31006</custom-attribute>
+      <custom-attribute attribute-id="omniChannelColorDescription" xml:lang="x-default">Ivory</custom-attribute>
+      <custom-attribute attribute-id="omniSizeDesc" xml:lang="x-default">1X</custom-attribute>
+      <custom-attribute attribute-id="refinementColor" xml:lang="x-default">
+        <value>White</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="refinementSize" xml:lang="x-default">
+        <value>1X</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="size">31006_1X</custom-attribute>
+      <custom-attribute attribute-id="skuActiveStartDate" xml:lang="x-default">2016-05-16</custom-attribute>
+      <custom-attribute attribute-id="skuOrin" xml:lang="x-default">282522391</custom-attribute>
+      <custom-attribute attribute-id="sourcedDomestically" xml:lang="x-default">Domestic</custom-attribute>
+    </custom-attributes>
+    <pinterest-enabled-flag>false</pinterest-enabled-flag>
+    <facebook-enabled-flag>false</facebook-enabled-flag>
+  </product>
+  <product product-id="0438566844620">
+    <ean/>
+    <upc>0190172240509</upc>
+    <unit/>
+    <min-order-quantity>1</min-order-quantity>
+    <step-quantity>1</step-quantity>
+    <online-flag>true</online-flag>
+    <available-flag>true</available-flag>
+    <searchable-flag>true</searchable-flag>
+    <tax-class-id>Standard</tax-class-id>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="color">157282522375</custom-attribute>
+      <custom-attribute attribute-id="isGiftBoxEligible" xml:lang="x-default">Yes</custom-attribute>
+      <custom-attribute attribute-id="nrfColorCode" xml:lang="x-default">157</custom-attribute>
+      <custom-attribute attribute-id="nrfSizeCode" xml:lang="x-default">31007</custom-attribute>
+      <custom-attribute attribute-id="omniChannelColorDescription" xml:lang="x-default">Ivory</custom-attribute>
+      <custom-attribute attribute-id="omniSizeDesc" xml:lang="x-default">2X</custom-attribute>
+      <custom-attribute attribute-id="refinementColor" xml:lang="x-default">
+        <value>White</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="refinementSize" xml:lang="x-default">
+        <value>2X</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="size">31007_2X</custom-attribute>
+      <custom-attribute attribute-id="skuActiveStartDate" xml:lang="x-default">2016-05-16</custom-attribute>
+      <custom-attribute attribute-id="skuOrin" xml:lang="x-default">282522412</custom-attribute>
+      <custom-attribute attribute-id="sourcedDomestically" xml:lang="x-default">Domestic</custom-attribute>
+    </custom-attributes>
+    <pinterest-enabled-flag>false</pinterest-enabled-flag>
+    <facebook-enabled-flag>false</facebook-enabled-flag>
+  </product>
+  <product product-id="0438566844651">
+    <ean/>
+    <upc>0190172240516</upc>
+    <unit/>
+    <min-order-quantity>1</min-order-quantity>
+    <step-quantity>1</step-quantity>
+    <online-flag>true</online-flag>
+    <available-flag>true</available-flag>
+    <searchable-flag>true</searchable-flag>
+    <tax-class-id>Standard</tax-class-id>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="color">157282522375</custom-attribute>
+      <custom-attribute attribute-id="isGiftBoxEligible" xml:lang="x-default">Yes</custom-attribute>
+      <custom-attribute attribute-id="nrfColorCode" xml:lang="x-default">157</custom-attribute>
+      <custom-attribute attribute-id="nrfSizeCode" xml:lang="x-default">31008</custom-attribute>
+      <custom-attribute attribute-id="omniChannelColorDescription" xml:lang="x-default">Ivory</custom-attribute>
+      <custom-attribute attribute-id="omniSizeDesc" xml:lang="x-default">3X</custom-attribute>
+      <custom-attribute attribute-id="refinementColor" xml:lang="x-default">
+        <value>White</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="refinementSize" xml:lang="x-default">
+        <value>3X</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="size">31008_3X</custom-attribute>
+      <custom-attribute attribute-id="skuActiveStartDate" xml:lang="x-default">2016-05-16</custom-attribute>
+      <custom-attribute attribute-id="skuOrin" xml:lang="x-default">282522447</custom-attribute>
+      <custom-attribute attribute-id="sourcedDomestically" xml:lang="x-default">Domestic</custom-attribute>
+    </custom-attributes>
+    <pinterest-enabled-flag>false</pinterest-enabled-flag>
+    <facebook-enabled-flag>false</facebook-enabled-flag>
+  </product>
+</products>

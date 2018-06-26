@@ -1,0 +1,33 @@
+{
+  "name": "belk-categories-treeview",
+  "version": "0.0.1",
+  "description": "Belk Categories Treeview ",
+  "author": "Emanuel Tise",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "scripts": {
+    "start": "lite-server",
+    "doc": "grunt ngdocs",
+    "karma": "karma start unit/karma.conf.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-ngdocs": "^0.2.10",
+    "http-proxy-middleware": "^0.17.1",
+    "lite-server": "^2.2.2",
+    "karma": "^1.2.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-cli": "^1.0.1",
+    "karma-coverage": "^1.1.1",
+    "karma-firefox-launcher": "^1.0.0",
+    "karma-jasmine": "^1.0.2",
+    "karma-ng-html2js-preprocessor": "^1.0.0",
+    "karma-phantomjs-launcher": "^1.0.1",
+    "karma-safari-launcher": "^1.0.0"
+  }
+}

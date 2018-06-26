@@ -1,0 +1,17 @@
+<catalog xmlns="http://www.demandware.com/xml/impex/catalog/2006-10-31" catalog-id="belk-master-catalog">
+  <product product-id="parent_two">
+    <custom-attributes>
+      <custom-attribute attribute-id="inventoryAvailDate">2016-12-12</custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="parent_three">
+    <custom-attributes>
+      <custom-attribute attribute-id="inventoryAvailDate">2016-12-12</custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="1654443JF67238JH00">
+  <custom-attributes>
+    <custom-attribute attribute-id="inventoryAvailDate">2016-12-12</custom-attribute>
+  </custom-attributes>
+</product>
+</catalog>

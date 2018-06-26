@@ -1,0 +1,2 @@
+class RrdDeletedImage < ApplicationRecord
+end

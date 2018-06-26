@@ -1,0 +1,67 @@
+ruby '2.5.0'
+source 'https://rubygems.org'
+
+source 'https://gems.salsify.com'
+#source 'https://repo.internal.salsify.com/api/gems/gems-salsify-restricted'
+
+gem 'amadeus', '~> 1.2.2'
+gem 'omniauth_salsify', '0.0.6'
+gem 'muffin', '~> 1.1.46'
+gem 'salsify', '~> 0.3.59'
+
+gem 'active_model_serializers'
+gem 'attr_encrypted'
+gem 'bugsnag', '~> 5.0.1'
+gem 'carrot-connector'
+gem 'delayed_job_active_record'
+gem 'delayed_job_worker_pool'
+gem 'fileutils'
+gem 'google_hash'
+gem 'google-auth'
+gem 'hashie'
+gem 'htmlentities'
+gem 'ice_nine', require: ['ice_nine', 'ice_nine/core_ext/object']
+gem 'postmark'
+gem 'puma', '~> 3.0'
+gem 'rails', '~> 5.0.0'
+gem 'require_all'
+gem 'rest-client', '~> 2.0.2'
+gem 'parallel'
+gem 'pg', '~> 0.21'
+gem 'roo'
+gem 'builder'
+gem 'net-ssh'
+gem 'newrelic_rpm'
+gem 'nokogiri'
+gem 'nokogiri-diff'
+gem 'rubytree'
+gem 'rubyzip'
+gem 'slack-ruby-client'
+gem 'sucker_punch'
+gem 'writeexcel'
+gem 'rubyXL'
+gem 'zlib'
+
+# CORS Requests for api.host.com
+gem 'rack-cors', :require => 'rack/cors'
+
+group :development, :test do
+  gem 'csv-diff-report'
+  gem 'database_cleaner'
+  gem 'equivalent-xml'
+  gem 'factory_girl_rails'
+  gem 'fake_ftp'
+  gem 'faker'
+  gem 'fivemat', '~> 1.3', '>= 1.3.1'
+  gem 'pry'
+  gem 'rspec-rails'
+  gem 'sqlite3'
+  gem 'timecop'
+end
+
+group :development do
+  gem 'dotenv-rails'
+  gem 'dotenv'
+  gem 'spring'
+  gem 'listen'
+end

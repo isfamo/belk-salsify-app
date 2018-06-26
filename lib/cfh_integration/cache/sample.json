@@ -1,0 +1,73 @@
+[
+  {
+    "header": {
+      "version": "2",
+      "scope": [
+        "all"
+      ]
+    }
+  },
+  {
+    "attributes": [
+      {
+        "salsify:id": "Product Name",
+        "salsify:name": "Product Name",
+        "salsify:data_type": "string",
+        "salsify:role": "product_name",
+        "salsify:entity_types": [
+          "products"
+        ],
+        "salsify:is_facetable": true,
+        "salsify:attribute_group": "Unassigned",
+        "salsify:position": null,
+        "salsify:help_text": null,
+        "salsify:created_at": "2016-09-23T17:14:35.877Z",
+        "salsify:updated_at": "2016-09-23T17:14:35.877Z"
+      },
+      {
+        "salsify:id": "Vendor Model #",
+        "salsify:name": "Vendor Model #",
+        "salsify:data_type": "string",
+        "salsify:role": "product_id",
+        "salsify:entity_types": [
+          "products"
+        ],
+        "salsify:is_facetable": true,
+        "salsify:attribute_group": "Unassigned",
+        "salsify:position": null,
+        "salsify:help_text": null,
+        "salsify:created_at": "2016-09-23T17:14:35.877Z",
+        "salsify:updated_at": "2016-09-23T17:14:35.877Z"
+      },
+      {
+        "salsify:id": "relation_type",
+        "salsify:name": "relation_type",
+        "salsify:data_type": "enumerated",
+        "salsify:role": "relation_type",
+        "salsify:entity_types": [],
+        "salsify:is_facetable": true,
+        "salsify:attribute_group": "Unassigned",
+        "salsify:position": null,
+        "salsify:help_text": null,
+        "salsify:created_at": "2016-09-23T17:14:35.918Z",
+        "salsify:updated_at": "2016-09-23T17:14:35.918Z"
+      }
+    ]
+  },
+  {
+    "attribute_values": []
+  },
+  {
+    "products": [
+      {
+        "salsify:id": "123456",
+        "salsify:created_at": "2016-09-23T17:14:36.617Z",
+        "salsify:updated_at": "2016-09-23T17:14:36.617Z",
+        "salsify:version": 0,
+        "salsify:profile_asset_id": null,
+        "Vendor Model #": "123456",
+        "Product Name": "Test Product - IGNORE ME"
+      }
+    ]
+  }
+]

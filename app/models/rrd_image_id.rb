@@ -1,0 +1,2 @@
+class RrdImageId < ApplicationRecord
+end

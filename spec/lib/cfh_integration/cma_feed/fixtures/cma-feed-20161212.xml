@@ -1,0 +1,59 @@
+<catalog xmlns="http://www.demandware.com/xml/impex/catalog/2006-10-31" catalog-id="belk-master-catalog">
+  <product product-id="0000400064110033">
+    <custom-attributes>
+      <custom-attribute attribute-id="eventCodeID">
+        <value>9873J</value>
+        <value>NEEF9</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="currentEventCodeID">
+        <value/>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="0000400418133299">
+    <custom-attributes>
+      <custom-attribute attribute-id="eventCodeID">
+        <value>P4824</value>
+        <value>CMA1SET</value>
+        <value>HUI00</value>
+        <value>CMA4POE</value>
+        <value>L6475</value>
+        <value>CMBBDDD</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="currentEventCodeID">
+        <value>P4824</value>
+        <value>CMA1SET</value>
+        <value>L6475</value>
+        <value>CMBBDDD</value>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="0000934724738746">
+    <custom-attributes>
+      <custom-attribute attribute-id="eventCodeID">
+        <value>H8976</value>
+        <value>CMA2OD9</value>
+        <value>W9786</value>
+        <value>JDW928J</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="currentEventCodeID">
+        <value>H8976</value>
+        <value>CMA2OD9</value>
+        <value>W9786</value>
+        <value>JDW928J</value>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="1654443JF67238JH00">
+    <custom-attributes>
+      <custom-attribute attribute-id="bonusEventCodeID">
+        <value>CMBBDDD</value>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="0000400063830978">
+    <custom-attributes>
+      <custom-attribute attribute-id="regularPrice">435</custom-attribute>
+    </custom-attributes>
+  </product>
+</catalog>

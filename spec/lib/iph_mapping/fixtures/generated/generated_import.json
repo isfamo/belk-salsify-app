@@ -1,0 +1,64 @@
+[
+  {
+    "header":{
+      "version":"2",
+      "scope":[
+        {
+          "products":"dynamic"
+        }
+      ],
+      "mode":"upsert"
+    }
+  },
+  {
+    "attributes":[]
+  },
+  {
+    "attribute_values":[]
+  },
+  {
+    "digital_assets":[]
+  },
+  {
+    "products":[
+      {
+        "Exterior Features":null,
+        "Closure Type":null,
+        "Hosiery Features":[
+          "High quality all weather fabric",
+          "Anti-fading"
+        ],
+        "Care":"These are rules for taking care of this product.",
+        "Closure Style":"Hook and loop closure",
+        "product_id":"1803388SKCA134195",
+        "Last IPH GXS Mapping":"Women > Pants_and_Leggings > Leggings",
+        "Last IPH GXS Mapping Date":"2017-12-18",
+        "Last IPH GXS Mapping Time":"133000"
+      },
+      {
+        "Exterior Features":null,
+        "Closure Type":null,
+        "GXS_PDU_Consumer_Package_Height":"10 IN",
+        "GXS_PDU_Consumer_Package_Length":"20 IN",
+        "GXS_PDU_Consumer_Package_Width":"30 IN",
+        "Advertised_Origin":"Import",
+        "product_id":"0438591202235",
+        "Last IPH GXS Mapping Date":"2017-12-18",
+        "Last IPH GXS Mapping Time":"133000",
+        "SKU Needs IPH Mapping":false
+      },
+      {
+        "Exterior Features":null,
+        "Closure Type":null,
+        "GXS_PDU_Consumer_Package_Height":"40 IN",
+        "GXS_PDU_Consumer_Package_Length":"50 IN",
+        "GXS_PDU_Consumer_Package_Width":"60 IN",
+        "Advertised_Origin":"Import",
+        "product_id":"0438591202266",
+        "Last IPH GXS Mapping Date":"2017-12-18",
+        "Last IPH GXS Mapping Time":"133000",
+        "SKU Needs IPH Mapping":false
+      }
+    ]
+  }
+]

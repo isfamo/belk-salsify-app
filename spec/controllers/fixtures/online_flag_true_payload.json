@@ -1,0 +1,30 @@
+{
+  "organization":{
+    "id":1234,
+    "name":"Org Update"
+  },
+  "alert":{
+    "id":4321,
+    "name":"Webhook Name",
+    "trigger_type":"change"
+  },
+  "products":[
+    {
+      "salsify:id": "handbags-accessories-womens-accessories-belts",
+      "salsify:created_at": "2017-02-22T19:57:01.749Z",
+      "salsify:updated_at": "2017-02-22T19:57:01.749Z",
+      "salsify:version": 0,
+      "salsify:profile_asset_id": null,
+      "salsify:system_id": "s-3fd70de8-e954-4b56-bbe9-09a0a2d04653",
+      "showInMenu": true,
+      "online-flag": true,
+      "product_id": "handbags-accessories-womens-accessories-belts",
+      "display_name": "Belts",
+      "Is Category Attribute?": true,
+      "grouping_condition": "Exclude",
+      "is_primary_category": "Yes",
+      "position": "28"
+    }
+  ],
+  "parent_products":[]
+}

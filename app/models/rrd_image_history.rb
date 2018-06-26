@@ -1,0 +1,2 @@
+class RrdImageHistory < ApplicationRecord
+end

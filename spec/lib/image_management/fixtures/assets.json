@@ -1,0 +1,24 @@
+[
+  {
+    "salsify:id": "0cdfa40aa71c477a82f9b5fdc1f95106efad8f4f",
+    "salsify:url": "http://images.salsify.com/image/upload/s--StUD48EL--/ddcxdt2yzujllvb5mzul.jpg",
+    "salsify:name": "CAMO ANTLER HOODIE_2.jpg",
+    "salsify:created_at": "2017-10-18T17:49:10.715Z",
+    "salsify:updated_at": "2018-01-05T14:44:15.530Z",
+    "salsify:status": "completed",
+    "salsify:asset_height": 586,
+    "salsify:asset_width": 413,
+    "salsify:asset_resource_type": "image",
+    "salsify:filename": "CAMO ANTLER HOODIE_2.jpg",
+    "salsify:bytes": 21913,
+    "salsify:format": "jpg",
+    "salsify:etag": "fc1cf704662dcb19129d4194ddd372f4",
+    "salsify:system_id": "s-63fafb0f-faa2-4fb2-93c5-809b8dc929f7",
+    "rrd_results": "RRD IMAGE 1002480: RRD CREATIVE CHECK: Approve",
+    "image_metadata": "{\"32033401290140_158\":{\"filename\":\"3203340_1290140_C_158.jpg\",\"approved\":false}}",
+    "Is 2 Weeks past Turn-In?": false,
+    "Has Multiple Default SKU Codes": false,
+    "Needs IPH Mapping": false,
+    "Link to Color Masters": "https://app.salsify.com/app/orgs/s-32763a66-fe5c-4731-ab82-4ee816668005/products?filter=%3D%27Parent%20Product%27%3A%27%27%2C%27Color%20Master%3F%27%3A%27true%27%3Aproduct_type%3Aleaf"
+  }
+]
